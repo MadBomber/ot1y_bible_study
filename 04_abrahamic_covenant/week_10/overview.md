@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 10** | Genesis 15–17
 
-## The Big Picture
+## Overview
 
 This is the week the covenant deepens from promise to oath, from word to ceremony, from declaration to blood. Abram, childless and aging, asks God how the promise can possibly be fulfilled when he has no heir. God takes him outside, points at the sky, and says, "Look toward heaven, and number the stars, if you are able to number them... So shall your offspring be" (Genesis 15:5). And then comes the sentence that Paul will call the foundation of the gospel: "And he believed the LORD, and he counted it to him as righteousness" (Genesis 15:6). Not works. Not circumcision. Not law-keeping. Belief — counted as righteousness.
 

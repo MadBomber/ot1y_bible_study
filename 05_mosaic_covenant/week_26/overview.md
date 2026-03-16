@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 26** | Numbers 15–36
 
-## The Big Picture
+## Overview
 
 The forty years of wandering are mostly silence. The Bible passes over them with a swiftness that is itself a judgment — the generation that refused to enter the land is not given a narrative. They are given a desert. But the episodes that *are* recorded form a relentless pattern: rebellion, judgment, mercy, rebellion again. Korah leads a coup against Moses' authority and the earth swallows him. The people grumble about the aftermath, and a plague kills 14,700. Aaron's rod buds — God's chosen mediator confirmed by a staff that sprouts almonds overnight.
 

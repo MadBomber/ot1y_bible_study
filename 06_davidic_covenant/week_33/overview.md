@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 33** | 1 Samuel 16–20
 
-## The Big Picture
+## Overview
 
 God sends Samuel to Bethlehem — to the house of a man named Jesse — to anoint the next king. Jesse parades his sons before the prophet. The eldest is tall and impressive. Samuel is certain: this must be the one. God corrects him with a sentence that redefines how leadership will be measured for the rest of Scripture: "Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart" (1 Samuel 16:7). Seven sons pass. None is chosen. Samuel asks if there are others. Jesse hesitates — the youngest is out tending sheep. No one thought to bring him. David arrives ruddy, with beautiful eyes, and the LORD says, "Arise, anoint him, for this is he" (1 Samuel 16:12). The Spirit of the LORD rushes upon David, and from that day forward, the Spirit departs from Saul.
 

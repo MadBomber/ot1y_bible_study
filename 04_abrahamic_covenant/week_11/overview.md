@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 11** | Genesis 18–20
 
-## The Big Picture
+## Overview
 
 Three visitors arrive at Abraham's tent by the oaks of Mamre, and what begins as an act of ancient Near Eastern hospitality becomes one of the most extraordinary theophanies in the Old Testament. The LORD himself is among the visitors. He reaffirms the promise of a son to Sarah, who laughs behind the tent flap — and is caught: "Is anything too hard for the LORD?" (Genesis 18:14). The question echoes forward through the entire Bible, from the barren wombs of the matriarchs to the virgin birth itself.
 

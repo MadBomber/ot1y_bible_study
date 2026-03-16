@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 17** | Exodus 1–4
 
-## The Big Picture
+## Overview
 
 Genesis ended with a coffin in Egypt and a promise that God would visit his people. Four hundred years pass in the space between Genesis 50 and Exodus 1 — and when the curtain rises, everything has changed. The seventy souls who came to Egypt as honored guests are now a slave labor force, and a new Pharaoh "who did not know Joseph" (Exodus 1:8) has turned the descendants of Abraham into bricks-and-mortar chattel. The more they are oppressed, the more they multiply — a detail the text presents as the fulfillment of the Abrahamic promise operating under impossible conditions. God's purposes do not require favorable circumstances. They require only God.
 

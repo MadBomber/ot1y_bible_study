@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Creation Covenant]]
 **Week 2** | Genesis 2
 
-## The Big Picture
+## Overview
 
 Genesis 1 showed God creating the cosmos from a distance — the view from eternity, panoramic and majestic. Genesis 2 changes the camera angle entirely. Now we are on the ground, close enough to see God's hands in the dirt. He forms a man from dust. He breathes into his nostrils. He plants a garden — not delegates the planting, but plants it himself. He places the man in it with a purpose ("to work it and keep it") and a boundary ("but of the tree of the knowledge of good and evil you shall not eat"). Then, in the only moment in all of creation where God declares something "not good," he observes the man's aloneness and builds a companion from his own side. The God of Genesis 2 is not the distant deity of philosophical speculation. He is intimate, hands-on, relational — a God who stoops.
 
@@ -44,6 +44,10 @@ The week closes with two passages that expand the creation portrait beyond Genes
 - **The boundary and the relationship** — God gives Adam freedom with a single limit. The prohibition is not arbitrary; it is relational. The tree represents the choice to trust God's definition of good and evil or to seize it for oneself. Every temptation since has been a variation of this one.
 - **"Not good" and the making of community** — The only "not good" in creation is aloneness. God's design is for relationship — with himself and with one another. The woman is not an afterthought but the completion of the picture, "a helper fit for him" (*ezer kenegdo* — a strength that corresponds).
 - **Wisdom at creation** — Proverbs 8 personifies Wisdom as present with God, delighting in creation. The New Testament identifies Christ as "the wisdom of God" (1 Corinthians 1:24). The Wisdom who rejoiced at creation is the Word through whom creation was made.
+
+## Christ in This Week
+
+The God who breathes life into Adam's nostrils is the same God who will breathe on his disciples and say, "Receive the Holy Spirit" (John 20:22). The God who plants a garden and walks in it will, after his resurrection, be mistaken for a gardener by a weeping woman at an empty tomb (John 20:15) — and the misidentification is truer than Mary Magdalene knows. The Sabbath rest God establishes on the seventh day finds its fulfillment in the one who says, "Come to me, all who labor and are heavy laden, and I will give you rest" (Matthew 11:28). The Wisdom of Proverbs 8 — present at creation, rejoicing beside the Creator, delighting in the children of man — is the same Word John identifies as the one "through whom all things were made" (John 1:3). And the marriage of Genesis 2 — "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh" (Genesis 2:24) — is the image Paul uses for the deepest mystery of the gospel: "This mystery is profound, and I am saying that it refers to Christ and the church" (Ephesians 5:32). The first wedding points to the last.
 
 ## [Memory Verse](memory_verse)
 

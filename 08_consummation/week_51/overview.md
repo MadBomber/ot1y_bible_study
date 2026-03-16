@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Consummation]]
 **Week 51** | Daniel 7–12, Zechariah 14
 
-## The Big Picture
+## Overview
 
 Daniel's visions reach farther into the future than any other prophetic texts in the Old Testament. Written from exile in Babylon, they describe a sequence of empires rising and falling — each more terrible than the last — until God intervenes with a kingdom that is not of human origin, not subject to human corruption, and not limited to a single nation or era. At the center of this vision stands a figure so extraordinary that Jesus will adopt his title as his own preferred self-designation: the Son of Man.
 

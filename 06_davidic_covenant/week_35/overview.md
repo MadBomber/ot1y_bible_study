@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 35** | 2 Samuel 1–10
 
-## The Big Picture
+## Overview
 
 Saul is dead. The path to the throne is open. But David does not celebrate — he mourns. His lament over Saul and Jonathan is one of the most achingly beautiful poems in the Old Testament: "How the mighty have fallen!" (2 Samuel 1:19). David weeps for the man who hunted him. He honors the king who tried to kill him. There is no triumphalism in this ascent — only grief, and then gradual, patient movement toward the crown God promised.
 

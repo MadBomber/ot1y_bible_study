@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 28** | Joshua 1–12
 
-## The Big Picture
+## Overview
 
 Moses is dead. The greatest figure in Israel's history is buried in an unmarked grave on the wrong side of the Jordan. And now God speaks to Joshua — and his first word is not comfort but command: "Moses my servant is dead. Now therefore arise, go over this Jordan" (Joshua 1:2). The time for mourning is over. The promise that has been traveling since Genesis 12 — "To your offspring I will give this land" — is about to be kept.
 

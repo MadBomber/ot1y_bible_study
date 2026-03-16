@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 29** | Joshua 13–24
 
-## The Big Picture
+## Overview
 
 The conquest is won but not complete. Joshua is old. Much of the land remains to be taken. And now God commands something that will take longer than a battle and require more faith than a siege: settle in. Live in the land. Divide it among the tribes. Inhabit the promise.
 

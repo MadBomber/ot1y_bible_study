@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 32** | 1 Samuel 9–15
 
-## The Big Picture
+## Overview
 
 The people wanted a king like all the nations, and God gives them exactly what they asked for. Saul is everything a king should look like: tall, handsome, from a prominent family, standing "head and shoulders above" everyone else (1 Samuel 9:2). He is Israel's king by appearance — chosen, in a sense, by the same criteria the world always uses. And for a brief, shining moment, it works. The Spirit of God rushes upon Saul. He prophesies among the prophets. He rallies Israel against the Ammonites at Jabesh-gilead and wins a decisive victory. Samuel presents him at Mizpah, and the people shout, "Long live the king!"
 

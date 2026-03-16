@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 43** | Isaiah, Jeremiah, Ezekiel
 
-## The Big Picture
+## Overview
 
 The prophets are not foretellers of the future. They are forthtellers of the truth — men called by God to stand before kings and nations and declare what is actually happening beneath the surface of events. They diagnose. They warn. They weep. They promise. And woven through every oracle, every vision, every judgment speech, is the thread that makes this study possible: they see someone coming. A servant. A king. A shepherd. A branch. A son of man. The prophets describe Christ from multiple angles, centuries before his birth, with a precision that only divine authorship can explain.
 

@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 36** | 2 Samuel 7, Psalms 2, 110
 
-## The Big Picture
+## Overview
 
 This week steps away from narrative to dwell in the royal psalms — the songs Israel wrote about its king, songs that reach so far beyond any human monarch that they could only be fully understood after the resurrection. These psalms are not wishful thinking. They are prophecy set to music. They describe a king who is simultaneously David's son and David's Lord, a ruler whose dominion extends to the ends of the earth, a priest-king who holds an office that predates Aaron and outlasts every dynasty. The early church recognized immediately that these psalms were about Jesus — and the New Testament quotes them more frequently than almost any other Old Testament texts.
 

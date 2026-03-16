@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 44** | Hosea–Malachi (selected)
 
-## The Big Picture
+## Overview
 
 The twelve "minor" prophets are minor only in length, never in significance. Together they form a chorus of voices spanning three centuries — from the prosperous days before the exile to the struggling years after the return — and every one of them has something to say about the God who judges, the God who loves, and the God who is coming.
 

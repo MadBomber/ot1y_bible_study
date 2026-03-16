@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 25** | Numbers 1–14
 
-## The Big Picture
+## Overview
 
 The book of Numbers opens with Israel camped at Sinai, organized and counted — 603,550 fighting men, arranged in precise formation around the tabernacle, with the Levites guarding the sacred space at the center. The picture is one of order, purpose, and readiness. God has redeemed this people, given them his law, built his dwelling among them, and now marshals them for the march to the Promised Land. Everything is in place. The cloud lifts. The trumpets sound. Israel moves.
 

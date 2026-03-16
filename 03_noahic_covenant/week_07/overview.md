@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Noahic Covenant]]
 **Week 7** | Genesis 9
 
-## The Big Picture
+## Overview
 
 Noah steps out of the ark into a world that looks like Genesis 1 all over again. The parallels are deliberate. God blesses Noah and his sons with the same words he spoke over Adam: "Be fruitful and multiply and fill the earth" (Genesis 9:1; cf. Genesis 1:28). Humanity is given a fresh start — a second creation, a new beginning. But this is not Eden restored. The differences are as significant as the similarities. Animals will now fear humans (Genesis 9:2). Humans may now eat meat — but not with the blood, "for the life of the flesh is in the blood" (cf. Leviticus 17:11). And for the first time, God institutes a penalty for murder: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image" (Genesis 9:6). The image of God still marks every human being — but the world in which that image exists is now a world that requires restraint, accountability, and the sober recognition that violence is not merely a social problem but an assault on the divine likeness.
 

@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Consummation]]
 **Week 50** | Isaiah 24–27, Joel 3, Malachi 4
 
-## The Big Picture
+## Overview
 
 The prophets do not end with the return from exile. They end with a vision that reaches past every historical event to a day that has not yet come — a day the Old Testament calls, with terrible weight, "the day of the LORD." This is not a comfortable phrase. It is a phrase that makes the earth tremble. The prophets use it to describe the moment when God stops waiting and starts finishing — when every injustice is addressed, every evil is destroyed, every promise is kept, and the distinction between the hidden God and the visible God disappears forever.
 

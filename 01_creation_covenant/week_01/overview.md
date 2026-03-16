@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Creation Covenant]]
 **Week 1** | Genesis 1
 
-## The Big Picture
+## Overview
 
 The Bible opens not with an argument for God's existence but with the announcement of his action. "In the beginning, God created the heavens and the earth." No defense. No proof. No preamble. Just a voice speaking into darkness, and light answering. This week you will read Genesis 1 slowly — not as a scientific treatise to be debated but as a theological declaration to be received. The chapter is structured with meticulous care: three days of forming, three days of filling, and a seventh day of rest. The repeated refrain "and God saw that it was good" is not a quality inspection — it is a revelation of character. The God who creates is a God of order, beauty, generosity, and delight. He does not need the world. He wants it.
 
@@ -43,6 +43,10 @@ The week closes with Israel's own reflection on creation in the Psalms. Psalm 33
 - **Creation by the Word** — "God said" appears ten times in Genesis 1. John 1:1-3 identifies this Word as Christ. The voice that separates light from darkness is the same voice that will say, "I am the light of the world" (John 8:12).
 - **Order and goodness** — Creation moves from formless to formed, from empty to full. Each stage is declared "good," and the completed whole is "very good." This is not a neutral assessment. It is the Creator's joy in what he has made.
 - **The image of God** — Humanity alone is made *in God's image* (*tselem*), given dominion and relationship with the Creator. Whatever else this phrase means — and theologians have debated it for millennia — it means that every human being carries something of God's own nature. The incarnation will later reveal that this was always the direction of the story: God in human form.
+
+## Christ in This Week
+
+Genesis 1 does not name Jesus — but it describes him. The voice that says "Let there be light" is the voice of the pre-incarnate Son. John reaches back to this very moment and declares: "All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men" (John 1:3-4). Paul confirms it: "For by him all things were created, in heaven and on earth, visible and invisible... all things were created through him and for him" (Colossians 1:16). The God who separates light from darkness, names each element of creation, and declares it good is the same one who will say, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life" (John 8:12). When you read "God said" ten times in Genesis 1, you are hearing the Word who will become flesh — the Creator who will one day enter his own creation, not as a visitor but as a participant, to redeem what he made.
 
 ## [Memory Verse](memory_verse)
 

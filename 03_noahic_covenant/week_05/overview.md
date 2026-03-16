@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Noahic Covenant]]
 **Week 5** | Genesis 6
 
-## The Big Picture
+## Overview
 
 The genealogy of Genesis 5 ended with a whisper of hope — Noah, whose name echoes the Hebrew word for rest. But the world Noah inherits is anything but restful. Genesis 6 opens with one of the most disturbing assessments in all of Scripture: "The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually" (Genesis 6:5). Not some intentions. Not most. Every intention. Continually. The corruption is total. And God's response is not indifference — it is grief: "And the LORD regretted that he had made man on the earth, and it grieved him to his heart" (Genesis 6:6). This is not the language of a distant, unfeeling deity. This is the language of a Father watching his children destroy themselves.
 

@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 23** | Leviticus 1–16
 
-## The Big Picture
+## Overview
 
 Leviticus is the book most Christians skip and the book most essential for understanding the cross. The tabernacle has been built. The glory has filled it. And now God speaks from inside it — not from a mountain at a distance but from a tent in the camp. The entire book of Leviticus is God's answer to a single question: how does a holy God live among an unholy people without destroying them?
 

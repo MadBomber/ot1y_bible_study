@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 19** | Exodus 13–18
 
-## The Big Picture
+## Overview
 
 Israel walks out of Egypt at midnight, carrying unleavened dough on their shoulders and four hundred years of accumulated grief and hope. God does not lead them by the direct route — the Way of the Philistines — because they are not ready for war. Instead he takes them south, toward the wilderness, guided by a pillar of cloud by day and a pillar of fire by night. The God who spoke from a burning bush now leads as a burning column. His presence is visible, tangible, and directional. He does not merely tell them where to go. He goes before them.
 

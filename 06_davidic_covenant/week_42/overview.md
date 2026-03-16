@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 42** | Psalms, Proverbs, Ecclesiastes, Song of Solomon
 
-## The Big Picture
+## Overview
 
 This week steps out of the narrative to dwell in the literature that Israel produced during and around the monarchy — the wisdom books and the songs that shaped Israel's inner life. These are not history. They are theology made personal: how to live, how to think, how to love, how to face death, and how to worship the God who holds all of it together.
 

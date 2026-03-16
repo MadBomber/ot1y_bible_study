@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 22** | Exodus 32–40
 
-## The Big Picture
+## Overview
 
 While Moses is on the mountain receiving instructions for the tabernacle — the very place where God will dwell among his people — the people at the base of the mountain are building a replacement. "Up, make us gods who shall go before us" (Exodus 32:1). Aaron, the man appointed to be high priest, collects their gold earrings, melts them, and fashions a calf. The people worship it with a feast that descends into revelry. The covenant is barely ratified and already broken. The ink on the tablets is not yet dry.
 

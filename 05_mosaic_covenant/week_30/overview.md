@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 30** | Judges, Ruth
 
-## The Big Picture
+## Overview
 
 Joshua is dead, and Israel has no king. What follows is the darkest, most chaotic period in the Old Testament — a downward spiral that begins with incomplete obedience and ends with a sentence that reads like an epitaph: "In those days there was no king in Israel. Everyone did what was right in his own eyes" (Judges 21:25). The book of Judges is the Bible's sustained argument for why Israel — and humanity — needs a king. Not a human king who will inevitably fail, but a divine king who will finally set things right.
 

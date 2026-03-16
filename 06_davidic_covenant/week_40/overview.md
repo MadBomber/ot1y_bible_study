@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 40** | 2 Kings 1–13
 
-## The Big Picture
+## Overview
 
 Elijah does not die. A chariot of fire and horses of fire descend, a whirlwind catches him up, and the man who called down fire from heaven ascends in fire to heaven (2 Kings 2:11). Elisha watches, tears his clothes, and picks up Elijah's fallen mantle. He strikes the Jordan — the waters part, just as they did for Moses and Joshua — and the sons of the prophets recognize that "the spirit of Elijah rests on Elisha" (2 Kings 2:15). The prophetic succession is established. The mantle passes. The work continues.
 

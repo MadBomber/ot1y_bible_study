@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 20** | Exodus 19–24
 
-## The Big Picture
+## Overview
 
 Three months after walking through the sea, Israel arrives at the foot of Mount Sinai — and the ground shakes. Thunder. Lightning. A thick cloud. The sound of a trumpet growing louder and louder. The mountain burns with fire while smoke rises "like the smoke of a kiln" (Exodus 19:18). Boundaries are set. No one may touch the mountain. Even the livestock must be kept back. The holiness of God is not a metaphor at Sinai. It is a physical force that can kill.
 

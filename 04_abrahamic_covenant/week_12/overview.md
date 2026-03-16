@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 12** | Genesis 21–24
 
-## The Big Picture
+## Overview
 
 Isaac is born. After twenty-five years of waiting — twenty-five years of wandering, lying, scheming, and clinging to a promise that biology said was impossible — Sarah holds her son and laughs. This time the laughter is not doubt but joy: "God has made laughter for me; everyone who hears will laugh over me" (Genesis 21:6). The impossible has happened. The God who said it would be so has made it so.
 

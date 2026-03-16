@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 21** | Exodus 25–31
 
-## The Big Picture
+## Overview
 
 God has delivered his people from Egypt, led them through the sea, fed them with manna, and given them his law. Now he does something even more astonishing: he moves in. "Let them make me a sanctuary, that I may dwell in their midst" (Exodus 25:8). The God who flung galaxies into space and shook Sinai with his voice now asks for a tent. Not a palace. Not a fortress. A portable, collapsible tent made of acacia wood, linen, and animal skins — designed so it can be carried through the wilderness by a nomadic people. The infinite God condescends to inhabit a space roughly forty-five feet long.
 

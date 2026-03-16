@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Consummation]]
 **Week 52** | Isaiah 65–66, Ezekiel 47–48
 
-## The Big Picture
+## Overview
 
 The final week of the study gathers the Old Testament's most luminous visions of the world to come — the new creation that every covenant has been building toward since Genesis 1. These passages do not describe repair. They describe replacement. Not a renovation of the old order but the eruption of something so radically new that the former things "shall not be remembered or come into mind" (Isaiah 65:17). And yet the new creation is not disconnected from the old. It fulfills it. The garden that opened the Bible reappears — transformed from a private paradise into a city that fills the earth, watered by a river that flows from God's throne, shaded by a tree whose leaves heal the nations.
 

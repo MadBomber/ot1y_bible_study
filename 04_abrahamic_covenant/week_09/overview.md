@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 9** | Genesis 12–14
 
-## The Big Picture
+## Overview
 
 After eleven chapters of universal history — creation, fall, flood, Babel — the camera suddenly, dramatically narrows to a single individual. "Now the LORD said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you'" (Genesis 12:1). No explanation of why Abram. No résumé of qualifications. Joshua 24:2 will later reveal that Abram's family "served other gods." God simply speaks into the life of a pagan man in Mesopotamia and issues a command with a promise attached — a promise so extravagant it will take the rest of the Bible to unfold: "I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing... and in you all the families of the earth shall be blessed" (Genesis 12:2-3).
 

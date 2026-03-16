@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Adamic Covenant]]
 **Week 3** | Genesis 3
 
-## The Big Picture
+## Overview
 
 Everything changes in Genesis 3. The world that was declared "very good" two chapters ago is about to fracture — and the fracture will run through every relationship, every institution, every human heart for the rest of the biblical narrative. But the way it happens matters as much as the fact that it happens. The serpent does not begin with a command or a threat. He begins with a question: "Did God actually say?" (Genesis 3:1). It is the first theological argument in Scripture, and every false theology since has been a variation of it — not a denial of God's existence but a subtle distortion of his word, his character, his goodness. The woman sees, takes, eats, gives. The man, standing beside her, says nothing and eats. And immediately everything changes: eyes opened, nakedness exposed, a frantic scramble for fig leaves, and then — hiding from the God who made them.
 

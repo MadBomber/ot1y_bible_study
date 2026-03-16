@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 37** | 2 Samuel 11–24
 
-## The Big Picture
+## Overview
 
 "In the spring of the year, the time when kings go out to battle, David sent Joab... But David remained at Jerusalem" (2 Samuel 11:1). The sentence is devastating in its restraint. The king who should be at war is at home. He is on the roof. He sees a woman bathing. And from a single glance, the man after God's own heart sets in motion a chain of events that will produce adultery, murder, a dead infant, a raped daughter, a murdered son, a civil war, and a kingdom fractured along fault lines that will never fully heal.
 

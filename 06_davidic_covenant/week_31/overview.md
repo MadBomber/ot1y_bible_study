@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 31** | 1 Samuel 1–8
 
-## The Big Picture
+## Overview
 
 The book of Judges ended with a sentence that reads like a death certificate: "Everyone did what was right in his own eyes." The book of Samuel opens with a woman weeping in a temple. Hannah is barren — and in the ancient world, barrenness is not a medical condition but a social death sentence. She goes to Shiloh, where the tabernacle sits under the corrupt stewardship of Eli the priest, whose sons treat the sacrifices with contempt and the worshipers with violence. The priesthood is rotting from the inside. The people have no prophet. The word of the LORD is "rare in those days; there was no frequent vision" (1 Samuel 3:1). Israel is at its lowest point since the judges — but God is about to do what he always does. He starts with a prayer.
 

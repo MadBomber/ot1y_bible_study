@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 13** | Genesis 25–28
 
-## The Big Picture
+## Overview
 
 The promise narrows again. Abraham dies, and the seed passes to Isaac. But Isaac's story is almost immediately overtaken by the story of his sons — twins who struggle in the womb and will struggle for the rest of their lives. Before they are born, God speaks to Rebekah with a prophecy that overturns the ancient world's most fundamental social assumption: "The older shall serve the younger" (Genesis 25:23). Primogeniture — the right of the firstborn — is the bedrock of inheritance in the ancient Near East. God dismantles it with a sentence. The covenant line will not follow the expected path. It never does.
 

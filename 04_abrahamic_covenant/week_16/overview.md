@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 16** | Genesis 42–50
 
-## The Big Picture
+## Overview
 
 The famine comes, exactly as Joseph predicted. And it drives his brothers — the same brothers who sold him — down to Egypt to buy grain. They stand before the governor of Egypt. They bow. The dreams of Genesis 37 are fulfilled, and the brothers do not even know it. Joseph recognizes them instantly. They do not recognize him. And what follows is one of the most emotionally complex narratives in all of Scripture — a story of testing, grief, repentance, and reconciliation that stretches across four agonizing chapters before it breaks open into one of the most powerful scenes the Bible has ever recorded.
 

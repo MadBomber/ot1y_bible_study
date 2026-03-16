@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|New Covenant]]
 **Week 47** | Jeremiah 31, Ezekiel 36–37
 
-## The Big Picture
+## Overview
 
 This is the week the Old Testament looks farthest forward — past the exile, past the return, past even the second temple — to a reality so radically new that the prophets can only describe it in the language of resurrection and re-creation. Three prophetic voices converge on the same vision: a covenant that does not merely demand obedience but *produces* it, written not on stone but on the human heart, powered not by human willpower but by the Spirit of God.
 

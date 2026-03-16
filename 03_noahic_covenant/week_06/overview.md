@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Noahic Covenant]]
 **Week 6** | Genesis 7–8
 
-## The Big Picture
+## Overview
 
 The door shuts. God himself closes it (Genesis 7:16) — a detail so easy to miss and so impossible to forget once you see it. Noah and his family are inside. The animals are inside. And then the rain begins. For forty days and forty nights, the windows of heaven and the fountains of the great deep open simultaneously, and the world that God spoke into existence is unmade by water. The language of Genesis 7 deliberately reverses the language of Genesis 1. Where God once separated the waters above from the waters below, he now releases them. Where he once gathered the waters to let dry land appear, he now covers the land entirely. Creation is being uncreated. The flood is not merely a natural disaster — it is a theological event, a de-creation that will be followed by a re-creation, just as death will one day be followed by resurrection.
 

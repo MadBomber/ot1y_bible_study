@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 41** | 2 Kings 14–25
 
-## The Big Picture
+## Overview
 
 The monarchy unravels. This week covers two centuries of decline, punctuated by brief reforms and dominated by the relentless momentum of covenant-breaking. The northern kingdom of Israel, which never produced a single faithful dynasty, falls first. In 722 BC, Assyria conquers Samaria and deports the ten northern tribes. The narrator delivers the theological autopsy with devastating precision: "They despised his statutes and his covenant that he made with their fathers and the warnings that he gave them. They went after false idols and became false" (2 Kings 17:15). They became what they worshiped. The diagnosis is not political but spiritual: Israel did not fall because Assyria was strong. Israel fell because Israel abandoned the LORD.
 

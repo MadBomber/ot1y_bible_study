@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|New Covenant]]
 **Week 45** | Ezra, Nehemiah
 
-## The Big Picture
+## Overview
 
 The exile is over — and the return is nothing like anyone expected. Cyrus, king of Persia, issues a decree in 538 BC permitting the Jews to return to Jerusalem and rebuild the temple. The announcement is stunning: a pagan emperor fulfilling the word of a Hebrew prophet (Isaiah 44:28; 45:1). God has not abandoned his people. He has been working through empires they did not control, through rulers they did not choose, moving the machinery of world history toward one goal: bringing his people home.
 

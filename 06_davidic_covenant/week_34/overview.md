@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 34** | 1 Samuel 21–31
 
-## The Big Picture
+## Overview
 
 David is the anointed king of Israel. He is also a hunted man sleeping in caves. The tension between these two realities defines this entire section — and it is one of the most Christologically rich periods in the Old Testament. The promised king wanders in the wilderness, surrounded by a band of outcasts, pursued by the power structure he has been anointed to replace. Many of the psalms David writes during this period — Psalms 34, 56, 57, 59, 63, 142 — become the prayer book of the suffering church.
 

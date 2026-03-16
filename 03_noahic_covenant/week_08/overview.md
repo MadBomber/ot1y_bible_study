@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Noahic Covenant]]
 **Week 8** | Genesis 10–11
 
-## The Big Picture
+## Overview
 
 God said, "Be fruitful and multiply and fill the earth." Humanity's response, within a few generations, was to huddle together in one place and build a tower. The Table of Nations in Genesis 10 and the Tower of Babel in Genesis 11 are the final movements of the primeval history — the bridge between the universal story of all humanity and the particular story of one family that will begin in Genesis 12. Together they answer a question the reader might not yet know to ask: how did the world go from one family stepping off an ark to seventy nations scattered across the earth, speaking different languages, and needing a God who would call a single man out of Ur to bless them all?
 

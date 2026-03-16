@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 38** | 1 Kings 1–11
 
-## The Big Picture
+## Overview
 
 Solomon is the son of David and Bathsheba — the child of the restored marriage, the king born from the wreckage of sin and grace. He ascends the throne after a succession crisis, consolidates his power, and then does something no king in Israel had done before: when God offers him anything he wants, Solomon asks for wisdom. "Give your servant therefore an understanding mind to govern your people, that I may discern between good and evil" (1 Kings 3:9). God is so pleased with the request that he gives Solomon not only wisdom but also what he did not ask for — riches and honor beyond any king of his era.
 

@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Davidic Covenant]]
 **Week 39** | 1 Kings 12–22
 
-## The Big Picture
+## Overview
 
 Solomon dies, and his son Rehoboam inherits a kingdom that is already cracking. The northern tribes, exhausted by Solomon's building projects and heavy taxation, send a delegation asking for relief. Rehoboam's older advisors counsel moderation. His younger friends counsel severity. Rehoboam chooses the young men's advice — and with a single arrogant speech, he tears the kingdom in half. Ten tribes follow Jeroboam northward. Only Judah and Benjamin remain with Rehoboam in the south. The united monarchy that Saul, David, and Solomon built over a century of blood and prayer disintegrates in an afternoon.
 

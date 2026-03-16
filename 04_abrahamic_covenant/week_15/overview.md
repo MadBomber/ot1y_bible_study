@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 15** | Genesis 37–41
 
-## The Big Picture
+## Overview
 
 Joseph is seventeen when his world ends. His father's favorite, dressed in a robe that broadcasts his privileged status, he is hated by his brothers with a hatred so deep that "they could not speak peacefully to him" (Genesis 37:4). Then he tells them his dreams — sheaves bowing, stars bowing — and the hatred curdles into conspiracy. They strip his robe, throw him into a pit, and sell him to Ishmaelite traders for twenty pieces of silver. The coat is dipped in goat's blood and brought to Jacob, who weeps for a son he believes is dead. The boy who dreamed of glory is now a slave in a foreign land.
 

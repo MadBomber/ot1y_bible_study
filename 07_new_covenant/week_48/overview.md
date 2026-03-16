@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|New Covenant]]
 **Week 48** | Haggai, Zechariah, Malachi
 
-## The Big Picture
+## Overview
 
 The exiles have returned. The temple is half-built. The people are discouraged. And God sends three prophets — the last three voices before four centuries of silence — to reignite the vision, rebuke the complacency, and point with startling precision to the one who is coming.
 

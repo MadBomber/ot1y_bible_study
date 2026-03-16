@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 27** | Deuteronomy
 
-## The Big Picture
+## Overview
 
 Moses stands on the plains of Moab, looking across the Jordan at a land he will never enter. Behind him: forty years of wilderness, a generation buried in the desert, a lifetime of mediating between a holy God and an ungrateful people. Before him: the next generation, born in the wilderness, raised on manna, about to inherit what their parents refused. Deuteronomy is Moses' farewell sermon — or rather, three sermons — preached on the edge of the Promised Land to a people who must now go forward without him.
 

@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 24** | Leviticus 17–27
 
-## The Big Picture
+## Overview
 
 At the heart of Leviticus — literally at its center chapter — stands the Day of Atonement. One day a year. One priest. One sacrifice for all the sins of all the people. Leviticus 16 describes the most important ritual in Israel's calendar: the high priest enters the Most Holy Place — the only person who ever does, the only day it ever happens — carrying blood that is not his own, to sprinkle on the mercy seat and make atonement for the nation. Then a second goat is brought — the scapegoat, *azazel* — and Aaron lays both hands on its head, confessing "all the iniquities of the people of Israel" (Leviticus 16:21). The goat is sent into the wilderness, carrying the sin away. One goat dies. One goat disappears. Both are needed to picture what atonement means: the penalty paid *and* the sin removed. The author of Hebrews will argue that Christ accomplishes both in a single act (Hebrews 9:11-14; 10:1-18).
 

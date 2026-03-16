@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Adamic Covenant]]
 **Week 4** | Genesis 4–5
 
-## The Big Picture
+## Overview
 
 The consequences of the fall do not take long to arrive. One generation out of Eden, the first family produces the first murder. Cain and Abel both bring offerings to God — but God "had regard" for Abel's and not for Cain's. The text does not explain why in detail, but Hebrews 11:4 will later supply the answer: "By faith Abel offered to God a more acceptable sacrifice than Cain." The difference was not in the substance of the offering but in the heart of the one offering it. God warns Cain with a sentence that reads like a description of every human being's inner battle: "Sin is crouching at the door. Its desire is contrary to you, but you must rule over it" (Genesis 4:7). Cain does not rule it. He rises up and kills his brother. And the blood of the first righteous man cries out from the ground — a cry that will echo through the pages of Scripture until the author of Hebrews writes that the blood of Christ "speaks a better word than the blood of Abel" (Hebrews 12:24).
 

@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|New Covenant]]
 **Week 46** | Esther
 
-## The Big Picture
+## Overview
 
 The book of Esther never mentions God. Not once. There is no prayer, no prophecy, no miracle, no theophany, no divine speech. And yet God is on every page — working behind the scenes with such precision that the only explanation for the sequence of events is the invisible hand of the one who, in this book, refuses to show his face. Esther is the Bible's most sustained meditation on providence — the doctrine that God governs all things without always being visible in any of them.
 

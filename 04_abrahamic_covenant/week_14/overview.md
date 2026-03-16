@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Abrahamic Covenant]]
 **Week 14** | Genesis 29–36
 
-## The Big Picture
+## Overview
 
 Jacob flees the home he has shattered. His brother wants to kill him. His mother sends him away to her family in Haran — and on the road, alone for the first time in his life, the deceiver meets the God he has been using as a bargaining chip. At Bethel, Jacob dreams of a ladder stretching from earth to heaven, with angels ascending and descending. God stands above it and repeats the Abrahamic promise — to Jacob, of all people: "In you and your offspring shall all the families of the earth be blessed" (Genesis 28:14). Jesus will later point to this very scene and claim it as his own: "You will see heaven opened, and the angels of God ascending and descending on the Son of Man" (John 1:51). The ladder is not a stairway for human climbing. It is the connection between heaven and earth that Christ himself embodies.
 

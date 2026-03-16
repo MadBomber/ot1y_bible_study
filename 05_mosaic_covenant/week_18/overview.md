@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|Mosaic Covenant]]
 **Week 18** | Exodus 5–12
 
-## The Big Picture
+## Overview
 
 "Let my people go." The demand is simple. Pharaoh's refusal is absolute. And what follows is the most sustained confrontation between God and the powers of this world anywhere in the Old Testament — ten plagues that systematically dismantle Egypt's gods, its economy, its confidence, and finally its future. The Nile turns to blood (striking at Hapi, the river god). Frogs swarm the land (Heqet, the frog goddess of fertility). Darkness covers Egypt for three days (Ra, the sun god, rendered impotent). Each plague is not merely a natural disaster. It is a theological argument: "On all the gods of Egypt I will execute judgments. I am the LORD" (Exodus 12:12).
 

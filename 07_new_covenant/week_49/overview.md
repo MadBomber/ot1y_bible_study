@@ -19,7 +19,7 @@ layout: page
 **Covenant:** [[overview|New Covenant]]
 **Week 49** | Daniel 9, Isaiah 42, 49, 55
 
-## The Big Picture
+## Overview
 
 This is the final week before the Old Testament's eschatological finale — a week devoted to the passages that bridge the testaments with the greatest specificity and the deepest pathos. These texts do not merely predict the Messiah. They describe his mission, his suffering, his rejection, and his vindication with a detail that reads less like prophecy and more like eyewitness testimony written in advance.
 
