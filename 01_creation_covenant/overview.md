@@ -58,6 +58,10 @@ God did not create humanity in the aggregate. He formed *a man* from dust and br
 
 > "For you formed my inward parts; you knitted me together in my mother's womb." — Psalm 139:13 (ESV)
 
+## A Note on Science and Origins
+
+Genesis 1 is not a scientific text, and this study does not treat it as one. But neither is it threatened by scientific inquiry. The questions Genesis answers — *who* created, *what* was created, and *why* — are questions science, by its own definition, cannot access. The apparent conflict between Scripture and modern origin theories is not a conflict between Genesis and experimental science. It is a conflict between Genesis and *inference about unrepeatable past events* — a very different kind of intellectual work. For a fuller exploration of this distinction, see [[science_and_genesis|Science and Genesis]].
+
 ## Content Expansion
 
 - **Creation theology** — deeper exploration of what Genesis 1–2 reveals about God's character and purposes
