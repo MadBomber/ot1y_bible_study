@@ -85,7 +85,7 @@ Memorization is not about performance — it is about internalization, letting t
 
 | Week | Title | Memory Verse | |
 |------|-------|--------------|---|
-| 31 | The Rise of Samuel | 1 Samuel 3:9 | [[06_davidic_covenant/week_31/memory_verse|Card]] |
+| 31 | The Rise of Samuel | 1 Samuel 2:10 | [[06_davidic_covenant/week_31/memory_verse|Card]] |
 | 32 | Saul: The People's King | 1 Samuel 15:22 | [[06_davidic_covenant/week_32/memory_verse|Card]] |
 | 33 | David's Anointing and Rise | 1 Samuel 16:7 | [[06_davidic_covenant/week_33/memory_verse|Card]] |
 | 34 | David the Fugitive | Psalm 34:18 | [[06_davidic_covenant/week_34/memory_verse|Card]] |
@@ -98,7 +98,7 @@ Memorization is not about performance — it is about internalization, letting t
 | 41 | The Fall of Israel | 2 Kings 17:15 | [[06_davidic_covenant/week_41/memory_verse|Card]] |
 | 42 | Songs and Wisdom | Proverbs 9:10 | [[06_davidic_covenant/week_42/memory_verse|Card]] |
 | 43 | The Major Prophets | Isaiah 53:5 | [[06_davidic_covenant/week_43/memory_verse|Card]] |
-| 44 | The Twelve | Micah 6:8 | [[06_davidic_covenant/week_44/memory_verse|Card]] |
+| 44 | The Twelve | Micah 5:2 | [[06_davidic_covenant/week_44/memory_verse|Card]] |
 
 ### New Covenant
 

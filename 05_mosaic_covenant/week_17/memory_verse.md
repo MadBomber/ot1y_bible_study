@@ -8,11 +8,11 @@ verse_text: "God said to Moses, \"I AM WHO I AM.\" And he said, \"Say this to th
 translation: ESV
 image: week-17-memory-verse.png
 connections:
-  - "Day 1 — "
-  - "Day 2 — "
-  - "Day 3 — "
-  - "Day 4 — "
-  - "Day 5 — "
+  - "Day 1 — The opening of Exodus reveals a people groaning under Pharaoh's oppression, multiplying under the very weight meant to crush them. The God who will name himself 'I AM' in Exodus 3:14 is already present in the paradox of Exodus 1:12: 'the more they were oppressed, the more they multiplied.' The self-existent God is at work before he reveals his name."
+  - "Day 2 — Moses' birth, rescue in the tevah on the Nile, and flight to Midian trace the biography of the man God will commission at the bush. God 'heard their groaning, and God remembered his covenant' (Exodus 2:24) — the zakar that precedes the self-revelation, the remembering that becomes action. I AM is about to speak because I AM has already seen."
+  - "Day 3 — The burning bush is where the name is given. Ehyeh asher ehyeh — 'I AM WHO I AM' — is not a title derived from function but an assertion of absolute, self-existent being. The fire inhabits the bush without consuming it, revealing a God who intends to dwell with his people: blazing with holiness yet not annihilating what he touches."
+  - "Day 4 — Moses' five objections to God's call are each answered not by inflating Moses but by revealing I AM. 'Who am I that I should go?' is met with 'I will be with you' (Exodus 3:12). The signs given — the staff becoming a serpent, the leprous hand — are credentials of the sender, not the sent. The name I AM is the answer to every inadequacy Moses names."
+  - "Day 5 — Moses returns to Egypt carrying the name and the mission. The circumcision crisis on the road (Exodus 4:24-26) and the first meeting with Israel's elders demonstrate that the God who names himself I AM demands obedience from his own messenger before confronting Pharaoh. The people believe and worship when they hear that I AM has seen their affliction."
 prev_week_path: /04_abrahamic_covenant/week_16/memory_verse
 next_week_path: /05_mosaic_covenant/week_18/memory_verse
 ---
@@ -26,15 +26,19 @@ Exodus 3:14 (ESV)
 
 ## Why This Verse
 
+Exodus 3:14 is the theological center of the Old Testament. When Moses asks God for his name at the burning bush, the answer he receives — *ehyeh asher ehyeh*, "I AM WHO I AM" — is not a title derived from a role or a function. It is an assertion of absolute, self-existent being. The God who speaks from the fire is the God who simply *is* — uncaused, uncreated, uncontainable. The Hebrew *ehyeh* is the first person imperfect of the verb *hayah* ("to be"), and it resists every attempt to reduce the divine identity to a category the human mind can manage. The name is not a definition. It is a declaration: I am what I am, I will be what I will be, and no creature in heaven or earth has authority to determine what that means. Every subsequent act of God in Scripture — the plagues, the parting of the sea, the law at Sinai, the incarnation itself — is an unpacking of this name.
 
+This verse captures the entire week because the week moves from bondage to commission, and the name is the hinge. The oppression of Exodus 1 reveals a people who need a deliverer. Moses' biography in Exodus 2 — the basket on the Nile, the palace, the murder, the exile — prepares the instrument. The burning bush in Exodus 3 is where instrument meets identity: the reluctant shepherd encounters the self-existent God, and the mission of deliverance is grounded not in Moses' qualifications but in the name of the one who sends him. Moses' five objections in Exodus 4 are each answered by the character of I AM, not by the competence of Moses. And the return to Egypt in Exodus 4:18-31 carries the name into the land of bondage, where the elders of Israel hear it and believe.
+
+Jesus claims this name as his own in the most explosive moment of John's Gospel: "Truly, truly, I say to you, before Abraham was, I am" (John 8:58). The religious establishment recognizes the claim instantly — they pick up stones. To say "I am" (*ego eimi*) is to stand in the burning bush and speak with the voice that spoke to Moses. It is to claim not merely prophetic authority but divine identity: the self-existent, uncaused, uncontainable God now present in human flesh. And the mission God announces at the bush — "I have surely seen the affliction of my people... and I have come down to deliver them" (Exodus 3:7-8) — is the architecture of the incarnation itself: the God who comes down, who enters the place of bondage, who delivers at the cost of his own descent.
 
 ## Connections
 
-- Day 1 — 
-- Day 2 — 
-- Day 3 — 
-- Day 4 — 
-- Day 5 — 
+- **Day 1** — The opening chapter of Exodus reveals a people groaning under Pharaoh's oppression, yet multiplying under the very weight meant to crush them: "the more they were oppressed, the more they multiplied and the more they spread abroad" (Exodus 1:12). The God who will name himself "I AM" at the bush is already present in this paradox. The self-existent God is at work in the slave camps before he reveals his name at the fire.
+- **Day 2** — Moses' birth, rescue in the *tevah* on the Nile, and flight to Midian trace the biography of the man God will commission at the bush. The chapter closes with the theological prelude to the divine name: "God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob" (Exodus 2:24). The *zakar* — God's remembering that becomes action — is the movement that precedes the self-revelation. I AM is about to speak because I AM has already seen.
+- **Day 3** — The burning bush is where the name is given. Fire inhabits the bush without consuming it — a revelation of how God intends to dwell with his people, blazing with holiness yet not annihilating what he touches. When Moses asks, "What is your name?" the answer shatters every category: *ehyeh asher ehyeh*. The name refuses containment. And the mission it authorizes is not merely political liberation but covenant faithfulness: "I have come down to deliver them" (Exodus 3:8). Four verbs — seen, heard, known, come down — define the God behind the name.
+- **Day 4** — Moses' five objections are each answered not by inflating Moses but by revealing I AM. "Who am I that I should go?" is met with "I will be with you" (Exodus 3:12) — *ehyeh*, the same verb as the divine name. The signs given — the staff becoming a serpent, the hand turned leprous and restored — are credentials of the sender, not the sent. Every inadequacy Moses names is met by the sufficiency of the name he carries.
+- **Day 5** — Moses returns to Egypt bearing the name and the mission. The strange circumcision crisis on the road (Exodus 4:24-26) reveals that the God who names himself I AM demands covenant obedience from his own messenger before confronting Pharaoh. When Aaron speaks the words and performs the signs, "the people believed; and when they heard that the LORD had visited the people of Israel and that he had seen their affliction, they bowed their heads and worshiped" (Exodus 4:31). The name has entered the land of bondage, and the deliverance has begun.
 
 ---
 

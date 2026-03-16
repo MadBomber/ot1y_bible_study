@@ -11,7 +11,7 @@ chapters:
 - Psalm 113; 1 Samuel 2:1-10
 tags:
 - covenant-6
-memory_verse: "1 Samuel 3:9"
+memory_verse: "1 Samuel 2:10"
 layout: page
 ---
 # Week 31: The Rise of Samuel
@@ -58,7 +58,7 @@ And Samuel's posture — "Speak, LORD, for your servant hears" — is the postur
 
 ## [Memory Verse](memory_verse)
 
-> "Therefore Eli said to Samuel, 'Go, lie down, and if he calls you, you shall say, "Speak, LORD, for your servant hears."'" — 1 Samuel 3:9 (ESV)
+> "The LORD will judge the ends of the earth; he will give strength to his king and exalt the horn of his anointed." — 1 Samuel 2:10 (ESV)
 
 ---
 

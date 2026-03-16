@@ -11,7 +11,7 @@ chapters:
 - Habakkuk 1:1-3:19; Zephaniah 1:1-3:20
 tags:
 - covenant-6
-memory_verse: "Micah 6:8"
+memory_verse: "Micah 5:2"
 layout: page
 ---
 # Week 44: The Twelve
@@ -65,7 +65,7 @@ And Micah's ruler from Bethlehem — whose origins are from ancient days — arr
 
 ## [Memory Verse](memory_verse)
 
-> "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" — Micah 6:8 (ESV)
+> "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days." — Micah 5:2 (ESV)
 
 ---
 

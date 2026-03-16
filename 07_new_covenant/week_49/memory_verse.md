@@ -8,11 +8,11 @@ verse_text: "All we like sheep have gone astray; we have turned — every one �
 translation: ESV
 image: week-49-memory-verse.png
 connections:
-  - "Day 1 — "
-  - "Day 2 — "
-  - "Day 3 — "
-  - "Day 4 — "
-  - "Day 5 — "
+  - "Day 1 — Daniel's seventy-weeks prophecy announces an anointed one who will 'be cut off and shall have nothing' (Daniel 9:26) to 'put an end to sin' and 'atone for iniquity.' The iniquity laid on the servant of Isaiah 53:6 is the same iniquity the anointed one of Daniel 9 is cut off to finish."
+  - "Day 2 — Daniel 12:2 breaks through with the promise of bodily resurrection. The servant on whom all iniquity is laid dies — but Isaiah 53:10 says he 'shall see his offspring; he shall prolong his days.' The laying on of iniquity leads through death to resurrection, just as Daniel's sleepers in the dust awake to everlasting life."
+  - "Day 3 — Isaiah's servant songs (42, 49, 50) trace a figure who absorbs violence without retaliation: 'I gave my back to those who strike' (Isaiah 50:6). The servant on whom the LORD lays iniquity does not resist the imposition. He receives it — willingly, silently, completely."
+  - "Day 4 — Isaiah 52:13–53:12 is the full portrait of the figure verse 6 summarizes. He is pierced, crushed, led like a lamb, silent before shearers, cut off from the living — and then, impossibly, alive again. The iniquity of us all, laid on one man, is the mechanism of the healing the passage promises."
+  - "Day 5 — Psalm 22 cries 'My God, my God, why have you forsaken me?' and Psalm 16 declares 'you will not abandon my soul to Sheol.' Together they voice the experience of the one on whom God laid our iniquity: forsakenness followed by vindication, the cross answered by the empty tomb."
 prev_week_path: /07_new_covenant/week_48/memory_verse
 next_week_path: /08_consummation/week_50/memory_verse
 ---
@@ -26,15 +26,19 @@ Isaiah 53:6 (ESV)
 
 ## Why This Verse
 
+Isaiah 53:6 is the Old Testament's most compressed statement of universal guilt met by substitutionary grace. The verse moves in three strokes. First, a universal diagnosis: "All we like sheep have gone astray." The word "all" (*kullanu*) opens the sentence and closes it, forming a literary envelope that admits no exceptions. Second, the specification of the disease: "we have turned — every one — to his own way." The Hebrew *ish ledarkho* is individualized — each person to *his own* path, scattered in every direction, none heading toward God. Third, the staggering resolution: "and the LORD has laid on him the iniquity of us all." The subject of the final clause is not a priest, not a prophet, not a human mediator. It is the LORD himself — Yahweh — who takes the initiative to gather the scattered iniquity of all humanity and concentrate it on one person. The verb *hipgia* (laid on, caused to fall upon) carries the force of an intentional, directed transfer. This is not tragedy. This is strategy.
 
+This verse anchors the study's penultimate week on the New Covenant — a week where the Old Testament achieves its most detailed portrait of the coming Messiah. Daniel's seventy weeks calculate the timeline; his anointed one is "cut off" to finish transgression. Isaiah's servant songs trace the figure's character, calling, rejection, and vindication. Psalm 22 describes the crucifixion a millennium before Rome invents it. Psalm 16 promises a body the grave cannot corrupt. Isaiah 53:6 stands at the center of this convergence because it names both the problem (all have gone astray) and the solution (the LORD laid on him the iniquity of us all) in a single sentence. The week reads like a trial brief — evidence accumulated from multiple witnesses across centuries — and this verse is the verdict: guilty, all of us; atoned for, by one.
+
+Peter, writing to scattered Christians, reaches for this verse to explain the cross: "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed. For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls" (1 Peter 2:24-25). The sheep who went astray have returned — not because they found the way, but because the Shepherd on whom their iniquity was laid came after them.
 
 ## Connections
 
-- Day 1 — 
-- Day 2 — 
-- Day 3 — 
-- Day 4 — 
-- Day 5 — 
+- **Day 1** — Daniel 9:24 announces that the seventy weeks are decreed "to finish the transgression, to put an end to sin, and to atone for iniquity, to bring in everlasting righteousness." The iniquity the LORD lays on the servant in Isaiah 53:6 is the same iniquity the anointed one of Daniel 9 atones for. And the anointed one "shall be cut off and shall have nothing" (Daniel 9:26) — the Messiah dies, and his death is the mechanism by which the transfer Isaiah describes becomes effective.
+- **Day 2** — Daniel 12:2 announces bodily resurrection: "Many of those who sleep in the dust of the earth shall awake, some to everlasting life." The servant on whom the LORD lays iniquity dies — Isaiah 53:8 says he is "cut off out of the land of the living" — yet Isaiah 53:10 insists he "shall see his offspring; he shall prolong his days." The laying on of iniquity leads through death into life, and Daniel's promise of resurrection from dust provides the framework for understanding how a dead servant prolongs his days.
+- **Day 3** — The servant songs of Isaiah 42, 49, and 50 build toward 53:6 by tracing a figure whose method is absorption, not retaliation. "A bruised reed he will not break" (Isaiah 42:3). "I gave my back to those who strike, and my cheeks to those who pull out the beard" (Isaiah 50:6). The servant on whom the LORD lays the iniquity of all does not resist the imposition. His posture is reception — willingly bearing what he did not deserve, silently carrying what we could not.
+- **Day 4** — Isaiah 52:13-53:12 is the full portrait Isaiah 53:6 summarizes. The servant is "pierced for our transgressions" and "crushed for our iniquities" (53:5), "like a lamb that is led to the slaughter" (53:7), making "his grave with the wicked and with a rich man in his death" (53:9). And then, impossibly: "he shall see his offspring; he shall prolong his days; the purpose of the LORD shall prosper in his hand" (53:10). The iniquity of us all, laid on one man, is both the cause of his death and the means of our healing.
+- **Day 5** — Psalm 22 opens with the cry of God-forsakenness — "My God, my God, why have you forsaken me?" (Psalm 22:1) — and descends into graphic physical detail: pierced hands and feet, bones out of joint, garments divided by lot. Psalm 16 responds with quiet confidence: "You will not abandon my soul to Sheol, or let your holy one see corruption" (Psalm 16:10). Together the two psalms voice the full experience of the one on whom the LORD laid our iniquity: the dereliction of bearing the world's sin, followed by the vindication of a body the grave could not hold.
 
 ---
 
