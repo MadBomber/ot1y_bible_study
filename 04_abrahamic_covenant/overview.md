@@ -6,11 +6,11 @@ layout: page
 ---
 # Abrahamic Covenant: Blessing to All Nations
 
-**Weeks 9–16**
+*Weeks 9–16*
 
 ## Overview
 
-In eight weeks you will journey with one family through whom God intends to bless every family on earth. From Abram's call out of Ur to Joseph's providence in Egypt, the patriarchal narratives reveal a God who makes extraordinary promises to ordinary people — and keeps them across generations despite human failure. The covenant deepens in stages: a unilateral oath between divided animals, a sign cut in flesh, and a father's knife raised over his only son on Mount Moriah. Through Abraham, Isaac, Jacob, and the twelve tribes, the promised seed narrows and the blessing widens.
+In eight weeks you will journey with one family through whom God intends to bless every family on earth. The scope of this promise is staggering — and so is its method. God does not send an army or establish an institution. He calls a single man out of Ur of the Chaldees, a pagan city in Mesopotamia, and says, "Go." No map. No timeline. No guarantee except the word of the God who speaks worlds into existence. From Abram's call to Joseph's final breath in Egypt, the patriarchal narratives reveal a God who makes extraordinary promises to deeply flawed people and keeps them across generations despite every human effort to derail them. The covenant deepens in stages: a unilateral oath sworn between divided animals while Abram sleeps, a sign cut into flesh, and a father's knife raised over his only son on the mountain where a temple will one day stand and a cross will one day be planted. Through Abraham, Isaac, Jacob, and the twelve tribes, the promised seed narrows and the blessing widens — until a man named Joseph, sold into slavery by his own brothers, stands before them as the ruler of Egypt and says the sentence that captures the entire theology of providence: "You meant evil against me, but God meant it for good" (Genesis 50:20).
 
 ## Weeks in This Covenant
 
@@ -27,50 +27,48 @@ In eight weeks you will journey with one family through whom God intends to bles
 
 ## The Foundation
 
-God called Abram from Ur of the Chaldees with a transformative promise:
+God called Abram with a promise that reshapes everything that follows in Scripture:
 
-> "I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing… and in you all the families of the earth shall be blessed." — Genesis 12:1-3
+> "I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed." — Genesis 12:1-3 (ESV)
 
-This covenant establishes the Bible's overarching narrative arc. The agreement progressed through stages:
+This is not merely a personal blessing — it is a mission statement for the rest of the Bible. Every covenant that follows, every prophet who speaks, every king who reigns or fails to reign, and ultimately every drop of blood shed on Calvary is connected to this promise. Paul will later argue that the gospel itself was "preached beforehand to Abraham" in these words (Galatians 3:8).
 
-- **Genesis 15** — God's unilateral oath between divided animals
-- **Genesis 17** — Circumcision introduced as covenant sign; Abram renamed Abraham
-- **Genesis 22** — The binding of Isaac on Mount Moriah, prefiguring sacrifice and resurrection
+The covenant progresses through three defining moments. In Genesis 15, God swears a unilateral oath: Abram watches as a smoking fire pot and a flaming torch pass between divided animal carcasses — a ritual that normally bound both parties under penalty of death, but here God alone passes through. The message is unmistakable: this covenant depends on God's faithfulness, not Abraham's. In Genesis 17, circumcision is introduced as the covenant sign, and Abram becomes Abraham — "father of a multitude." And in Genesis 22, the covenant reaches its most terrifying and revelatory moment: God asks Abraham to sacrifice Isaac, the son of promise, on Mount Moriah. Abraham obeys, the knife is raised, and at the last possible moment God provides a ram. The author of Hebrews reads this scene as resurrection theology: Abraham "considered that God was able even to raise him from the dead, from which, figuratively speaking, he did receive him back" (Hebrews 11:19).
 
 ## Key Old Testament Passages
 
 | Passage | Significance |
 |---------|--------------|
-| Genesis 12:1-3 | Initial call and blessing promise extending to all families |
-| Genesis 15:1-21 | Covenant ceremony with divine unilateral oath |
-| Genesis 17:1-14 | Circumcision sign; Isaac's promised birth |
-| Genesis 22:1-19 | Isaac's binding; God's provision of a substitute |
-| Psalm 72:17 | National blessing through promised figure |
-| Isaiah 51:1-2 | Affirmation of Abraham's blessing and multiplication |
+| Genesis 12:1-3 | The call and blessing — "in you all the families of the earth shall be blessed" |
+| Genesis 15:1-21 | The covenant ceremony — God's unilateral oath |
+| Genesis 17:1-14 | Circumcision as covenant sign; Abram becomes Abraham |
+| Genesis 22:1-19 | The binding of Isaac — sacrifice, substitution, and the mountain of the LORD |
+| Psalm 72:17 | "May all nations be blessed in him" |
+| Isaiah 51:1-2 | "Look to Abraham your father... when he was but one I called him" |
 
 ## Fulfilled in Christ
 
 | New Testament | Connection |
 |---------------|-----------|
-| Galatians 3:8, 16 | Gospel preached to Abraham; Christ as the promised offspring |
-| Romans 4:1-25 | Justification through faith |
-| Hebrews 11:17-19 | Isaac's binding as resurrection typology |
-| Matthew 1:1 | Jesus identified as son of Abraham |
+| Galatians 3:8, 16 | The gospel preached to Abraham; Christ as "the offspring" |
+| Romans 4:1-25 | Abraham as the model of justification by faith — "counted to him as righteousness" |
+| Hebrews 11:17-19 | The binding of Isaac as resurrection typology |
+| Matthew 1:1 | "The book of the genealogy of Jesus Christ, the son of... Abraham" |
 | Acts 3:25-26 | Peter: "In your offspring shall all the families of the earth be blessed" |
 
 ## In Your Study
 
-In the NT companion study, Galatians 3 argues that the gospel was preached beforehand to Abraham and that Christ is the promised offspring. Romans 4:1-25 develops justification by faith using Abraham as the model. Hebrews 11:17-19 reads the binding of Isaac as resurrection typology.
+In the NT companion study, Galatians 3 makes the argument that shakes the foundations of first-century Judaism: the gospel was preached beforehand to Abraham, and Christ — not the nation of Israel — is the promised offspring. Romans 4:1-25 develops justification by faith using Abraham as the definitive example: "Abraham believed God, and it was counted to him as righteousness" (Romans 4:3). Hebrews 11:17-19 reads the binding of Isaac as a parable of resurrection — the son given back from the dead.
 
 ## Looking Ahead
 
-The promise transcends national boundaries, ultimately fulfilled in Revelation 7:9's vision of "a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne."
+The promise to Abraham transcends every national boundary. Its ultimate fulfillment is not a single nation but a numberless multitude: "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb" (Revelation 7:9). The man who left Ur with nothing but a promise will see his family fill the new creation.
 
 ## The Personal Dimension
 
-The covenant that would bless "all the families of the earth" began with one man believing one promise. "And he believed the LORD, and he counted it to him as righteousness" (Genesis 15:6). This is the verse Paul seizes in Romans 4 and Galatians 3 to argue that personal faith — not ethnicity, not circumcision, not law-keeping — is how anyone enters the covenant. Abraham's faith was not generic trust but personal surrender: leaving Ur without a map, waiting decades for a son, raising a knife over that son on Moriah. The Abrahamic covenant reveals that God's universal plan always runs through individual trust.
+The covenant that would bless "all the families of the earth" began with one man believing one promise. "And he believed the LORD, and he counted it to him as righteousness" (Genesis 15:6). This is the verse Paul seizes in Romans 4 and Galatians 3 to argue that personal faith — not ethnicity, not circumcision, not law-keeping — is how anyone enters the covenant. Abraham's faith was not abstract assent. It was personal surrender: leaving home without a map, waiting decades for a son, raising a knife over that son on a mountain. The Abrahamic covenant reveals that God's universal plan always runs through individual trust. It always has. It still does.
 
-> "And he believed the LORD, and he counted it to him as righteousness." — Genesis 15:6
+> "And he believed the LORD, and he counted it to him as righteousness." — Genesis 15:6 (ESV)
 
 ## Content Expansion
 
@@ -80,4 +78,4 @@ The covenant that would bless "all the families of the earth" began with one man
 
 ---
 
-**See also:** [[03_noahic_covenant/overview|Noahic Covenant]] | [[05_mosaic_covenant/overview|Mosaic Covenant]]
+**See also:** [[../03_noahic_covenant/overview|Noahic Covenant]] | [[../05_mosaic_covenant/overview|Mosaic Covenant]]
