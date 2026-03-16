@@ -1,23 +1,23 @@
 ---
 week: 11
 covenant: Abrahamic Covenant
-title: Covenant of Promise
+title: Testing and Judgment
 date_range: "Week 11"
 chapters:
-- Genesis 15:1-6
-- Genesis 15:7-21
-- Genesis 16:1-16
-- Genesis 17:1-14
-- Genesis 17:15-27
+- Genesis 18:1-15
+- Genesis 18:16-33
+- Genesis 19:1-17
+- Genesis 19:18-38
+- Genesis 20:1-18
 tags:
 - covenant-4
-memory_verse: "Genesis 15:6"
+memory_verse: "Genesis 18:25"
 layout: page
 ---
-# Week 11: Covenant of Promise
+# Week 11: Testing and Judgment
 
-**Covenant:** [[overview|04 - Abrahamic Covenant]]
-**Week 11** | Genesis 15–17
+**Covenant:** [[overview|04_abrahamic_covenant]]
+**Week 11** | Genesis 18:1-15, Genesis 18:16-33, Genesis 19:1-17...
 
 ## Theme
 
@@ -27,11 +27,11 @@ layout: page
 
 | Day | Passage | Topic |
 |-----|---------|-------|
-| [[day_1]] | | |
-| [[day_2]] | | |
-| [[day_3]] | | |
-| [[day_4]] | | |
-| [[day_5]] | | |
+| [[day_1]] | Genesis 18:1-15 | |
+| [[day_2]] | Genesis 18:16-33 | |
+| [[day_3]] | Genesis 19:1-17 | |
+| [[day_4]] | Genesis 19:18-38 | |
+| [[day_5]] | Genesis 20:1-18 | |
 
 ## Key Themes
 
@@ -39,7 +39,9 @@ layout: page
 
 ## Memory Verse
 
+> Shall not the Judge of all the earth do what is just?
 
+Genesis 18:25 (ESV)
 
 ---
 

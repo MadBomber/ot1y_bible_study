@@ -80,6 +80,12 @@ Paul describes the law as a "guardian until Christ came," revealing holiness sta
 
 The temporary tent tabernacle evolved into the temple, ultimately finding permanent fulfillment in Revelation's vision. The new Jerusalem requires no physical temple because "its temple is the Lord God the Almighty and the Lamb." God's covenant promise of dwelling among people culminates in Christ and eternal community.
 
+## The Personal Dimension
+
+The law was given to a nation, but it addresses each person: "You shall have no other gods before *me*." "You shall not covet." The Ten Commandments are second person singular — God speaking to *you*. The sacrificial system made this even more intimate: the worshiper laid *his own hand* on the head of the animal (Leviticus 1:4), transferring *his own sin*. Atonement was not automatic; it required personal participation. And when Moses set the choice before Israel — "I have set before you life and death, blessing and curse. Therefore choose life" (Deuteronomy 30:19) — the verb is singular. The corporate covenant demanded a personal choice from every individual within it.
+
+> "I have set before you life and death, blessing and curse. Therefore choose life, that you and your offspring may live." — Deuteronomy 30:19
+
 ## Content Expansion
 
 - **Typology of the tabernacle furnishings** — how each element points to Christ

@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 12
 covenant: Abrahamic Covenant
-title: Testing and Judgment
-memory_verse: "Genesis 18:25"
-verse_text: "Shall not the Judge of all the earth do what is just?"
+title: The Son of Promise
+memory_verse: "Genesis 22:14"
+verse_text: "So Abraham called the name of that place, \"The LORD will provide\"; as it is said to this day, \"On the mount of the LORD it shall be provided.\""
 translation: ESV
 image: week-12-memory-verse.png
 connections:
@@ -18,11 +18,11 @@ next_week_path: /04_abrahamic_covenant/week_13/memory_verse
 ---
 # Week 12: Memory Verse
 
-**Testing and Judgment**
+**The Son of Promise**
 
-> Shall not the Judge of all the earth do what is just?
+> So Abraham called the name of that place, "The LORD will provide"; as it is said to this day, "On the mount of the LORD it shall be provided."
 
-Genesis 18:25 (ESV)
+Genesis 22:14 (ESV)
 
 ## Why This Verse
 

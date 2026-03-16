@@ -1,17 +1,17 @@
 ---
-week: 3
+week: 9
 day: 5
-title: "Week 3 Day 5"
-reading: "Psalm 51:1-12"
+title: "Week 9 Day 5"
+reading: "Genesis 14:17-24; Hebrews 7:1-10"
 parallel_passages:
-covenant: Adamic Covenant
+covenant: Abrahamic Covenant
 tags:
-- covenant-2
+- covenant-4
 layout: page
 ---
 # Day 5
 
-**Reading:** Psalm 51:1-12
+**Reading:** Genesis 14:17-24; Hebrews 7:1-10
 
 ## Historical Context
 

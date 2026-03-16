@@ -2,7 +2,7 @@
 week: 14
 day: 4
 title: "Week 14 Day 4"
-reading: "Genesis 26:1-35"
+reading: "Genesis 31:1-55"
 parallel_passages:
 covenant: Abrahamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 4
 
-**Reading:**
+**Reading:** Genesis 31:1-55
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

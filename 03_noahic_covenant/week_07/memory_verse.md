@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 7
 covenant: Noahic Covenant
-title: The Flood
-memory_verse: "Genesis 7:1"
-verse_text: "Then the LORD said to Noah, \"Go into the ark, you and all your household, for I have found you righteous before me in this generation.\""
+title: A New Beginning
+memory_verse: "Genesis 9:13"
+verse_text: "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth."
 translation: ESV
 image: week-07-memory-verse.png
 connections:
@@ -18,11 +18,11 @@ next_week_path: /03_noahic_covenant/week_08/memory_verse
 ---
 # Week 7: Memory Verse
 
-**The Flood**
+**A New Beginning**
 
-> Then the LORD said to Noah, "Go into the ark, you and all your household, for I have found you righteous before me in this generation."
+> I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.
 
-Genesis 7:1 (ESV)
+Genesis 9:13 (ESV)
 
 ## Why This Verse
 

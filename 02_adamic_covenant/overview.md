@@ -1,24 +1,23 @@
 ---
 covenant_number: 2
 title: "Covenant 2: Adamic Covenant"
-weeks: "3–5"
+weeks: "3–4"
 layout: page
 ---
 # Adamic Covenant: The Promised Seed
 
-**Weeks 3–5**
+**Weeks 3–4**
 
 ## Overview
 
-In three weeks you will trace the shattering of paradise and the first whisper of its restoration. Genesis 3 records humanity's rebellion — and within the very curse God pronounces on the serpent, he buries a promise: a descendant of the woman will crush the serpent's head. This *protoevangelium* sets the entire biblical narrative in motion. From Cain and Abel through Seth's line, the genealogies are not dry records but a thread of hope — narrowing the promise through specific families until it reaches a man born in Bethlehem.
+In two weeks you will trace the shattering of paradise and the first whisper of its restoration. Genesis 3 records humanity's rebellion — and within the very curse God pronounces on the serpent, he buries a promise: a descendant of the woman will crush the serpent's head. This *protoevangelium* sets the entire biblical narrative in motion. From Cain and Abel through Seth's line, the genealogies are not dry records but a thread of hope — narrowing the promise through specific families until it reaches a man born in Bethlehem.
 
 ## Weeks in This Covenant
 
 | Week | Title | |
 |------|-------|-|
 | 3 | [[week_03/overview\|The Fall]] | Genesis 3 |
-| 4 | [[week_04/overview\|East of Eden]] | Genesis 4 |
-| 5 | [[week_05/overview\|The Line of Promise]] | Genesis 5 |
+| 4 | [[week_04/overview\|East of Eden and the Line of Promise]] | Genesis 4–5 |
 
 ## The Foundation
 
@@ -55,6 +54,12 @@ In the NT companion study, Matthew 1 and Luke 2 trace the genealogies to Jesus. 
 ## Looking Ahead
 
 The heel-bruising occurred at Calvary; head-crushing began at resurrection. Final serpent destruction awaits Christ's return when Satan faces the lake of fire (Revelation 20:10) and Genesis 3's curse reverses entirely. The tree of life reappears in the Bible's conclusion, bearing healing fruit.
+
+## The Personal Dimension
+
+The fall was not an abstraction — it was Adam and Eve, two people, making a choice. And God's response was not a policy announcement but a personal confrontation: "Where are you?" (Genesis 3:9). God sought them out. He clothed them with his own hands. And the promise of Genesis 3:15 was spoken not to a crowd but in the hearing of two shamed individuals. The pattern is set for the entire Bible: sin is personal, and so is redemption. Every person since Adam stands in the same place — hiding, hearing God call, and choosing whether to respond.
+
+> "For as in Adam all die, so also in Christ shall all be made alive." — 1 Corinthians 15:22
 
 ## Content Expansion
 

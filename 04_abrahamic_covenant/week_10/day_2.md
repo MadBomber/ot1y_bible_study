@@ -2,7 +2,7 @@
 week: 10
 day: 2
 title: "Week 10 Day 2"
-reading: "Genesis 12:10-20"
+reading: "Genesis 15:7-21"
 parallel_passages:
 covenant: Abrahamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 2
 
-**Reading:**
+**Reading:** Genesis 15:7-21
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

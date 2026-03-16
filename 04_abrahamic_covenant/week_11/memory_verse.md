@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 11
 covenant: Abrahamic Covenant
-title: Covenant of Promise
-memory_verse: "Genesis 15:6"
-verse_text: "And he believed the LORD, and he counted it to him as righteousness."
+title: Testing and Judgment
+memory_verse: "Genesis 18:25"
+verse_text: "Shall not the Judge of all the earth do what is just?"
 translation: ESV
 image: week-11-memory-verse.png
 connections:
@@ -18,11 +18,11 @@ next_week_path: /04_abrahamic_covenant/week_12/memory_verse
 ---
 # Week 11: Memory Verse
 
-**Covenant of Promise**
+**Testing and Judgment**
 
-> And he believed the LORD, and he counted it to him as righteousness.
+> Shall not the Judge of all the earth do what is just?
 
-Genesis 15:6 (ESV)
+Genesis 18:25 (ESV)
 
 ## Why This Verse
 

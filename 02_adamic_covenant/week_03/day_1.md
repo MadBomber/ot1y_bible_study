@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 1
 
-**Reading:**
+**Reading:** Genesis 3:1-7
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

@@ -2,7 +2,7 @@
 week: 6
 day: 5
 title: "Week 6 Day 5"
-reading: "Ezekiel 14:12-20"
+reading: "1 Peter 3:18-22"
 parallel_passages:
 covenant: Noahic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 5
 
-**Reading:**
+**Reading:** 1 Peter 3:18-22
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

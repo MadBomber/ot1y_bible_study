@@ -1,12 +1,12 @@
 ---
 covenant_number: 3
 title: "Covenant 3: Noahic Covenant"
-weeks: "6–9"
+weeks: "5–8"
 layout: page
 ---
 # Noahic Covenant: Judgment and Salvation
 
-**Weeks 6–9**
+**Weeks 5–8**
 
 ## Overview
 
@@ -16,10 +16,10 @@ In four weeks you will witness God's devastating response to a world consumed by
 
 | Week | Title | |
 |------|-------|-|
-| 6 | [[week_06/overview\|Corruption and Grace]] | Genesis 6 |
-| 7 | [[week_07/overview\|The Flood]] | Genesis 7–8 |
-| 8 | [[week_08/overview\|A New Beginning]] | Genesis 9 |
-| 9 | [[week_09/overview\|Nations and Babel]] | Genesis 10–11 |
+| 5 | [[week_05/overview\|Corruption and Grace]] | Genesis 6 |
+| 6 | [[week_06/overview\|The Flood]] | Genesis 7–8 |
+| 7 | [[week_07/overview\|A New Beginning]] | Genesis 9 |
+| 8 | [[week_08/overview\|Nations and Babel]] | Genesis 10–11 |
 
 ## The Foundation
 
@@ -59,6 +59,12 @@ In the NT companion study, 1 Peter 3:18-22 and 2 Peter 2–3 develop the flood a
 ## Looking Ahead
 
 The covenant guarantees God preserves the world — but only temporarily. Peter connects the flood to final judgment when the heavens dissolve, yet righteousness follows. The ark prefigures Christ; the rainbow symbolizes mercy outlasting wrath.
+
+## The Personal Dimension
+
+In a world where "every intention of the thoughts of his heart was only evil continually," one man was different: "But Noah found favor in the eyes of the LORD" (Genesis 6:8). The covenant with all creation began with one person's faith. Noah believed God's warning about things not yet seen, and by that faith he built an ark and saved his household (Hebrews 11:7). The flood narrative asks the most personal of questions: *when the world around you is going one direction, will you go with God?* Salvation came through one door of one ark — and it came to those who walked through it.
+
+> "By faith Noah, being warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household." — Hebrews 11:7
 
 ## Content Expansion
 

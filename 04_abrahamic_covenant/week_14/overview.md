@@ -1,23 +1,23 @@
 ---
 week: 14
 covenant: Abrahamic Covenant
-title: Jacob and Esau
+title: Jacob Becomes Israel
 date_range: "Week 14"
 chapters:
-- Genesis 24:28-67
-- Genesis 25:1-18
-- Genesis 25:19-34
-- Genesis 26:1-35
-- Genesis 27:1-40
+- Genesis 27:41-28:22
+- Genesis 29:1-30
+- Genesis 29:31-30:24
+- Genesis 31:1-55
+- Genesis 32:1-33:20
 tags:
 - covenant-4
-memory_verse: "Genesis 25:23"
+memory_verse: "Genesis 32:28"
 layout: page
 ---
-# Week 14: Jacob and Esau
+# Week 14: Jacob Becomes Israel
 
-**Covenant:** [[overview|04 - Abrahamic Covenant]]
-**Week 14** | Genesis 25–28
+**Covenant:** [[overview|04_abrahamic_covenant]]
+**Week 14** | Genesis 27:41-28:22, Genesis 29:1-30, Genesis 29:31-30:24...
 
 ## Theme
 
@@ -27,11 +27,11 @@ layout: page
 
 | Day | Passage | Topic |
 |-----|---------|-------|
-| [[day_1]] | | |
-| [[day_2]] | | |
-| [[day_3]] | | |
-| [[day_4]] | | |
-| [[day_5]] | | |
+| [[day_1]] | Genesis 27:41-28:22 | |
+| [[day_2]] | Genesis 29:1-30 | |
+| [[day_3]] | Genesis 29:31-30:24 | |
+| [[day_4]] | Genesis 31:1-55 | |
+| [[day_5]] | Genesis 32:1-33:20 | |
 
 ## Key Themes
 
@@ -39,7 +39,9 @@ layout: page
 
 ## Memory Verse
 
+> Then he said, "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed."
 
+Genesis 32:28 (ESV)
 
 ---
 

@@ -2,7 +2,7 @@
 week: 10
 day: 1
 title: "Week 10 Day 1"
-reading: "Genesis 12:1-9"
+reading: "Genesis 15:1-6"
 parallel_passages:
 covenant: Abrahamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 1
 
-**Reading:**
+**Reading:** Genesis 15:1-6
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

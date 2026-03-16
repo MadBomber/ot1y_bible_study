@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 10
 covenant: Abrahamic Covenant
-title: The Call of Abram
-memory_verse: "Genesis 12:2-3"
-verse_text: "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
+title: Covenant of Promise
+memory_verse: "Genesis 15:6"
+verse_text: "And he believed the LORD, and he counted it to him as righteousness."
 translation: ESV
 image: week-10-memory-verse.png
 connections:
@@ -13,16 +13,16 @@ connections:
   - "Day 3 — "
   - "Day 4 — "
   - "Day 5 — "
-prev_week_path: /03_noahic_covenant/week_09/memory_verse
+prev_week_path: /04_abrahamic_covenant/week_09/memory_verse
 next_week_path: /04_abrahamic_covenant/week_11/memory_verse
 ---
 # Week 10: Memory Verse
 
-**The Call of Abram**
+**Covenant of Promise**
 
-> And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.
+> And he believed the LORD, and he counted it to him as righteousness.
 
-Genesis 12:2-3 (ESV)
+Genesis 15:6 (ESV)
 
 ## Why This Verse
 

@@ -2,7 +2,7 @@
 week: 13
 day: 2
 title: "Week 13 Day 2"
-reading: "Genesis 21:22-34; 22:1-8"
+reading: "Genesis 25:1-18"
 parallel_passages:
 covenant: Abrahamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 2
 
-**Reading:**
+**Reading:** Genesis 25:1-18
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

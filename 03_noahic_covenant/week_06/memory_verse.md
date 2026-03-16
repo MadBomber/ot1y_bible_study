@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 6
 covenant: Noahic Covenant
-title: Corruption and Grace
-memory_verse: "Genesis 6:8"
-verse_text: "But Noah found favor in the eyes of the LORD."
+title: The Flood
+memory_verse: "Genesis 7:1"
+verse_text: "Then the LORD said to Noah, \"Go into the ark, you and all your household, for I have found you righteous before me in this generation.\""
 translation: ESV
 image: week-06-memory-verse.png
 connections:
@@ -13,16 +13,16 @@ connections:
   - "Day 3 — "
   - "Day 4 — "
   - "Day 5 — "
-prev_week_path: /02_adamic_covenant/week_05/memory_verse
+prev_week_path: /03_noahic_covenant/week_05/memory_verse
 next_week_path: /03_noahic_covenant/week_07/memory_verse
 ---
 # Week 6: Memory Verse
 
-**Corruption and Grace**
+**The Flood**
 
-> But Noah found favor in the eyes of the LORD.
+> Then the LORD said to Noah, "Go into the ark, you and all your household, for I have found you righteous before me in this generation."
 
-Genesis 6:8 (ESV)
+Genesis 7:1 (ESV)
 
 ## Why This Verse
 

@@ -52,6 +52,12 @@ In the NT companion study, John's prologue (John 1:1-18) declares the Word as Cr
 
 The Creator will become the Re-Creator, fulfilling original creation's purpose through restoration rather than replacement, as indicated in Revelation 21:5: *"Behold, I am making all things new."*
 
+## The Personal Dimension
+
+God did not create humanity in the aggregate — he formed *a man* from dust and breathed into *his* nostrils. Before there was a nation or a people, there was a person, known and placed in a garden by name. The creation covenant is personal before it is cosmic: you are not an accident of matter but a bearer of the divine image, deliberately made and purposefully placed. The God who spoke galaxies into existence also knows the number of hairs on your head (Matthew 10:30). Every covenant that follows builds on this: *the Creator knows you personally.*
+
+> "For you formed my inward parts; you knitted me together in my mother's womb." — Psalm 139:13
+
 ## Content Expansion
 
 - **Creation theology** — deeper exploration of what Genesis 1-2 reveals about God's character and purposes

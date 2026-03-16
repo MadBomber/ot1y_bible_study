@@ -76,6 +76,12 @@ This covenant fundamentally shapes Israel's messianic expectations. Subsequent p
 
 Jesus currently reigns at God's right hand, though this kingship remains spiritually hidden. Future fulfillment awaits when "the kingdom of the world has become the kingdom of our Lord and of his Christ" (Revelation 11:15), and every knee will bow before the returning king.
 
+## The Personal Dimension
+
+David's covenant came to a king, but David's psalms come from a person. "Create in *me* a clean heart, O God, and renew a right spirit within *me*" (Psalm 51:10). The man after God's own heart was also the man who committed adultery and murder — and then fell on his face in personal repentance. The Davidic covenant shows that even the greatest covenant privileges cannot substitute for personal honesty before God. David's story is the Bible's clearest picture of how covenant faithfulness and personal failure collide — and how personal repentance, not royal status, is the path back.
+
+> "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise." — Psalm 51:17
+
 ## Content Expansion
 
 - **The royal psalms** — Psalms 2, 45, 72, 89, 110 and their messianic significance

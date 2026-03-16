@@ -1,6 +1,6 @@
 ---
 week: 14
-title: Jacob and Esau
+title: Jacob Becomes Israel
 covenant: Abrahamic Covenant
 tags:
 - discussion

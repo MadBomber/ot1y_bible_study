@@ -1,6 +1,6 @@
 ---
 week: 6
-title: Corruption and Grace
+title: The Flood
 covenant: Noahic Covenant
 tags:
 - discussion

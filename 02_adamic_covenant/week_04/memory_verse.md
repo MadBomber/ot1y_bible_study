@@ -2,7 +2,7 @@
 layout: memory_verse
 week: 4
 covenant: Adamic Covenant
-title: East of Eden
+title: East of Eden and the Line of Promise
 memory_verse: "Genesis 4:7"
 verse_text: "If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is contrary to you, but you must rule over it."
 translation: ESV
@@ -14,11 +14,11 @@ connections:
   - "Day 4 — "
   - "Day 5 — "
 prev_week_path: /02_adamic_covenant/week_03/memory_verse
-next_week_path: /02_adamic_covenant/week_05/memory_verse
+next_week_path: /03_noahic_covenant/week_05/memory_verse
 ---
 # Week 4: Memory Verse
 
-**East of Eden**
+**East of Eden and the Line of Promise**
 
 > If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is contrary to you, but you must rule over it.
 

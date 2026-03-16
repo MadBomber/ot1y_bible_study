@@ -1,8 +1,8 @@
 ---
-week: 9
+week: 5
 day: 5
-title: "Week 9 Day 5"
-reading: "Genesis 11:27-32; Acts 17:26-27"
+title: "Week 5 Day 5"
+reading: "Ezekiel 14:12-20"
 parallel_passages:
 covenant: Noahic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 5
 
-**Reading:**
+**Reading:** Ezekiel 14:12-20
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

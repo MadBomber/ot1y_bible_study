@@ -16,8 +16,8 @@ layout: page
 ---
 # Week 3: The Fall
 
-**Covenant:** [[overview|02 - Adamic Covenant]]
-**Week 3** | Genesis 3
+**Covenant:** [[overview|02_adamic_covenant]]
+**Week 3** | Genesis 3:1-7, Genesis 3:8-15, Genesis 3:16-24...
 
 ## Theme
 
@@ -27,11 +27,11 @@ layout: page
 
 | Day | Passage | Topic |
 |-----|---------|-------|
-| [[day_1]] | | |
-| [[day_2]] | | |
-| [[day_3]] | | |
-| [[day_4]] | | |
-| [[day_5]] | | |
+| [[day_1]] | Genesis 3:1-7 | |
+| [[day_2]] | Genesis 3:8-15 | |
+| [[day_3]] | Genesis 3:16-24 | |
+| [[day_4]] | Isaiah 7:14; 9:6-7 | |
+| [[day_5]] | Psalm 51:1-12 | |
 
 ## Key Themes
 
@@ -39,7 +39,9 @@ layout: page
 
 ## Memory Verse
 
+> I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.
 
+Genesis 3:15 (ESV)
 
 ---
 

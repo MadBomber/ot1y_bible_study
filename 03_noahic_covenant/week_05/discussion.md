@@ -1,6 +1,6 @@
 ---
-week: 9
-title: Nations and Babel
+week: 5
+title: Corruption and Grace
 covenant: Noahic Covenant
 tags:
 - discussion

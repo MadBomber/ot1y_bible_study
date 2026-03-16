@@ -1,6 +1,6 @@
 ---
 week: 16
-title: Joseph: God's Hidden Plan
+title: Joseph: Reconciliation and Providence
 covenant: Abrahamic Covenant
 tags:
 - discussion

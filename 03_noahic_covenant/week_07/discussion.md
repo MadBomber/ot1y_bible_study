@@ -1,6 +1,6 @@
 ---
 week: 7
-title: The Flood
+title: A New Beginning
 covenant: Noahic Covenant
 tags:
 - discussion

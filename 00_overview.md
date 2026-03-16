@@ -15,9 +15,9 @@ This Old Testament bible study traces Christ throughout Scripture, organized aro
 | # | Covenant | Weeks | Focus |
 |---|----------|-------|-------|
 | 1 | [[01_creation_covenant/overview\|Creation]] | 1–2 | Christ as the Word and Creator |
-| 2 | [[02_adamic_covenant/overview\|Adam]] | 3–5 | The Promised Seed |
-| 3 | [[03_noahic_covenant/overview\|Noah]] | 6–9 | Judgment and Salvation |
-| 4 | [[04_abrahamic_covenant/overview\|Abraham]] | 10–16 | Blessing to All Nations |
+| 2 | [[02_adamic_covenant/overview\|Adam]] | 3–4 | The Promised Seed |
+| 3 | [[03_noahic_covenant/overview\|Noah]] | 5–8 | Judgment and Salvation |
+| 4 | [[04_abrahamic_covenant/overview\|Abraham]] | 9–16 | Blessing to All Nations |
 | 5 | [[05_mosaic_covenant/overview\|Moses]] | 17–30 | Law, Lamb, and Tabernacle |
 | 6 | [[06_davidic_covenant/overview\|David]] | 31–44 | The Eternal King |
 | 7 | [[07_new_covenant/overview\|New Covenant]] | 45–49 | The Better Mediator |

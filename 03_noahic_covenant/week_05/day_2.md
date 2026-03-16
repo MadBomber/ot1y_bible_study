@@ -2,16 +2,16 @@
 week: 5
 day: 2
 title: "Week 5 Day 2"
-reading: "Genesis 5:18-32"
+reading: "Genesis 6:9-16"
 parallel_passages:
-covenant: Adamic Covenant
+covenant: Noahic Covenant
 tags:
-- covenant-2
+- covenant-3
 layout: page
 ---
 # Day 2
 
-**Reading:**
+**Reading:** Genesis 6:9-16
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

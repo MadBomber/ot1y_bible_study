@@ -2,7 +2,7 @@
 week: 4
 day: 4
 title: "Week 4 Day 4"
-reading: "Hebrews 11:4; 1 John 3:11-12"
+reading: "Genesis 5:21-32"
 parallel_passages:
 covenant: Adamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 4
 
-**Reading:**
+**Reading:** Genesis 5:21-32
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

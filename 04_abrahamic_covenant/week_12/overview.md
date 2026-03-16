@@ -1,23 +1,23 @@
 ---
 week: 12
 covenant: Abrahamic Covenant
-title: Testing and Judgment
+title: The Son of Promise
 date_range: "Week 12"
 chapters:
-- Genesis 18:1-15
-- Genesis 18:16-33
-- Genesis 19:1-17
-- Genesis 19:18-38
-- Genesis 20:1-18
+- Genesis 21:1-21
+- Genesis 21:22-34; 22:1-8
+- Genesis 22:9-19
+- Genesis 23:1-20
+- Genesis 24:1-27
 tags:
 - covenant-4
-memory_verse: "Genesis 18:25"
+memory_verse: "Genesis 22:14"
 layout: page
 ---
-# Week 12: Testing and Judgment
+# Week 12: The Son of Promise
 
-**Covenant:** [[overview|04 - Abrahamic Covenant]]
-**Week 12** | Genesis 18–20
+**Covenant:** [[overview|04_abrahamic_covenant]]
+**Week 12** | Genesis 21:1-21, Genesis 21:22-34; 22:1-8, Genesis 22:9-19...
 
 ## Theme
 
@@ -27,11 +27,11 @@ layout: page
 
 | Day | Passage | Topic |
 |-----|---------|-------|
-| [[day_1]] | | |
-| [[day_2]] | | |
-| [[day_3]] | | |
-| [[day_4]] | | |
-| [[day_5]] | | |
+| [[day_1]] | Genesis 21:1-21 | |
+| [[day_2]] | Genesis 21:22-34; 22:1-8 | |
+| [[day_3]] | Genesis 22:9-19 | |
+| [[day_4]] | Genesis 23:1-20 | |
+| [[day_5]] | Genesis 24:1-27 | |
 
 ## Key Themes
 
@@ -39,7 +39,9 @@ layout: page
 
 ## Memory Verse
 
+> So Abraham called the name of that place, "The LORD will provide"; as it is said to this day, "On the mount of the LORD it shall be provided."
 
+Genesis 22:14 (ESV)
 
 ---
 

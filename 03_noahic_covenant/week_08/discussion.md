@@ -1,6 +1,6 @@
 ---
 week: 8
-title: A New Beginning
+title: Nations and Babel
 covenant: Noahic Covenant
 tags:
 - discussion

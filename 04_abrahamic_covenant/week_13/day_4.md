@@ -2,7 +2,7 @@
 week: 13
 day: 4
 title: "Week 13 Day 4"
-reading: "Genesis 23:1-20"
+reading: "Genesis 26:1-35"
 parallel_passages:
 covenant: Abrahamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 4
 
-**Reading:**
+**Reading:** Genesis 26:1-35
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

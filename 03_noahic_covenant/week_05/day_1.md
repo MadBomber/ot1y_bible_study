@@ -1,17 +1,17 @@
 ---
-week: 9
-day: 2
-title: "Week 9 Day 2"
-reading: "Genesis 10:21-32"
+week: 5
+day: 1
+title: "Week 5 Day 1"
+reading: "Genesis 6:1-8"
 parallel_passages:
 covenant: Noahic Covenant
 tags:
 - covenant-3
 layout: page
 ---
-# Day 2
+# Day 1
 
-**Reading:**
+**Reading:** Genesis 6:1-8
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

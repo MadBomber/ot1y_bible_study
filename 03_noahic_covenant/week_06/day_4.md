@@ -2,7 +2,7 @@
 week: 6
 day: 4
 title: "Week 6 Day 4"
-reading: "2 Peter 2:4-10"
+reading: "Genesis 8:13-22"
 parallel_passages:
 covenant: Noahic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 4
 
-**Reading:**
+**Reading:** Genesis 8:13-22
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

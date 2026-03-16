@@ -1,6 +1,6 @@
 ---
 week: 11
-title: Covenant of Promise
+title: Testing and Judgment
 covenant: Abrahamic Covenant
 tags:
 - discussion

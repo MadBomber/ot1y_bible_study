@@ -1,6 +1,6 @@
 ---
 week: 4
-title: East of Eden
+title: East of Eden and the Line of Promise
 covenant: Adamic Covenant
 tags:
 - discussion

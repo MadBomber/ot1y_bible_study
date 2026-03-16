@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 13
 covenant: Abrahamic Covenant
-title: The Son of Promise
-memory_verse: "Genesis 22:14"
-verse_text: "So Abraham called the name of that place, \"The LORD will provide\"; as it is said to this day, \"On the mount of the LORD it shall be provided.\""
+title: Jacob and Esau
+memory_verse: "Genesis 25:23"
+verse_text: "And the LORD said to her, \"Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger.\""
 translation: ESV
 image: week-13-memory-verse.png
 connections:
@@ -18,11 +18,11 @@ next_week_path: /04_abrahamic_covenant/week_14/memory_verse
 ---
 # Week 13: Memory Verse
 
-**The Son of Promise**
+**Jacob and Esau**
 
-> So Abraham called the name of that place, "The LORD will provide"; as it is said to this day, "On the mount of the LORD it shall be provided."
+> And the LORD said to her, "Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger."
 
-Genesis 22:14 (ESV)
+Genesis 25:23 (ESV)
 
 ## Why This Verse
 

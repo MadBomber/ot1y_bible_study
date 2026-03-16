@@ -2,16 +2,16 @@
 week: 9
 day: 1
 title: "Week 9 Day 1"
-reading: "Genesis 10:1-20"
+reading: "Genesis 12:1-9"
 parallel_passages:
-covenant: Noahic Covenant
+covenant: Abrahamic Covenant
 tags:
-- covenant-3
+- covenant-4
 layout: page
 ---
 # Day 1
 
-**Reading:**
+**Reading:** Genesis 12:1-9
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

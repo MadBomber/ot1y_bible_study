@@ -2,7 +2,7 @@
 week: 4
 day: 1
 title: "Week 4 Day 1"
-reading: "Genesis 4:1-8"
+reading: "Genesis 4:1-16"
 parallel_passages:
 covenant: Adamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 1
 
-**Reading:**
+**Reading:** Genesis 4:1-16
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

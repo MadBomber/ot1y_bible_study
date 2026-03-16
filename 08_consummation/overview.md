@@ -84,6 +84,12 @@ Each covenant reaches completion:
 - **David:** eternal reign established
 - **New Covenant:** face-to-face dwelling with God, eternally
 
+## The Personal Dimension
+
+The consummation is cosmic — new heavens and new earth — but the deepest promise is personal: "They will see his face" (Revelation 22:4). The entire arc of Scripture moves toward a moment when the distance between God and each person is finally, permanently closed. "They shall all know me, from the least of them to the greatest" (Jeremiah 31:34) — no more teaching, no more striving, no more incomplete understanding. John 3:16's "whoever believes" finds its final answer here: every individual who entered the covenant by faith will stand in the presence of the God who called Adam by name, who walked with Enoch, who spoke to Abraham, who wrote on hearts — and who said to a dying thief, "Today you will be with me in paradise."
+
+> "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God." — Revelation 21:3
+
 ## Content Expansion
 
 - **Detailed study of Revelation 19-22** — the return of Christ, final judgment, and the new heaven and new earth

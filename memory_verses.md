@@ -38,29 +38,29 @@ Memorization is not about performance — it is about internalization, letting t
 | Week | Title | Memory Verse | |
 |------|-------|--------------|---|
 | 3 | The Fall | Genesis 3:15 | [[02_adamic_covenant/week_03/memory_verse|Card]] |
-| 4 | East of Eden | Genesis 4:7 | [[02_adamic_covenant/week_04/memory_verse|Card]] |
-| 5 | The Line of Promise | Genesis 5:24 | [[02_adamic_covenant/week_05/memory_verse|Card]] |
+| 4 | East of Eden and the Line of Promise | Genesis 4:7 | [[02_adamic_covenant/week_04/memory_verse|Card]] |
 
 ### Noahic Covenant
 
 | Week | Title | Memory Verse | |
 |------|-------|--------------|---|
-| 6 | Corruption and Grace | Genesis 6:8 | [[03_noahic_covenant/week_06/memory_verse|Card]] |
-| 7 | The Flood | Genesis 7:1 | [[03_noahic_covenant/week_07/memory_verse|Card]] |
-| 8 | A New Beginning | Genesis 9:13 | [[03_noahic_covenant/week_08/memory_verse|Card]] |
-| 9 | Nations and Babel | Genesis 11:9 | [[03_noahic_covenant/week_09/memory_verse|Card]] |
+| 5 | Corruption and Grace | Genesis 6:8 | [[03_noahic_covenant/week_05/memory_verse|Card]] |
+| 6 | The Flood | Genesis 7:1 | [[03_noahic_covenant/week_06/memory_verse|Card]] |
+| 7 | A New Beginning | Genesis 9:13 | [[03_noahic_covenant/week_07/memory_verse|Card]] |
+| 8 | Nations and Babel | Genesis 11:9 | [[03_noahic_covenant/week_08/memory_verse|Card]] |
 
 ### Abrahamic Covenant
 
 | Week | Title | Memory Verse | |
 |------|-------|--------------|---|
-| 10 | The Call of Abram | Genesis 12:2-3 | [[04_abrahamic_covenant/week_10/memory_verse|Card]] |
-| 11 | Covenant of Promise | Genesis 15:6 | [[04_abrahamic_covenant/week_11/memory_verse|Card]] |
-| 12 | Testing and Judgment | Genesis 18:25 | [[04_abrahamic_covenant/week_12/memory_verse|Card]] |
-| 13 | The Son of Promise | Genesis 22:14 | [[04_abrahamic_covenant/week_13/memory_verse|Card]] |
-| 14 | Jacob and Esau | Genesis 25:23 | [[04_abrahamic_covenant/week_14/memory_verse|Card]] |
-| 15 | Jacob Becomes Israel | Genesis 32:28 | [[04_abrahamic_covenant/week_15/memory_verse|Card]] |
-| 16 | Joseph: God's Hidden Plan | Genesis 50:20 | [[04_abrahamic_covenant/week_16/memory_verse|Card]] |
+| 9 | The Call of Abram | Genesis 12:2-3 | [[04_abrahamic_covenant/week_09/memory_verse|Card]] |
+| 10 | Covenant of Promise | Genesis 15:6 | [[04_abrahamic_covenant/week_10/memory_verse|Card]] |
+| 11 | Testing and Judgment | Genesis 18:25 | [[04_abrahamic_covenant/week_11/memory_verse|Card]] |
+| 12 | The Son of Promise | Genesis 22:14 | [[04_abrahamic_covenant/week_12/memory_verse|Card]] |
+| 13 | Jacob and Esau | Genesis 25:23 | [[04_abrahamic_covenant/week_13/memory_verse|Card]] |
+| 14 | Jacob Becomes Israel | Genesis 32:28 | [[04_abrahamic_covenant/week_14/memory_verse|Card]] |
+| 15 | Joseph: Sold and Exalted | Genesis 39:21 | [[04_abrahamic_covenant/week_15/memory_verse|Card]] |
+| 16 | Joseph: Reconciliation and Providence | Genesis 50:20 | [[04_abrahamic_covenant/week_16/memory_verse|Card]] |
 
 ### Mosaic Covenant
 

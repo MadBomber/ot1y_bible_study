@@ -2,7 +2,7 @@
 week: 8
 day: 4
 title: "Week 8 Day 4"
-reading: "Isaiah 54:9-10"
+reading: "Genesis 11:10-26"
 parallel_passages:
 covenant: Noahic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 4
 
-**Reading:**
+**Reading:** Genesis 11:10-26
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

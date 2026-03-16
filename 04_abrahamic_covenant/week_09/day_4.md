@@ -2,16 +2,16 @@
 week: 9
 day: 4
 title: "Week 9 Day 4"
-reading: "Genesis 11:10-26"
+reading: "Genesis 14:1-16"
 parallel_passages:
-covenant: Noahic Covenant
+covenant: Abrahamic Covenant
 tags:
-- covenant-3
+- covenant-4
 layout: page
 ---
 # Day 4
 
-**Reading:**
+**Reading:** Genesis 14:1-16
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

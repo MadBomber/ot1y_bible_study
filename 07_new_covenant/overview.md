@@ -70,6 +70,12 @@ In the NT companion study, the Last Supper (Luke 22:20; John 13–16) inaugurate
 
 The new covenant operates presently for all believers, yet awaits complete fulfillment. The Spirit functions as a security deposit for future completion. Upon Christ's return, the deepest covenant promise materializes: "They shall all know me, from the least of them to the greatest" (Jeremiah 31:34) — eliminating need for instruction, struggle, and incomplete understanding. Final communion will occur face-to-face in complete knowledge and restoration.
 
+## The Personal Dimension
+
+The new covenant is the most explicitly personal of all: "I will put my law *within them*, and I will write it on *their hearts*" (Jeremiah 31:33). No longer mediated through stone tablets, priests, or temples — God writes directly on the individual heart. Ezekiel sees God replacing each person's heart of stone with a heart of flesh (Ezekiel 36:26). Joel sees the Spirit poured out on "all flesh" — sons, daughters, old, young, servants. The new covenant fulfills what every previous covenant pointed toward: a God who does not merely command from outside but transforms from within. This is the covenant the thief on the cross entered with nothing but belief and a plea: "Jesus, remember me" (Luke 23:42). And Jesus' response was immediate, personal, and complete: "Today you will be with me in paradise."
+
+> "And I will give you a new heart, and a new spirit I will put within you." — Ezekiel 36:26
+
 ## Content Expansion
 
 - **The relationship between the covenants** — continuity and discontinuity across all seven covenants

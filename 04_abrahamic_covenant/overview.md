@@ -1,28 +1,29 @@
 ---
 covenant_number: 4
 title: "Covenant 4: Abrahamic Covenant"
-weeks: "10–16"
+weeks: "9–16"
 layout: page
 ---
 # Abrahamic Covenant: Blessing to All Nations
 
-**Weeks 10–16**
+**Weeks 9–16**
 
 ## Overview
 
-In seven weeks you will journey with one family through whom God intends to bless every family on earth. From Abram's call out of Ur to Joseph's providence in Egypt, the patriarchal narratives reveal a God who makes extraordinary promises to ordinary people — and keeps them across generations despite human failure. The covenant deepens in stages: a unilateral oath between divided animals, a sign cut in flesh, and a father's knife raised over his only son on Mount Moriah. Through Abraham, Isaac, Jacob, and the twelve tribes, the promised seed narrows and the blessing widens.
+In eight weeks you will journey with one family through whom God intends to bless every family on earth. From Abram's call out of Ur to Joseph's providence in Egypt, the patriarchal narratives reveal a God who makes extraordinary promises to ordinary people — and keeps them across generations despite human failure. The covenant deepens in stages: a unilateral oath between divided animals, a sign cut in flesh, and a father's knife raised over his only son on Mount Moriah. Through Abraham, Isaac, Jacob, and the twelve tribes, the promised seed narrows and the blessing widens.
 
 ## Weeks in This Covenant
 
 | Week | Title | |
 |------|-------|-|
-| 10 | [[week_10/overview\|The Call of Abram]] | Genesis 12–14 |
-| 11 | [[week_11/overview\|Covenant of Promise]] | Genesis 15–17 |
-| 12 | [[week_12/overview\|Testing and Judgment]] | Genesis 18–20 |
-| 13 | [[week_13/overview\|The Son of Promise]] | Genesis 21–24 |
-| 14 | [[week_14/overview\|Jacob and Esau]] | Genesis 25–28 |
-| 15 | [[week_15/overview\|Jacob Becomes Israel]] | Genesis 29–36 |
-| 16 | [[week_16/overview\|Joseph: God's Hidden Plan]] | Genesis 37–50 |
+| 9 | [[week_09/overview\|The Call of Abram]] | Genesis 12–14 |
+| 10 | [[week_10/overview\|Covenant of Promise]] | Genesis 15–17 |
+| 11 | [[week_11/overview\|Testing and Judgment]] | Genesis 18–20 |
+| 12 | [[week_12/overview\|The Son of Promise]] | Genesis 21–24 |
+| 13 | [[week_13/overview\|Jacob and Esau]] | Genesis 25–28 |
+| 14 | [[week_14/overview\|Jacob Becomes Israel]] | Genesis 29–36 |
+| 15 | [[week_15/overview\|Joseph: Sold and Exalted]] | Genesis 37–41 |
+| 16 | [[week_16/overview\|Joseph: Reconciliation and Providence]] | Genesis 42–50 |
 
 ## The Foundation
 
@@ -64,6 +65,12 @@ In the NT companion study, Galatians 3 argues that the gospel was preached befor
 ## Looking Ahead
 
 The promise transcends national boundaries, ultimately fulfilled in Revelation 7:9's vision of "a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne."
+
+## The Personal Dimension
+
+The covenant that would bless "all the families of the earth" began with one man believing one promise. "And he believed the LORD, and he counted it to him as righteousness" (Genesis 15:6). This is the verse Paul seizes in Romans 4 and Galatians 3 to argue that personal faith — not ethnicity, not circumcision, not law-keeping — is how anyone enters the covenant. Abraham's faith was not generic trust but personal surrender: leaving Ur without a map, waiting decades for a son, raising a knife over that son on Moriah. The Abrahamic covenant reveals that God's universal plan always runs through individual trust.
+
+> "And he believed the LORD, and he counted it to him as righteousness." — Genesis 15:6
 
 ## Content Expansion
 

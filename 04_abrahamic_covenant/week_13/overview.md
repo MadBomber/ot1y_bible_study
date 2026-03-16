@@ -1,23 +1,23 @@
 ---
 week: 13
 covenant: Abrahamic Covenant
-title: The Son of Promise
+title: Jacob and Esau
 date_range: "Week 13"
 chapters:
-- Genesis 21:1-21
-- Genesis 21:22-34; 22:1-8
-- Genesis 22:9-19
-- Genesis 23:1-20
-- Genesis 24:1-27
+- Genesis 24:28-67
+- Genesis 25:1-18
+- Genesis 25:19-34
+- Genesis 26:1-35
+- Genesis 27:1-40
 tags:
 - covenant-4
-memory_verse: "Genesis 22:14"
+memory_verse: "Genesis 25:23"
 layout: page
 ---
-# Week 13: The Son of Promise
+# Week 13: Jacob and Esau
 
-**Covenant:** [[overview|04 - Abrahamic Covenant]]
-**Week 13** | Genesis 21–24
+**Covenant:** [[overview|04_abrahamic_covenant]]
+**Week 13** | Genesis 24:28-67, Genesis 25:1-18, Genesis 25:19-34...
 
 ## Theme
 
@@ -27,11 +27,11 @@ layout: page
 
 | Day | Passage | Topic |
 |-----|---------|-------|
-| [[day_1]] | | |
-| [[day_2]] | | |
-| [[day_3]] | | |
-| [[day_4]] | | |
-| [[day_5]] | | |
+| [[day_1]] | Genesis 24:28-67 | |
+| [[day_2]] | Genesis 25:1-18 | |
+| [[day_3]] | Genesis 25:19-34 | |
+| [[day_4]] | Genesis 26:1-35 | |
+| [[day_5]] | Genesis 27:1-40 | |
 
 ## Key Themes
 
@@ -39,7 +39,9 @@ layout: page
 
 ## Memory Verse
 
+> And the LORD said to her, "Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger."
 
+Genesis 25:23 (ESV)
 
 ---
 

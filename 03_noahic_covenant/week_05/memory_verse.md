@@ -1,10 +1,10 @@
 ---
 layout: memory_verse
 week: 5
-covenant: Adamic Covenant
-title: The Line of Promise
-memory_verse: "Genesis 5:24"
-verse_text: "Enoch walked with God, and he was not, for God took him."
+covenant: Noahic Covenant
+title: Corruption and Grace
+memory_verse: "Genesis 6:8"
+verse_text: "But Noah found favor in the eyes of the LORD."
 translation: ESV
 image: week-05-memory-verse.png
 connections:
@@ -18,11 +18,11 @@ next_week_path: /03_noahic_covenant/week_06/memory_verse
 ---
 # Week 5: Memory Verse
 
-**The Line of Promise**
+**Corruption and Grace**
 
-> Enoch walked with God, and he was not, for God took him.
+> But Noah found favor in the eyes of the LORD.
 
-Genesis 5:24 (ESV)
+Genesis 6:8 (ESV)
 
 ## Why This Verse
 

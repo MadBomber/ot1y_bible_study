@@ -1,6 +1,6 @@
 ---
 week: 12
-title: Testing and Judgment
+title: The Son of Promise
 covenant: Abrahamic Covenant
 tags:
 - discussion

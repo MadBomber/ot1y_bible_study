@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 14
 covenant: Abrahamic Covenant
-title: Jacob and Esau
-memory_verse: "Genesis 25:23"
-verse_text: "And the LORD said to her, \"Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger.\""
+title: Jacob Becomes Israel
+memory_verse: "Genesis 32:28"
+verse_text: "Then he said, \"Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.\""
 translation: ESV
 image: week-14-memory-verse.png
 connections:
@@ -18,11 +18,11 @@ next_week_path: /04_abrahamic_covenant/week_15/memory_verse
 ---
 # Week 14: Memory Verse
 
-**Jacob and Esau**
+**Jacob Becomes Israel**
 
-> And the LORD said to her, "Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger."
+> Then he said, "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed."
 
-Genesis 25:23 (ESV)
+Genesis 32:28 (ESV)
 
 ## Why This Verse
 

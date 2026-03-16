@@ -1,8 +1,8 @@
 ---
-week: 11
+week: 9
 day: 2
-title: "Week 11 Day 2"
-reading: "Genesis 18:16-33"
+title: "Week 9 Day 2"
+reading: "Genesis 12:10-20"
 parallel_passages:
 covenant: Abrahamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 2
 
-**Reading:** Genesis 18:16-33
+**Reading:** Genesis 12:10-20
 
 ## Historical Context
 

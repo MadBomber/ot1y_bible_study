@@ -1,6 +1,6 @@
 ---
 week: 13
-title: The Son of Promise
+title: Jacob and Esau
 covenant: Abrahamic Covenant
 tags:
 - discussion

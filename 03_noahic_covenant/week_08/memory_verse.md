@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 8
 covenant: Noahic Covenant
-title: A New Beginning
-memory_verse: "Genesis 9:13"
-verse_text: "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth."
+title: Nations and Babel
+memory_verse: "Genesis 11:9"
+verse_text: "Therefore its name was called Babel, because there the LORD confused the language of all the earth. And from there the LORD dispersed them over the face of all the earth."
 translation: ESV
 image: week-08-memory-verse.png
 connections:
@@ -14,15 +14,15 @@ connections:
   - "Day 4 — "
   - "Day 5 — "
 prev_week_path: /03_noahic_covenant/week_07/memory_verse
-next_week_path: /03_noahic_covenant/week_09/memory_verse
+next_week_path: /04_abrahamic_covenant/week_09/memory_verse
 ---
 # Week 8: Memory Verse
 
-**A New Beginning**
+**Nations and Babel**
 
-> I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.
+> Therefore its name was called Babel, because there the LORD confused the language of all the earth. And from there the LORD dispersed them over the face of all the earth.
 
-Genesis 9:13 (ESV)
+Genesis 11:9 (ESV)
 
 ## Why This Verse
 

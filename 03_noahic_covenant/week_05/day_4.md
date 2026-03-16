@@ -2,16 +2,16 @@
 week: 5
 day: 4
 title: "Week 5 Day 4"
-reading: "Luke 3:36-38"
+reading: "2 Peter 2:4-10"
 parallel_passages:
-covenant: Adamic Covenant
+covenant: Noahic Covenant
 tags:
-- covenant-2
+- covenant-3
 layout: page
 ---
 # Day 4
 
-**Reading:**
+**Reading:** 2 Peter 2:4-10
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

@@ -1,6 +1,6 @@
 ---
 week: 10
-title: The Call of Abram
+title: Covenant of Promise
 covenant: Abrahamic Covenant
 tags:
 - discussion

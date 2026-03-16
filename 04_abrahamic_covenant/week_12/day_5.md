@@ -2,7 +2,7 @@
 week: 12
 day: 5
 title: "Week 12 Day 5"
-reading: "Genesis 20:1-18"
+reading: "Genesis 24:1-27"
 parallel_passages:
 covenant: Abrahamic Covenant
 tags:
@@ -11,7 +11,7 @@ layout: page
 ---
 # Day 5
 
-**Reading:**
+**Reading:** Genesis 24:1-27
 
 ## Historical Context
 
@@ -46,4 +46,4 @@ layout: page
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]

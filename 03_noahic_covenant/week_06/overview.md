@@ -1,23 +1,23 @@
 ---
 week: 6
 covenant: Noahic Covenant
-title: Corruption and Grace
+title: The Flood
 date_range: "Week 6"
 chapters:
-- Genesis 6:1-8
-- Genesis 6:9-16
-- Genesis 6:17-22
-- 2 Peter 2:4-10
-- Ezekiel 14:12-20
+- Genesis 7:1-12
+- Genesis 7:13-24
+- Genesis 8:1-12
+- Genesis 8:13-22
+- 1 Peter 3:18-22
 tags:
 - covenant-3
-memory_verse: "Genesis 6:8"
+memory_verse: "Genesis 7:1"
 layout: page
 ---
-# Week 6: Corruption and Grace
+# Week 6: The Flood
 
-**Covenant:** [[overview|03 - Noahic Covenant]]
-**Week 6** | Genesis 6
+**Covenant:** [[overview|03_noahic_covenant]]
+**Week 6** | Genesis 7:1-12, Genesis 7:13-24, Genesis 8:1-12...
 
 ## Theme
 
@@ -27,11 +27,11 @@ layout: page
 
 | Day | Passage | Topic |
 |-----|---------|-------|
-| [[day_1]] | | |
-| [[day_2]] | | |
-| [[day_3]] | | |
-| [[day_4]] | | |
-| [[day_5]] | | |
+| [[day_1]] | Genesis 7:1-12 | |
+| [[day_2]] | Genesis 7:13-24 | |
+| [[day_3]] | Genesis 8:1-12 | |
+| [[day_4]] | Genesis 8:13-22 | |
+| [[day_5]] | 1 Peter 3:18-22 | |
 
 ## Key Themes
 
@@ -39,7 +39,9 @@ layout: page
 
 ## Memory Verse
 
+> Then the LORD said to Noah, "Go into the ark, you and all your household, for I have found you righteous before me in this generation."
 
+Genesis 7:1 (ESV)
 
 ---
 

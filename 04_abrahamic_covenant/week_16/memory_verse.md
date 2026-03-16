@@ -2,7 +2,7 @@
 layout: memory_verse
 week: 16
 covenant: Abrahamic Covenant
-title: Joseph: God's Hidden Plan
+title: Joseph: Reconciliation and Providence
 memory_verse: "Genesis 50:20"
 verse_text: "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."
 translation: ESV
@@ -18,7 +18,7 @@ next_week_path: /05_mosaic_covenant/week_17/memory_verse
 ---
 # Week 16: Memory Verse
 
-**Joseph: God's Hidden Plan**
+**Joseph: Reconciliation and Providence**
 
 > As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.
 

@@ -1,6 +1,6 @@
 ---
 week: 15
-title: Jacob Becomes Israel
+title: Joseph: Sold and Exalted
 covenant: Abrahamic Covenant
 tags:
 - discussion

@@ -2,9 +2,9 @@
 layout: memory_verse
 week: 15
 covenant: Abrahamic Covenant
-title: Jacob Becomes Israel
-memory_verse: "Genesis 32:28"
-verse_text: "Then he said, \"Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.\""
+title: Joseph: Sold and Exalted
+memory_verse: "Genesis 39:21"
+verse_text: "But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison."
 translation: ESV
 image: week-15-memory-verse.png
 connections:
@@ -18,11 +18,11 @@ next_week_path: /04_abrahamic_covenant/week_16/memory_verse
 ---
 # Week 15: Memory Verse
 
-**Jacob Becomes Israel**
+**Joseph: Sold and Exalted**
 
-> Then he said, "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed."
+> But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.
 
-Genesis 32:28 (ESV)
+Genesis 39:21 (ESV)
 
 ## Why This Verse
 

@@ -1,10 +1,10 @@
 ---
-week: 5
-title: The Line of Promise
-covenant: Adamic Covenant
+week: 9
+title: The Call of Abram
+covenant: Abrahamic Covenant
 tags:
 - discussion
-- covenant-2
+- covenant-4
 layout: page
 ---
 # Discussion

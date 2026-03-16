@@ -31,44 +31,37 @@ A 52-week journey through the Old Testament — 5 days per week — tracing Chri
 - 4. Isaiah 7:14; 9:6-7
 - 5. Psalm 51:1-12
 
-### Week 4: East of Eden
-- 1. Genesis 4:1-8
-- 2. Genesis 4:9-16
-- 3. Genesis 4:17-26
-- 4. Hebrews 11:4; 1 John 3:11-12
-- 5. Psalm 32
-
-### Week 5: The Line of Promise
-- 1. Genesis 5:1-17
-- 2. Genesis 5:18-32
-- 3. 1 Chronicles 1:1-4
-- 4. Luke 3:36-38
-- 5. Jude 14-15; Hebrews 11:5-6
+### Week 4: East of Eden and the Line of Promise
+- 1. Genesis 4:1-16
+- 2. Genesis 4:17-26
+- 3. Genesis 5:1-20
+- 4. Genesis 5:21-32
+- 5. Jude 14-15; Hebrews 11:4-6
 
 ## Noahic Covenant
 
-### Week 6: Corruption and Grace
+### Week 5: Corruption and Grace
 - 1. Genesis 6:1-8
 - 2. Genesis 6:9-16
 - 3. Genesis 6:17-22
 - 4. 2 Peter 2:4-10
 - 5. Ezekiel 14:12-20
 
-### Week 7: The Flood
+### Week 6: The Flood
 - 1. Genesis 7:1-12
 - 2. Genesis 7:13-24
 - 3. Genesis 8:1-12
 - 4. Genesis 8:13-22
 - 5. 1 Peter 3:18-22
 
-### Week 8: A New Beginning
+### Week 7: A New Beginning
 - 1. Genesis 9:1-7
 - 2. Genesis 9:8-17
 - 3. Genesis 9:18-29
 - 4. Isaiah 54:9-10
 - 5. 2 Peter 3:3-13
 
-### Week 9: Nations and Babel
+### Week 8: Nations and Babel
 - 1. Genesis 10:1-20
 - 2. Genesis 10:21-32
 - 3. Genesis 11:1-9
@@ -77,54 +70,61 @@ A 52-week journey through the Old Testament — 5 days per week — tracing Chri
 
 ## Abrahamic Covenant
 
-### Week 10: The Call of Abram
+### Week 9: The Call of Abram
 - 1. Genesis 12:1-9
 - 2. Genesis 12:10-20
 - 3. Genesis 13:1-18
 - 4. Genesis 14:1-16
 - 5. Genesis 14:17-24; Hebrews 7:1-10
 
-### Week 11: Covenant of Promise
+### Week 10: Covenant of Promise
 - 1. Genesis 15:1-6
 - 2. Genesis 15:7-21
 - 3. Genesis 16:1-16
 - 4. Genesis 17:1-14
 - 5. Genesis 17:15-27
 
-### Week 12: Testing and Judgment
+### Week 11: Testing and Judgment
 - 1. Genesis 18:1-15
 - 2. Genesis 18:16-33
 - 3. Genesis 19:1-17
 - 4. Genesis 19:18-38
 - 5. Genesis 20:1-18
 
-### Week 13: The Son of Promise
+### Week 12: The Son of Promise
 - 1. Genesis 21:1-21
 - 2. Genesis 21:22-34; Genesis 22:1-8
 - 3. Genesis 22:9-19
 - 4. Genesis 23:1-20
 - 5. Genesis 24:1-27
 
-### Week 14: Jacob and Esau
+### Week 13: Jacob and Esau
 - 1. Genesis 24:28-67
 - 2. Genesis 25:1-18
 - 3. Genesis 25:19-34
 - 4. Genesis 26:1-35
 - 5. Genesis 27:1-40
 
-### Week 15: Jacob Becomes Israel
+### Week 14: Jacob Becomes Israel
 - 1. Genesis 27:41–28:22
 - 2. Genesis 29:1-30
 - 3. Genesis 29:31–30:24
 - 4. Genesis 31:1-55
 - 5. Genesis 32:1–33:20
 
-### Week 16: Joseph: God's Hidden Plan
+### Week 15: Joseph: Sold and Exalted
 - 1. Genesis 37:1-36
-- 2. Genesis 39:1–40:23
-- 3. Genesis 41:1-57
-- 4. Genesis 42:1–44:34
-- 5. Genesis 45:1–50:26
+- 2. Genesis 39:1-23
+- 3. Genesis 40:1-23
+- 4. Genesis 41:1-40
+- 5. Genesis 41:41-57
+
+### Week 16: Joseph: Reconciliation and Providence
+- 1. Genesis 42:1-38
+- 2. Genesis 43:1–44:34
+- 3. Genesis 45:1-28
+- 4. Genesis 46:1–47:31
+- 5. Genesis 48:1–50:26
 
 ## Mosaic Covenant
 

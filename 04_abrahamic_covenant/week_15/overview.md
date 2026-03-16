@@ -1,23 +1,23 @@
 ---
 week: 15
 covenant: Abrahamic Covenant
-title: Jacob Becomes Israel
+title: Joseph: Sold and Exalted
 date_range: "Week 15"
 chapters:
-- Genesis 27:41-28:22
-- Genesis 29:1-30
-- Genesis 29:31-30:24
-- Genesis 31:1-55
-- Genesis 32:1-33:20
+- Genesis 37:1-36
+- Genesis 39:1-23
+- Genesis 40:1-23
+- Genesis 41:1-40
+- Genesis 41:41-57
 tags:
 - covenant-4
-memory_verse: "Genesis 32:28"
+memory_verse: "Genesis 39:21"
 layout: page
 ---
-# Week 15: Jacob Becomes Israel
+# Week 15: Joseph: Sold and Exalted
 
-**Covenant:** [[overview|04 - Abrahamic Covenant]]
-**Week 15** | Genesis 29–36
+**Covenant:** [[overview|04_abrahamic_covenant]]
+**Week 15** | Genesis 37:1-36, Genesis 39:1-23, Genesis 40:1-23...
 
 ## Theme
 
@@ -27,11 +27,11 @@ layout: page
 
 | Day | Passage | Topic |
 |-----|---------|-------|
-| [[day_1]] | | |
-| [[day_2]] | | |
-| [[day_3]] | | |
-| [[day_4]] | | |
-| [[day_5]] | | |
+| [[day_1]] | Genesis 37:1-36 | |
+| [[day_2]] | Genesis 39:1-23 | |
+| [[day_3]] | Genesis 40:1-23 | |
+| [[day_4]] | Genesis 41:1-40 | |
+| [[day_5]] | Genesis 41:41-57 | |
 
 ## Key Themes
 
@@ -39,7 +39,9 @@ layout: page
 
 ## Memory Verse
 
+> But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.
 
+Genesis 39:21 (ESV)
 
 ---
 
