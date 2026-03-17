@@ -102,4 +102,4 @@ The consummation is cosmic — new heavens and new earth — but the deepest pro
 
 ---
 
-**See also:** [[../07_new_covenant/overview|New Covenant]] | [[../00_overview|Overview]]
+**See also:** [[../07_new_covenant/overview|New Covenant]] | [[../README|Overview]]

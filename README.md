@@ -2,11 +2,15 @@
 
 **A One-Year Old Testament Chronological Bible Study**
 
-> *The Old Testament is not a prelude. It is the first act of a single story -- and the central figure of that story is already present on every page.*
+> *The New Testament does not begin at Matthew. It begins at Genesis.*
 
-This study traces Christ through the entire Old Testament, organized around seven major covenants and a final consummation. The purpose is singular: to expose how Jesus is everywhere in Scripture -- not as an afterthought imposed on ancient texts but as the one to whom every promise, every sacrifice, every prophet, and every king has been pointing from the beginning.
+A promise of a seed in a garden. A ram substituted on a mountain. A lamb's blood marking doorposts during enslavement. A tabernacle establishing God's presence among a people who cannot stop wandering. A prophet like Moses who will finally be heard. A king on an eternal throne. A suffering servant who bears what no one else can carry. A son of man receiving dominion over every nation on earth.
 
-Fifty-two weeks. Five days per week. 260 individual studies. From "In the beginning, God created the heavens and the earth" to the last whisper of expectation before the silence breaks and an angel appears to an elderly priest in the temple.
+The Old Testament is not a prelude. It is the first act of a single story -- and the central figure of that story is already present on every page. He is the Word who speaks creation into existence, the seed promised to a woman in a shattered garden, the ark that carries the righteous through judgment, the offspring through whom every family on earth will be blessed. He is the lamb, the priest, the tabernacle, the prophet, the king. He is the one the prophets saw from a distance and described with an ache of longing that would not be satisfied for centuries.
+
+This study traces Christ through the entire Old Testament, organized around seven major covenants and a final consummation. Each covenant reveals another facet of who he is and what he came to do. Together they form the theological backbone of the Bible -- the promises God made, kept partially in their own time, and fulfilled completely in a carpenter from Nazareth.
+
+Fifty-two weeks. Five days per week. 260 individual studies. From the first verse of Genesis to the last whisper of expectation before the silence breaks and an angel appears to an elderly priest in the temple.
 
 ---
 
@@ -33,6 +37,8 @@ Fifty-two weeks. Five days per week. 260 individual studies. From "In the beginn
 ---
 
 ## How This Study Works
+
+Each of the eight sections begins with a covenant overview that establishes the theological foundation -- the Old Testament promise, its New Testament fulfillment, and its ultimate completion at Christ's return. Within each section, weekly overviews frame five days of reading with historical context, key themes, and connections to Christ. Every week closes with a discussion guide and a memory verse.
 
 Each week contains:
 

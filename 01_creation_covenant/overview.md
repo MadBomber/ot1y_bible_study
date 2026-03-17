@@ -70,4 +70,4 @@ Genesis 1 is not a scientific text, and this study does not treat it as one. But
 
 ---
 
-**See also:** [[00_overview]] | [[../02_adamic_covenant/overview|Adamic Covenant]]
+**See also:** [[../README|Overview]] | [[../02_adamic_covenant/overview|Adamic Covenant]]
