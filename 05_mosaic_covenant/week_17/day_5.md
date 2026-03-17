@@ -69,4 +69,4 @@ God of the covenant, you are the one who visits your people after centuries of s
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[Week 16](../../04_abrahamic_covenant/week_16/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 18](../week_18/overview.md)

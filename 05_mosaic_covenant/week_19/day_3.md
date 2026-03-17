@@ -70,4 +70,4 @@ God of the far shore, you are the one who turns the sea into a highway and the b
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | **Day 3** | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 18](../week_18/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) **3** [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 20](../week_20/overview.md)

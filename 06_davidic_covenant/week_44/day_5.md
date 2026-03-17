@@ -71,4 +71,4 @@ God of the watchtower and the song, you are the God Habakkuk questioned and Zeph
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[Week 43](../week_43/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 45](../../07_new_covenant/week_45/overview.md)

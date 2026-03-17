@@ -73,4 +73,4 @@ And Lamech's seventy-sevenfold — the war song of escalating revenge — finds 
 
 ---
 
-*[[../week_03/overview|Week 3]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../../03_noahic_covenant/week_05/overview|Week 5]]*
+[Week 3](../week_03/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 5](../../03_noahic_covenant/week_05/overview.md)

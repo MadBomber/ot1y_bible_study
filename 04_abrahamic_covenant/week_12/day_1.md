@@ -69,4 +69,4 @@ Father, you are the God who visits the barren and brings laughter out of impossi
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 11](../week_11/overview.md) | [Overview](overview.md) **1** [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 13](../week_13/overview.md)

@@ -101,4 +101,4 @@ Next week the confrontation begins. Moses stands before Pharaoh: "Let my people 
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | **Discussion**
+[Week 16](../../04_abrahamic_covenant/week_16/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) **Discussion** | [Week 18](../week_18/overview.md)

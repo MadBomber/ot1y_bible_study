@@ -73,4 +73,4 @@ Faithful God, you remembered Noah when the world was drowned and silent, when 15
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | **Day 3** | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 5](../week_05/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) **3** [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 7](../week_07/overview.md)

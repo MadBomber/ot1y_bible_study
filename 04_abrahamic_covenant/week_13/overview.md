@@ -66,4 +66,4 @@ And Jacob himself — the deceiver, the heel-grasper, the man who schemes his wa
 
 ---
 
-*[[../week_12/overview|Week 12]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_14/overview|Week 14]]*
+[Week 12](../week_12/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 14](../week_14/overview.md)

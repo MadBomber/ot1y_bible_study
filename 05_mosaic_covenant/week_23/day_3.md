@@ -70,4 +70,4 @@ Lord God, you commanded that the fire on the altar should never go out -- and fo
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | **Day 3** | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 22](../week_22/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) **3** [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 24](../week_24/overview.md)

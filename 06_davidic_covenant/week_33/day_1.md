@@ -71,4 +71,4 @@ Father, you see what we cannot. You looked past the height and stature of seven 
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 32](../week_32/overview.md) | [Overview](overview.md) **1** [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 34](../week_34/overview.md)

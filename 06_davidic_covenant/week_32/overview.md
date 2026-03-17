@@ -62,4 +62,4 @@ And Samuel's principle — "to obey is better than sacrifice" — finds its ulti
 
 ---
 
-*[[../week_31/overview|Week 31]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_33/overview|Week 33]]*
+[Week 31](../week_31/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 33](../week_33/overview.md)

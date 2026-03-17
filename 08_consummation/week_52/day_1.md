@@ -71,4 +71,4 @@ God of the first *bara* and the last, you who spoke the first cosmos from nothin
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 51](../week_51/overview.md) | [Overview](overview.md) **1** [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) |

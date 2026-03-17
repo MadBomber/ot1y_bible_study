@@ -75,4 +75,4 @@ And the mountain Zechariah saw splitting — the Mount of Olives — is the moun
 
 ---
 
-*[[../week_50/overview|Week 50]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_52/overview|Week 52]]*
+[Week 50](../week_50/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 52](../week_52/overview.md)

@@ -71,4 +71,4 @@ Faithful God, you are the one who sends, who provides, and who brings together w
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 11](../week_11/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 13](../week_13/overview.md)

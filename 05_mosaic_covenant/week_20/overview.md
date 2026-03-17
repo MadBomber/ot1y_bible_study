@@ -63,4 +63,4 @@ And the meal on the mountain — the elders eating and drinking in the presence 
 
 ---
 
-*[[../week_19/overview|Week 19]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_21/overview|Week 21]]*
+[Week 19](../week_19/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 21](../week_21/overview.md)

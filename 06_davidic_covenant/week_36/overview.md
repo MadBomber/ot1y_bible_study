@@ -64,4 +64,4 @@ And Psalm 89's unanswered cry — "How long, O LORD?" — receives its answer no
 
 ---
 
-*[[../week_35/overview|Week 35]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_37/overview|Week 37]]*
+[Week 35](../week_35/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 37](../week_37/overview.md)

@@ -71,4 +71,4 @@ Lord Jesus, you are the king the psalmist saw and could barely describe -- the m
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[Week 35](../week_35/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 37](../week_37/overview.md)

@@ -69,4 +69,4 @@ Sovereign God, you rule over empires and angels, over the visible and the invisi
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 48](../week_48/overview.md) | [Overview](overview.md) [1](day_1.md) **2** [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 50](../../08_consummation/week_50/overview.md)

@@ -82,4 +82,4 @@ Everlasting God, Creator of the ends of the earth -- you do not faint. You do no
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[Week 1](../week_01/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 3](../../02_adamic_covenant/week_03/overview.md)

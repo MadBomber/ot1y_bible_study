@@ -66,4 +66,4 @@ And the blood that the priests carry into the holy place — through the curtain
 
 ---
 
-*[[../week_22/overview|Week 22]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_24/overview|Week 24]]*
+[Week 22](../week_22/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 24](../week_24/overview.md)

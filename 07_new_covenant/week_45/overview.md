@@ -69,4 +69,4 @@ And the weeping mingled with shouting at the foundation ceremony finds its echo 
 
 ---
 
-*[[../../06_davidic_covenant/week_44/overview|Week 44]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_46/overview|Week 46]]*
+[Week 44](../../06_davidic_covenant/week_44/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 46](../week_46/overview.md)

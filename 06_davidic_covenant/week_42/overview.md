@@ -66,4 +66,4 @@ And Christ is the bridegroom of the Song — the beloved whose love is "strong a
 
 ---
 
-*[[../week_41/overview|Week 41]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_43/overview|Week 43]]*
+[Week 41](../week_41/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 43](../week_43/overview.md)

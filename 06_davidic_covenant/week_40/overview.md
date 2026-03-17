@@ -64,4 +64,4 @@ And Elijah's departure in the chariot of fire — ascending alive, taken up whil
 
 ---
 
-*[[../week_39/overview|Week 39]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_41/overview|Week 41]]*
+[Week 39](../week_39/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 41](../week_41/overview.md)

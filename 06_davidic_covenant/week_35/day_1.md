@@ -69,4 +69,4 @@ Lord God, you called David to grieve before he could reign, to weep before he co
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 34](../week_34/overview.md) | [Overview](overview.md) **1** [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 36](../week_36/overview.md)

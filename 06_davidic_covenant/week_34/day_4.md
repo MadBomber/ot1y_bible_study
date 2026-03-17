@@ -71,4 +71,4 @@ LORD, we come to you as people who know both the summit and the valley -- who ca
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 33](../week_33/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) **4** [5](day_5.md) [Discussion](discussion.md) | [Week 35](../week_35/overview.md)

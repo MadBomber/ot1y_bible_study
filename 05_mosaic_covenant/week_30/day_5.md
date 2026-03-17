@@ -77,4 +77,4 @@ Lord God, you are the Redeemer who is near, who is willing, who has paid the pri
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[Week 29](../week_29/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 31](../../06_davidic_covenant/week_31/overview.md)

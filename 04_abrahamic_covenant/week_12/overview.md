@@ -72,4 +72,4 @@ And Isaac's question — "Where is the lamb?" — echoes across the centuries un
 
 ---
 
-*[[../week_11/overview|Week 11]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_13/overview|Week 13]]*
+[Week 11](../week_11/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 13](../week_13/overview.md)

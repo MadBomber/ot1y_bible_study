@@ -99,4 +99,4 @@ Next week we turn to Genesis 10-11 -- the Table of Nations and the Tower of Babe
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | **Discussion**
+[Week 6](../week_06/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) **Discussion** | [Week 8](../week_08/overview.md)

@@ -66,4 +66,4 @@ And the still small voice of Horeb — the whisper God uses when the prophet is 
 
 ---
 
-*[[../week_38/overview|Week 38]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_40/overview|Week 40]]*
+[Week 38](../week_38/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 40](../week_40/overview.md)

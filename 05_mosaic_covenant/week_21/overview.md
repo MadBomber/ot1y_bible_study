@@ -62,4 +62,4 @@ Christ enters "the greater and more perfect tent (not made with hands)" (Hebrews
 
 ---
 
-*[[../week_20/overview|Week 20]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_22/overview|Week 22]]*
+[Week 20](../week_20/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 22](../week_22/overview.md)

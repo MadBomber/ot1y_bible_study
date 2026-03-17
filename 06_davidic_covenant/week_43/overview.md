@@ -68,4 +68,4 @@ And Ezekiel's shepherd — the one who searches for lost sheep, who binds up the
 
 ---
 
-*[[../week_42/overview|Week 42]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_44/overview|Week 44]]*
+[Week 42](../week_42/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 44](../week_44/overview.md)

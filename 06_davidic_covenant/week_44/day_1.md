@@ -70,4 +70,4 @@ Faithful God, you are the husband who will not stop pursuing, the father who tau
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 43](../week_43/overview.md) | [Overview](overview.md) **1** [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 45](../../07_new_covenant/week_45/overview.md)

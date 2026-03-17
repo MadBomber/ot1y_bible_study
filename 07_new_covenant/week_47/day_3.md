@@ -72,4 +72,4 @@ God of the valley, you set your prophet among bones that were very many and very
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | **Day 3** | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 46](../week_46/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) **3** [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 48](../week_48/overview.md)

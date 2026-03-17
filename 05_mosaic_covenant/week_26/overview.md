@@ -64,4 +64,4 @@ And Balaam's star prophecy — "A star shall come out of Jacob, and a scepter sh
 
 ---
 
-*[[../week_25/overview|Week 25]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_27/overview|Week 27]]*
+[Week 25](../week_25/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 27](../week_27/overview.md)

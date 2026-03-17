@@ -61,4 +61,4 @@ The Wisdom of Proverbs 8 — present before the earth's foundations, rejoicing a
 
 ---
 
-*[[../week_01/overview|Week 1]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../../02_adamic_covenant/week_03/overview|Week 3]]*
+[Week 1](../week_01/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 3](../../02_adamic_covenant/week_03/overview.md)

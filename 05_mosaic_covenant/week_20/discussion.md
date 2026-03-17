@@ -101,4 +101,4 @@ Next week God does something even more astonishing than giving the law. He moves
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | **Discussion**
+[Week 19](../week_19/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) **Discussion** | [Week 21](../week_21/overview.md)

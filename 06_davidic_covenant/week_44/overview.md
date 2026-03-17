@@ -69,4 +69,4 @@ And Micah's ruler from Bethlehem — whose origins are from ancient days — arr
 
 ---
 
-*[[../week_43/overview|Week 43]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../../07_new_covenant/week_45/overview|Week 45]]*
+[Week 43](../week_43/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 45](../../07_new_covenant/week_45/overview.md)

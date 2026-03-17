@@ -69,4 +69,4 @@ God of justice and mercy, we bring before you the parts of this story that are h
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 36](../week_36/overview.md) | [Overview](overview.md) [1](day_1.md) **2** [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 38](../week_38/overview.md)

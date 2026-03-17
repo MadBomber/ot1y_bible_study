@@ -72,4 +72,4 @@ Lord God, you are the one who brought Israel out of Egypt and into the land of p
 
 ---
 
-[[overview|Overview]] | **Day 1** | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 29](../week_29/overview.md) | [Overview](overview.md) **1** [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 31](../../06_davidic_covenant/week_31/overview.md)

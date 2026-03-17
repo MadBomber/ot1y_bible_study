@@ -69,4 +69,4 @@ And Malachi's final promise — "I will send you Elijah the prophet" — breaks 
 
 ---
 
-*[[../week_47/overview|Week 47]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_49/overview|Week 49]]*
+[Week 47](../week_47/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 49](../week_49/overview.md)

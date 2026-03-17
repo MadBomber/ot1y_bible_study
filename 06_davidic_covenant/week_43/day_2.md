@@ -71,4 +71,4 @@ Father, we stand before the mystery your prophet described -- a child called Mig
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 42](../week_42/overview.md) | [Overview](overview.md) [1](day_1.md) **2** [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 44](../week_44/overview.md)

@@ -66,4 +66,4 @@ And Joshua's "choose this day" — the demand for undivided allegiance at Sheche
 
 ---
 
-*[[../week_28/overview|Week 28]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_30/overview|Week 30]]*
+[Week 28](../week_28/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 30](../week_30/overview.md)

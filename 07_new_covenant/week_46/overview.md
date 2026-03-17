@@ -69,4 +69,4 @@ And the reversal of Purim — death transformed into deliverance, the enemy's we
 
 ---
 
-*[[../week_45/overview|Week 45]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_47/overview|Week 47]]*
+[Week 45](../week_45/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 47](../week_47/overview.md)

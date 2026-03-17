@@ -62,4 +62,4 @@ And the glory that fills the tabernacle at the end of Exodus — the *kavod* so 
 
 ---
 
-*[[../week_21/overview|Week 21]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_23/overview|Week 23]]*
+[Week 21](../week_21/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 23](../week_23/overview.md)

@@ -62,4 +62,4 @@ And the tower itself — humanity's attempt to build a stairway to heaven, to as
 
 ---
 
-*[[../week_07/overview|Week 7]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../../04_abrahamic_covenant/week_09/overview|Week 9]]*
+[Week 7](../week_07/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 9](../../04_abrahamic_covenant/week_09/overview.md)

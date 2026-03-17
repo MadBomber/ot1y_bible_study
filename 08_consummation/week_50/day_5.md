@@ -73,4 +73,4 @@ Sovereign Lord, you are the one the rivers are waiting for. You are the one the 
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]]
+[Week 49](../../07_new_covenant/week_49/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 51](../week_51/overview.md)

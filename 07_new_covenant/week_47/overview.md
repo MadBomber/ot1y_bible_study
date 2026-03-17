@@ -69,4 +69,4 @@ And Joel's Spirit — poured out on all flesh — descends at Pentecost with fir
 
 ---
 
-*[[../week_46/overview|Week 46]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_48/overview|Week 48]]*
+[Week 46](../week_46/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 48](../week_48/overview.md)

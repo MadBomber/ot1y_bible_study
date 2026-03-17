@@ -65,4 +65,4 @@ And Isaac — the son born against all biological possibility to parents who lau
 
 ---
 
-*[[../week_09/overview|Week 9]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_11/overview|Week 11]]*
+[Week 9](../week_09/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 11](../week_11/overview.md)

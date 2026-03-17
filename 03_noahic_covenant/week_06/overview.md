@@ -63,4 +63,4 @@ And the promise God makes after the flood — "never again" — anticipates the 
 
 ---
 
-*[[../week_05/overview|Week 5]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_07/overview|Week 7]]*
+[Week 5](../week_05/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 7](../week_07/overview.md)

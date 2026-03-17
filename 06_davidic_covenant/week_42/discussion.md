@@ -99,4 +99,4 @@ Next week we turn to the major prophets -- Isaiah, Jeremiah, Ezekiel, and Daniel
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | **Discussion**
+[Week 41](../week_41/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) **Discussion** | [Week 43](../week_43/overview.md)

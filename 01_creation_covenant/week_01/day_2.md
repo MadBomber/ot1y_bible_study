@@ -73,4 +73,4 @@ Lord Jesus, you are the one through whom the sun, moon, and stars were made -- t
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+| [Overview](overview.md) [1](day_1.md) **2** [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 2](../week_02/overview.md)

@@ -69,4 +69,4 @@ And the Judge who makes the rivers clap and the hills sing — the one whose arr
 
 ---
 
-*[[../../07_new_covenant/week_49/overview|Week 49]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_51/overview|Week 51]]*
+[Week 49](../../07_new_covenant/week_49/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 51](../week_51/overview.md)

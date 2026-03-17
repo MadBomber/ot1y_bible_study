@@ -69,4 +69,4 @@ Faithful God, you are the rock from which living water flows -- struck once, at 
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | **Day 3** | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 25](../week_25/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) **3** [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 27](../week_27/overview.md)

@@ -64,4 +64,4 @@ And the psalms David writes in the caves — Psalms 34, 56, 57, 59, 63, 142 — 
 
 ---
 
-*[[../week_33/overview|Week 33]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_35/overview|Week 35]]*
+[Week 33](../week_33/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 35](../week_35/overview.md)

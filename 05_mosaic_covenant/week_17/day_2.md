@@ -71,4 +71,4 @@ Father, you are the God who hears before we cry, who remembers before we remind 
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | **Day 2** | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 16](../../04_abrahamic_covenant/week_16/overview.md) | [Overview](overview.md) [1](day_1.md) **2** [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 18](../week_18/overview.md)

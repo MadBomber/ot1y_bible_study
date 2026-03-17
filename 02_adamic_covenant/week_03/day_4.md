@@ -99,4 +99,4 @@ Lord Jesus, you are Immanuel -- God with us. You are the child Isaiah announced 
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 2](../../01_creation_covenant/week_02/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) **4** [5](day_5.md) [Discussion](discussion.md) | [Week 4](../week_04/overview.md)

@@ -78,4 +78,4 @@ God Most High, Possessor of heaven and earth, we stand in awe of the mystery you
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | **Day 5** | [[discussion|Discussion]] | [[memory_verse|Memory Verse]]
+[Week 8](../../03_noahic_covenant/week_08/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) **5** [Discussion](discussion.md) | [Week 10](../week_10/overview.md)

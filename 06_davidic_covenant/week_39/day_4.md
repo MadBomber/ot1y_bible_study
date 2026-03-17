@@ -74,4 +74,4 @@ God of Elijah, God of Carmel and Horeb, God of fire and whisper -- we confess th
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | **Day 4** | [[day_5|Day 5]] | [[discussion|Discussion]]
+[Week 38](../week_38/overview.md) | [Overview](overview.md) [1](day_1.md) [2](day_2.md) [3](day_3.md) **4** [5](day_5.md) [Discussion](discussion.md) | [Week 40](../week_40/overview.md)

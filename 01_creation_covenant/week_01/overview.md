@@ -58,4 +58,4 @@ And the light that God speaks into existence on the first day — before the sun
 
 ---
 
-*[[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_02/overview|Week 2]]*
+| **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 2](../week_02/overview.md)

@@ -73,4 +73,4 @@ And the twelve sons born this week — to four mothers, in rivalry and pain, car
 
 ---
 
-*[[../week_13/overview|Week 13]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../week_15/overview|Week 15]]*
+[Week 13](../week_13/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 15](../week_15/overview.md)

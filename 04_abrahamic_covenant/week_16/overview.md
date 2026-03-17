@@ -82,4 +82,4 @@ The scepter of Judah — "The scepter shall not depart from Judah... until tribu
 
 ---
 
-*[[../week_15/overview|Week 15]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../../05_mosaic_covenant/week_17/overview|Week 17]]*
+[Week 15](../week_15/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 17](../../05_mosaic_covenant/week_17/overview.md)

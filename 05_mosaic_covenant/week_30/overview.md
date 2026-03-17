@@ -70,4 +70,4 @@ And Ruth — the Moabite widow who clings to a God she barely knows, who leaves 
 
 ---
 
-*[[../week_29/overview|Week 29]] | [[overview|Overview]] | [[day_1|Day 1]] | Next: [[../../06_davidic_covenant/week_31/overview|Week 31]]*
+[Week 29](../week_29/overview.md) | **Overview** [1](day_1.md) [2](day_2.md) [3](day_3.md) [4](day_4.md) [5](day_5.md) [Discussion](discussion.md) | [Week 31](../../06_davidic_covenant/week_31/overview.md)
