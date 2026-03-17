@@ -84,6 +84,4 @@ The first verse of the Old Testament and the first verse of John's Gospel are th
 
 ---
 
-*Based on the outline from [A Year at His Feet](https://madbomber.github.io/ntc1y_guide/phase-7-jesus-from-genesis-to-revelation/).*
-
 *© 2026 Dewayne VanHoozer. Licensed under CC BY-NC-SA 4.0.*
