@@ -20,20 +20,20 @@ By the first century, Jewish hope centered on the Messiah's arrival. But the car
 
 | Week | Title | |
 |------|-------|-|
-| 31 | [[week_31/overview\|The Rise of Samuel]] | 1 Samuel 1–8 |
-| 32 | [[week_32/overview\|Saul: The People's King]] | 1 Samuel 9–15 |
-| 33 | [[week_33/overview\|David's Anointing and Rise]] | 1 Samuel 16–20 |
-| 34 | [[week_34/overview\|David the Fugitive]] | 1 Samuel 21–31 |
-| 35 | [[week_35/overview\|David the King]] | 2 Samuel 1–10 |
-| 36 | [[week_36/overview\|The Davidic Covenant]] | 2 Samuel 7, Psalms 2, 110 |
-| 37 | [[week_37/overview\|Sin and Restoration]] | 2 Samuel 11–24 |
-| 38 | [[week_38/overview\|Solomon's Wisdom and Temple]] | 1 Kings 1–11 |
-| 39 | [[week_39/overview\|The Kingdom Divided]] | 1 Kings 12–22 |
-| 40 | [[week_40/overview\|Elijah and Elisha]] | 2 Kings 1–13 |
-| 41 | [[week_41/overview\|The Fall of Israel]] | 2 Kings 14–25 |
-| 42 | [[week_42/overview\|Songs and Wisdom]] | Psalms, Proverbs, Ecclesiastes, Song of Solomon |
-| 43 | [[week_43/overview\|The Major Prophets]] | Isaiah, Jeremiah, Ezekiel |
-| 44 | [[week_44/overview\|The Twelve]] | Hosea–Malachi (selected) |
+| 31 | [The Rise of Samuel](week_31/overview.md) | 1 Samuel 1–8 |
+| 32 | [Saul: The People's King](week_32/overview.md) | 1 Samuel 9–15 |
+| 33 | [David's Anointing and Rise](week_33/overview.md) | 1 Samuel 16–20 |
+| 34 | [David the Fugitive](week_34/overview.md) | 1 Samuel 21–31 |
+| 35 | [David the King](week_35/overview.md) | 2 Samuel 1–10 |
+| 36 | [The Davidic Covenant](week_36/overview.md) | 2 Samuel 7, Psalms 2, 110 |
+| 37 | [Sin and Restoration](week_37/overview.md) | 2 Samuel 11–24 |
+| 38 | [Solomon's Wisdom and Temple](week_38/overview.md) | 1 Kings 1–11 |
+| 39 | [The Kingdom Divided](week_39/overview.md) | 1 Kings 12–22 |
+| 40 | [Elijah and Elisha](week_40/overview.md) | 2 Kings 1–13 |
+| 41 | [The Fall of Israel](week_41/overview.md) | 2 Kings 14–25 |
+| 42 | [Songs and Wisdom](week_42/overview.md) | Psalms, Proverbs, Ecclesiastes, Song of Solomon |
+| 43 | [The Major Prophets](week_43/overview.md) | Isaiah, Jeremiah, Ezekiel |
+| 44 | [The Twelve](week_44/overview.md) | Hosea–Malachi (selected) |
 
 ## The Foundation
 
@@ -93,4 +93,4 @@ David's covenant came to a king, but David's psalms come from a person. "Create 
 
 ---
 
-**See also:** [[../05_mosaic_covenant/overview|Mosaic Covenant]] | [[../07_new_covenant/overview|New Covenant]]
+**See also:** [Mosaic Covenant](../05_mosaic_covenant/overview.md) | [New Covenant](../07_new_covenant/overview.md)

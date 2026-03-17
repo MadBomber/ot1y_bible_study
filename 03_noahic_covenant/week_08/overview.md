@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 8: Nations and Babel
 
-**Covenant:** [[overview|Noahic Covenant]]
+**Covenant:** [Noahic Covenant](overview.md)
 **Week 8** | Genesis 10–11
 
 ## Overview
@@ -35,11 +35,11 @@ The genealogy resumes in Genesis 11:10-26, narrowing from Shem through ten gener
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 10:1-20]] | The sons of Japheth and Ham — the nations spread across the earth |
-| 2 | [[day_2\|Genesis 10:21-32]] | The sons of Shem — the line through which the promise will travel |
-| 3 | [[day_3\|Genesis 11:1-9]] | The Tower of Babel — "let us make a name for ourselves" |
-| 4 | [[day_4\|Genesis 11:10-26]] | From Shem to Terah — the genealogy narrows toward Abraham |
-| 5 | [[day_5\|Genesis 11:27-32; Acts 17:26-27]] | Terah's family in Ur — and Paul's declaration that God made every nation from one man |
+| 1 | [Genesis 10:1-20](day_1.md) | The sons of Japheth and Ham — the nations spread across the earth |
+| 2 | [Genesis 10:21-32](day_2.md) | The sons of Shem — the line through which the promise will travel |
+| 3 | [Genesis 11:1-9](day_3.md) | The Tower of Babel — "let us make a name for ourselves" |
+| 4 | [Genesis 11:10-26](day_4.md) | From Shem to Terah — the genealogy narrows toward Abraham |
+| 5 | [Genesis 11:27-32; Acts 17:26-27](day_5.md) | Terah's family in Ur — and Paul's declaration that God made every nation from one man |
 
 ## Key Themes
 

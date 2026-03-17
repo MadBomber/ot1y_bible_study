@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 16: Joseph: Reconciliation and Providence
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 16** | Genesis 42–50
 
 ## Overview
@@ -55,11 +55,11 @@ Joseph dies at 110 and is embalmed in Egypt. But his final request looks forward
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 42:1-38]] | The brothers come to Egypt — bowing before the brother they sold |
-| 2 | [[day_2\|Genesis 43:1–44:34]] | Judah's transformation — the man who sold Joseph offers himself for Benjamin |
-| 3 | [[day_3\|Genesis 45:1-28]] | "I am Joseph" — revelation, weeping, and the theology of providence |
-| 4 | [[day_4\|Genesis 46:1–47:31]] | Jacob comes to Egypt — seventy souls, a patriarch blesses Pharaoh |
-| 5 | [[day_5\|Genesis 48:1–50:26]] | The blessings, the scepter of Judah, and the coffin that waits for exodus |
+| 1 | [Genesis 42:1-38](day_1.md) | The brothers come to Egypt — bowing before the brother they sold |
+| 2 | [Genesis 43:1–44:34](day_2.md) | Judah's transformation — the man who sold Joseph offers himself for Benjamin |
+| 3 | [Genesis 45:1-28](day_3.md) | "I am Joseph" — revelation, weeping, and the theology of providence |
+| 4 | [Genesis 46:1–47:31](day_4.md) | Jacob comes to Egypt — seventy souls, a patriarch blesses Pharaoh |
+| 5 | [Genesis 48:1–50:26](day_5.md) | The blessings, the scepter of Judah, and the coffin that waits for exodus |
 
 ## Key Themes
 

@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 23: Holiness and Sacrifice
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 23** | Leviticus 1–16
 
 ## Overview
@@ -39,11 +39,11 @@ The purity laws of Leviticus 11-15 — clean and unclean animals, skin diseases,
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Leviticus 1:1–3:17]] | Burnt, grain, and peace offerings — consecration, provision, and fellowship |
-| 2 | [[day_2\|Leviticus 4:1–5:19]] | Sin and guilt offerings — when things go wrong, blood makes it right |
-| 3 | [[day_3\|Leviticus 6:1–7:38]] | Instructions for the priests — the perpetual fire and the portions of atonement |
-| 4 | [[day_4\|Leviticus 8:1–10:20]] | The priesthood begins — consecration, glory, and the death of Nadab and Abihu |
-| 5 | [[day_5\|Leviticus 11:1–15:33]] | Clean and unclean — holiness made tangible in food, body, and daily life |
+| 1 | [Leviticus 1:1–3:17](day_1.md) | Burnt, grain, and peace offerings — consecration, provision, and fellowship |
+| 2 | [Leviticus 4:1–5:19](day_2.md) | Sin and guilt offerings — when things go wrong, blood makes it right |
+| 3 | [Leviticus 6:1–7:38](day_3.md) | Instructions for the priests — the perpetual fire and the portions of atonement |
+| 4 | [Leviticus 8:1–10:20](day_4.md) | The priesthood begins — consecration, glory, and the death of Nadab and Abihu |
+| 5 | [Leviticus 11:1–15:33](day_5.md) | Clean and unclean — holiness made tangible in food, body, and daily life |
 
 ## Key Themes
 

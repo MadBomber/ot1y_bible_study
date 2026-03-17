@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 32: Saul: The People's King
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 32** | 1 Samuel 9-15
 
 ## Overview
@@ -35,11 +35,11 @@ Saul's failure is not a failure of competence. It is a failure of the heart. He 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|1 Samuel 9:1-10:27]] | Saul chosen — tall, handsome, anointed, and the Spirit rushes upon him |
-| 2 | [[day_2\|1 Samuel 11:1-12:25]] | Victory at Jabesh-gilead, Samuel's farewell, and the terms of the monarchy |
-| 3 | [[day_3\|1 Samuel 13:1-23]] | Saul's presumption at Gilgal — the sacrifice, the rebuke, the kingdom forfeited |
-| 4 | [[day_4\|1 Samuel 14:1-52]] | Jonathan's faith, Saul's foolish oath, and a kingdom already fracturing |
-| 5 | [[day_5\|1 Samuel 15:1-35]] | The Amalekites — partial obedience, royal excuses, and "to obey is better than sacrifice" |
+| 1 | [1 Samuel 9:1-10:27](day_1.md) | Saul chosen — tall, handsome, anointed, and the Spirit rushes upon him |
+| 2 | [1 Samuel 11:1-12:25](day_2.md) | Victory at Jabesh-gilead, Samuel's farewell, and the terms of the monarchy |
+| 3 | [1 Samuel 13:1-23](day_3.md) | Saul's presumption at Gilgal — the sacrifice, the rebuke, the kingdom forfeited |
+| 4 | [1 Samuel 14:1-52](day_4.md) | Jonathan's faith, Saul's foolish oath, and a kingdom already fracturing |
+| 5 | [1 Samuel 15:1-35](day_5.md) | The Amalekites — partial obedience, royal excuses, and "to obey is better than sacrifice" |
 
 ## Key Themes
 

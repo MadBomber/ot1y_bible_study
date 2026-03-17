@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 11: Testing and Judgment
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 11** | Genesis 18–20
 
 ## Overview
@@ -37,11 +37,11 @@ The week closes with Genesis 20, where Abraham — astonishingly — repeats the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 18:1-15]] | The visitors at Mamre — "Is anything too hard for the LORD?" |
-| 2 | [[day_2\|Genesis 18:16-33]] | Abraham intercedes for Sodom — bargaining with the Judge of all the earth |
-| 3 | [[day_3\|Genesis 19:1-17]] | Sodom's wickedness and the angels' rescue of Lot |
-| 4 | [[day_4\|Genesis 19:18-38]] | Fire falls — Sodom destroyed, Lot's wife looks back |
-| 5 | [[day_5\|Genesis 20:1-18]] | Abraham lies again — the same failure, the same faithful God |
+| 1 | [Genesis 18:1-15](day_1.md) | The visitors at Mamre — "Is anything too hard for the LORD?" |
+| 2 | [Genesis 18:16-33](day_2.md) | Abraham intercedes for Sodom — bargaining with the Judge of all the earth |
+| 3 | [Genesis 19:1-17](day_3.md) | Sodom's wickedness and the angels' rescue of Lot |
+| 4 | [Genesis 19:18-38](day_4.md) | Fire falls — Sodom destroyed, Lot's wife looks back |
+| 5 | [Genesis 20:1-18](day_5.md) | Abraham lies again — the same failure, the same faithful God |
 
 ## Key Themes
 

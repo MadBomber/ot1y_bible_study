@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 35: David the King
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 35** | 2 Samuel 1-10
 
 ## Overview
@@ -37,11 +37,11 @@ The week closes with David's expansion of the kingdom and a story that reads lik
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|2 Samuel 1:1-2:7]] | David mourns Saul and Jonathan — "How the mighty have fallen" |
-| 2 | [[day_2\|2 Samuel 2:8-4:12]] | Civil war — David king over Judah, Ishbosheth over Israel |
-| 3 | [[day_3\|2 Samuel 5:1-6:23]] | Jerusalem conquered, the ark brought home, and the king dances |
-| 4 | [[day_4\|2 Samuel 7:1-29]] | The Davidic covenant — "Your throne shall be established forever" |
-| 5 | [[day_5\|2 Samuel 8:1-10:19]] | David's victories and David's kindness — Mephibosheth at the king's table |
+| 1 | [2 Samuel 1:1-2:7](day_1.md) | David mourns Saul and Jonathan — "How the mighty have fallen" |
+| 2 | [2 Samuel 2:8-4:12](day_2.md) | Civil war — David king over Judah, Ishbosheth over Israel |
+| 3 | [2 Samuel 5:1-6:23](day_3.md) | Jerusalem conquered, the ark brought home, and the king dances |
+| 4 | [2 Samuel 7:1-29](day_4.md) | The Davidic covenant — "Your throne shall be established forever" |
+| 5 | [2 Samuel 8:1-10:19](day_5.md) | David's victories and David's kindness — Mephibosheth at the king's table |
 
 ## Key Themes
 

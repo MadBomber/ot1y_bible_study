@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 9: The Call of Abram
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 9** | Genesis 12–14
 
 ## Overview
@@ -37,11 +37,11 @@ Genesis 14 brings war — the first military conflict in Scripture — and intro
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 12:1-9]] | The call — "Go... and I will bless you" — Abram departs into the unknown |
-| 2 | [[day_2\|Genesis 12:10-20]] | Famine and failure — Abram in Egypt, fear displacing faith |
-| 3 | [[day_3\|Genesis 13:1-18]] | Abram and Lot separate — generosity rewarded, the promise reaffirmed |
-| 4 | [[day_4\|Genesis 14:1-16]] | Abram the warrior — the rescue of Lot from the kings of the east |
-| 5 | [[day_5\|Genesis 14:17-24; Hebrews 7:1-10]] | Melchizedek — the priest-king of Salem who foreshadows Christ |
+| 1 | [Genesis 12:1-9](day_1.md) | The call — "Go... and I will bless you" — Abram departs into the unknown |
+| 2 | [Genesis 12:10-20](day_2.md) | Famine and failure — Abram in Egypt, fear displacing faith |
+| 3 | [Genesis 13:1-18](day_3.md) | Abram and Lot separate — generosity rewarded, the promise reaffirmed |
+| 4 | [Genesis 14:1-16](day_4.md) | Abram the warrior — the rescue of Lot from the kings of the east |
+| 5 | [Genesis 14:17-24; Hebrews 7:1-10](day_5.md) | Melchizedek — the priest-king of Salem who foreshadows Christ |
 
 ## Key Themes
 

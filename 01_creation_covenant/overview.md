@@ -16,8 +16,8 @@ We begin not with a manger, not with a cross, not even with a garden — but wit
 
 | Week | Title | |
 |------|-------|-|
-| 1 | [[week_01/overview\|In the Beginning]] | Genesis 1 |
-| 2 | [[week_02/overview\|The Garden and God's Design]] | Genesis 2 |
+| 1 | [In the Beginning](week_01/overview.md) | Genesis 1 |
+| 2 | [The Garden and God's Design](week_02/overview.md) | Genesis 2 |
 
 ## The Foundation
 
@@ -60,7 +60,7 @@ God did not create humanity in the aggregate. He formed *a man* from dust and br
 
 ## A Note on Science and Origins
 
-Genesis 1 is not a scientific text, and this study does not treat it as one. But neither is it threatened by scientific inquiry. The questions Genesis answers — *who* created, *what* was created, and *why* — are questions science, by its own definition, cannot access. The apparent conflict between Scripture and modern origin theories is not a conflict between Genesis and experimental science. It is a conflict between Genesis and *inference about unrepeatable past events* — a very different kind of intellectual work. For a fuller exploration of this distinction, see [[science_and_genesis|Science and Genesis]].
+Genesis 1 is not a scientific text, and this study does not treat it as one. But neither is it threatened by scientific inquiry. The questions Genesis answers — *who* created, *what* was created, and *why* — are questions science, by its own definition, cannot access. The apparent conflict between Scripture and modern origin theories is not a conflict between Genesis and experimental science. It is a conflict between Genesis and *inference about unrepeatable past events* — a very different kind of intellectual work. For a fuller exploration of this distinction, see [Science and Genesis](science_and_genesis.md).
 
 ## Content Expansion
 
@@ -70,4 +70,4 @@ Genesis 1 is not a scientific text, and this study does not treat it as one. But
 
 ---
 
-**See also:** [[../README|Overview]] | [[../02_adamic_covenant/overview|Adamic Covenant]]
+**See also:** [Overview](../readme.md) | [Adamic Covenant](../02_adamic_covenant/overview.md)

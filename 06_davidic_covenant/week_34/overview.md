@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 34: David the Fugitive
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 34** | 1 Samuel 21-31
 
 ## Overview
@@ -37,11 +37,11 @@ The section ends in darkness. Saul, abandoned by God and desperate, consults the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|1 Samuel 21:1-22:23]] | The bread of the Presence, feigned madness, and the cave of Adullam — outcasts gather to the king |
-| 2 | [[day_2\|1 Samuel 23:1-24:22]] | The pursuit — David spares Saul in the cave at En-gedi |
-| 3 | [[day_3\|1 Samuel 25:1-44]] | Nabal and Abigail — folly, wisdom, and the woman who prevents bloodshed |
-| 4 | [[day_4\|1 Samuel 26:1-27:12]] | David spares Saul again — the spear, the water jug, and "The LORD forbid" |
-| 5 | [[day_5\|1 Samuel 28:1-31:13]] | The medium at Endor, the death of Saul, and the end of an era |
+| 1 | [1 Samuel 21:1-22:23](day_1.md) | The bread of the Presence, feigned madness, and the cave of Adullam — outcasts gather to the king |
+| 2 | [1 Samuel 23:1-24:22](day_2.md) | The pursuit — David spares Saul in the cave at En-gedi |
+| 3 | [1 Samuel 25:1-44](day_3.md) | Nabal and Abigail — folly, wisdom, and the woman who prevents bloodshed |
+| 4 | [1 Samuel 26:1-27:12](day_4.md) | David spares Saul again — the spear, the water jug, and "The LORD forbid" |
+| 5 | [1 Samuel 28:1-31:13](day_5.md) | The medium at Endor, the death of Saul, and the end of an era |
 
 ## Key Themes
 

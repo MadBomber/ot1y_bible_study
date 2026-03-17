@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 7: A New Beginning
 
-**Covenant:** [[overview|Noahic Covenant]]
+**Covenant:** [Noahic Covenant](overview.md)
 **Week 7** | Genesis 9
 
 ## Overview
@@ -35,11 +35,11 @@ Isaiah 54:9-10 reaches back to the Noahic covenant as a metaphor for God's stead
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 9:1-7]] | A new commission — "Be fruitful and multiply," the image of God, and the sanctity of blood |
-| 2 | [[day_2\|Genesis 9:8-17]] | The covenant with all creation — "I have set my bow in the cloud" |
-| 3 | [[day_3\|Genesis 9:18-29]] | Noah's failure — the flood purged the world but not the human heart |
-| 4 | [[day_4\|Isaiah 54:9-10]] | "As I swore that the waters of Noah" — the covenant as a metaphor for unfailing love |
-| 5 | [[day_5\|2 Peter 3:3-13]] | The flood as pattern — the world preserved for fire, the promise of new heavens and earth |
+| 1 | [Genesis 9:1-7](day_1.md) | A new commission — "Be fruitful and multiply," the image of God, and the sanctity of blood |
+| 2 | [Genesis 9:8-17](day_2.md) | The covenant with all creation — "I have set my bow in the cloud" |
+| 3 | [Genesis 9:18-29](day_3.md) | Noah's failure — the flood purged the world but not the human heart |
+| 4 | [Isaiah 54:9-10](day_4.md) | "As I swore that the waters of Noah" — the covenant as a metaphor for unfailing love |
+| 5 | [2 Peter 3:3-13](day_5.md) | The flood as pattern — the world preserved for fire, the promise of new heavens and earth |
 
 ## Key Themes
 

@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 12: The Son of Promise
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 12** | Genesis 21–24
 
 ## Overview
@@ -45,11 +45,11 @@ Genesis 24 then opens the search for Isaac's bride. Abraham sends his servant to
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 21:1-21]] | Isaac born, Ishmael sent away — the son of promise and the son of the flesh |
-| 2 | [[day_2\|Genesis 21:22-34; 22:1-8]] | "God tested Abraham" — the walk to Moriah and the terrible question |
-| 3 | [[day_3\|Genesis 22:9-19]] | The knife, the ram, the name — "The LORD will provide" |
-| 4 | [[day_4\|Genesis 23:1-20]] | Sarah dies — Abraham buys his first land in Canaan: a grave |
-| 5 | [[day_5\|Genesis 24:1-27]] | A bride for Isaac — the servant's journey and providential guidance |
+| 1 | [Genesis 21:1-21](day_1.md) | Isaac born, Ishmael sent away — the son of promise and the son of the flesh |
+| 2 | [Genesis 21:22-34; 22:1-8](day_2.md) | "God tested Abraham" — the walk to Moriah and the terrible question |
+| 3 | [Genesis 22:9-19](day_3.md) | The knife, the ram, the name — "The LORD will provide" |
+| 4 | [Genesis 23:1-20](day_4.md) | Sarah dies — Abraham buys his first land in Canaan: a grave |
+| 5 | [Genesis 24:1-27](day_5.md) | A bride for Isaac — the servant's journey and providential guidance |
 
 ## Key Themes
 

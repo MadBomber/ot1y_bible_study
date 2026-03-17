@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 15: Joseph: Sold and Exalted
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 15** | Genesis 37–41
 
 ## Overview
@@ -41,11 +41,11 @@ Seven years of plenty. Seven years of famine. Joseph lays out the vision and the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 37:1-36]] | The dreamer — the coat, the pit, the silver, and the blood-stained lie |
-| 2 | [[day_2\|Genesis 39:1-23]] | Potiphar's house — integrity, false accusation, and "the LORD was with Joseph" |
-| 3 | [[day_3\|Genesis 40:1-23]] | Prison — two dreams, two fates, and the forgotten promise |
-| 4 | [[day_4\|Genesis 41:1-40]] | Pharaoh's dreams — from the dungeon to the throne room |
-| 5 | [[day_5\|Genesis 41:41-57]] | Exaltation — the prisoner becomes the prince of Egypt |
+| 1 | [Genesis 37:1-36](day_1.md) | The dreamer — the coat, the pit, the silver, and the blood-stained lie |
+| 2 | [Genesis 39:1-23](day_2.md) | Potiphar's house — integrity, false accusation, and "the LORD was with Joseph" |
+| 3 | [Genesis 40:1-23](day_3.md) | Prison — two dreams, two fates, and the forgotten promise |
+| 4 | [Genesis 41:1-40](day_4.md) | Pharaoh's dreams — from the dungeon to the throne room |
+| 5 | [Genesis 41:41-57](day_5.md) | Exaltation — the prisoner becomes the prince of Egypt |
 
 ## Key Themes
 

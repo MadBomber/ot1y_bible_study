@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 48: The Latter Prophets
 
-**Covenant:** [[overview|New Covenant]]
+**Covenant:** [New Covenant](overview.md)
 **Week 48** | Haggai, Zechariah, Malachi
 
 ## Overview
@@ -37,11 +37,11 @@ But the disputes give way to two announcements that will echo across four centur
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Haggai 1:1–2:23]] | "Build the house" — and "the latter glory shall be greater than the former" |
-| 2 | [[day_2\|Zechariah 1:1–6:15]] | Night visions — lampstands, horsemen, and "Not by might, nor by power, but by my Spirit" |
-| 3 | [[day_3\|Zechariah 7:1–8:23]] | True fasting, true justice, and the nations drawn to Jerusalem |
-| 4 | [[day_4\|Zechariah 9:1–14:21]] | The humble king on a donkey, thirty pieces of silver, the pierced one, and the fountain for sin |
-| 5 | [[day_5\|Malachi 1:1–4:6]] | God's dispute with his people — and the last words before the silence: "I will send Elijah" |
+| 1 | [Haggai 1:1–2:23](day_1.md) | "Build the house" — and "the latter glory shall be greater than the former" |
+| 2 | [Zechariah 1:1–6:15](day_2.md) | Night visions — lampstands, horsemen, and "Not by might, nor by power, but by my Spirit" |
+| 3 | [Zechariah 7:1–8:23](day_3.md) | True fasting, true justice, and the nations drawn to Jerusalem |
+| 4 | [Zechariah 9:1–14:21](day_4.md) | The humble king on a donkey, thirty pieces of silver, the pierced one, and the fountain for sin |
+| 5 | [Malachi 1:1–4:6](day_5.md) | God's dispute with his people — and the last words before the silence: "I will send Elijah" |
 
 ## Key Themes
 

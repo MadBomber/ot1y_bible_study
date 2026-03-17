@@ -16,11 +16,11 @@ In five weeks you will hear the voices that spoke into the wreckage of exile —
 
 | Week | Title | |
 |------|-------|-|
-| 45 | [[week_45/overview\|Return from Exile]] | Ezra, Nehemiah |
-| 46 | [[week_46/overview\|Esther and Providence]] | Esther |
-| 47 | [[week_47/overview\|The New Covenant Prophets]] | Jeremiah 31, Ezekiel 36–37 |
-| 48 | [[week_48/overview\|The Latter Prophets]] | Haggai, Zechariah, Malachi |
-| 49 | [[week_49/overview\|Between the Testaments]] | Daniel 9, Isaiah 42, 49, 55 |
+| 45 | [Return from Exile](week_45/overview.md) | Ezra, Nehemiah |
+| 46 | [Esther and Providence](week_46/overview.md) | Esther |
+| 47 | [The New Covenant Prophets](week_47/overview.md) | Jeremiah 31, Ezekiel 36–37 |
+| 48 | [The Latter Prophets](week_48/overview.md) | Haggai, Zechariah, Malachi |
+| 49 | [Between the Testaments](week_49/overview.md) | Daniel 9, Isaiah 42, 49, 55 |
 
 ## The Foundation
 
@@ -85,4 +85,4 @@ The new covenant is the most explicitly personal of all: "I will put my law *wit
 
 ---
 
-**See also:** [[../06_davidic_covenant/overview|Davidic Covenant]] | [[../08_consummation/overview|Consummation]]
+**See also:** [Davidic Covenant](../06_davidic_covenant/overview.md) | [Consummation](../08_consummation/overview.md)

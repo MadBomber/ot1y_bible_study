@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 37: Sin and Restoration
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 37** | 2 Samuel 11-24
 
 ## Overview
@@ -37,11 +37,11 @@ The book of Samuel closes with David purchasing the threshing floor of Araunah t
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|2 Samuel 11:1-12:31]] | Bathsheba, Uriah, Nathan's parable — "You are the man" |
-| 2 | [[day_2\|2 Samuel 13:1-14:33]] | Amnon, Tamar, Absalom — the consequences unfold within David's own house |
-| 3 | [[day_3\|2 Samuel 15:1-16:23]] | Absalom's rebellion — David flees Jerusalem, barefoot over the Mount of Olives |
-| 4 | [[day_4\|2 Samuel 17:1-19:43]] | The battle, Absalom's death, and David's grief — "O my son Absalom!" |
-| 5 | [[day_5\|2 Samuel 20:1-24:25]] | Sheba's revolt, the census, the plague, and the threshing floor of Araunah |
+| 1 | [2 Samuel 11:1-12:31](day_1.md) | Bathsheba, Uriah, Nathan's parable — "You are the man" |
+| 2 | [2 Samuel 13:1-14:33](day_2.md) | Amnon, Tamar, Absalom — the consequences unfold within David's own house |
+| 3 | [2 Samuel 15:1-16:23](day_3.md) | Absalom's rebellion — David flees Jerusalem, barefoot over the Mount of Olives |
+| 4 | [2 Samuel 17:1-19:43](day_4.md) | The battle, Absalom's death, and David's grief — "O my son Absalom!" |
+| 5 | [2 Samuel 20:1-24:25](day_5.md) | Sheba's revolt, the census, the plague, and the threshing floor of Araunah |
 
 ## Key Themes
 

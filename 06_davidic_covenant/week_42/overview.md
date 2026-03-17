@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 42: Songs and Wisdom
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 42** | Psalms, Proverbs, Ecclesiastes, Song of Solomon
 
 ## Overview
@@ -39,11 +39,11 @@ And the Song insists on a truth the rest of Scripture confirms: "Set me as a sea
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Proverbs 1:1-9:18]] | Wisdom calls — "The fear of the LORD is the beginning of wisdom" |
-| 2 | [[day_2\|Proverbs 10:1-22:16]] | The proverbs of Solomon — righteousness, speech, wealth, and the heart |
-| 3 | [[day_3\|Ecclesiastes 1:1-6:12]] | "Vanity of vanities" — the Teacher surveys life under the sun |
-| 4 | [[day_4\|Ecclesiastes 7:1-12:14]] | "Fear God and keep his commandments" — wisdom's final word |
-| 5 | [[day_5\|Song of Solomon 1:1-8:14]] | "I am my beloved's" — the song of love between God and his people |
+| 1 | [Proverbs 1:1-9:18](day_1.md) | Wisdom calls — "The fear of the LORD is the beginning of wisdom" |
+| 2 | [Proverbs 10:1-22:16](day_2.md) | The proverbs of Solomon — righteousness, speech, wealth, and the heart |
+| 3 | [Ecclesiastes 1:1-6:12](day_3.md) | "Vanity of vanities" — the Teacher surveys life under the sun |
+| 4 | [Ecclesiastes 7:1-12:14](day_4.md) | "Fear God and keep his commandments" — wisdom's final word |
+| 5 | [Song of Solomon 1:1-8:14](day_5.md) | "I am my beloved's" — the song of love between God and his people |
 
 ## Key Themes
 

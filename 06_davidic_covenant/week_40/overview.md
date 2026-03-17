@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 40: Elijah and Elisha
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 40** | 2 Kings 1-13
 
 ## Overview
@@ -37,11 +37,11 @@ The section reaches one of its most vivid moments when Elisha's servant trembles
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|2 Kings 1:1-2:25]] | Elijah's departure — fire from heaven, the chariot, and Elisha receives the mantle |
-| 2 | [[day_2\|2 Kings 3:1-4:44]] | Elisha's miracles — oil multiplied, a dead boy raised, a hundred men fed |
-| 3 | [[day_3\|2 Kings 5:1-6:23]] | Naaman the Syrian — a pagan commander washed clean in the Jordan |
-| 4 | [[day_4\|2 Kings 6:24-8:29]] | Siege, famine, and opened eyes — the unseen army of God |
-| 5 | [[day_5\|2 Kings 9:1-13:25]] | Jehu's revolution, the end of Ahab's house, and Elisha's death |
+| 1 | [2 Kings 1:1-2:25](day_1.md) | Elijah's departure — fire from heaven, the chariot, and Elisha receives the mantle |
+| 2 | [2 Kings 3:1-4:44](day_2.md) | Elisha's miracles — oil multiplied, a dead boy raised, a hundred men fed |
+| 3 | [2 Kings 5:1-6:23](day_3.md) | Naaman the Syrian — a pagan commander washed clean in the Jordan |
+| 4 | [2 Kings 6:24-8:29](day_4.md) | Siege, famine, and opened eyes — the unseen army of God |
+| 5 | [2 Kings 9:1-13:25](day_5.md) | Jehu's revolution, the end of Ahab's house, and Elisha's death |
 
 ## Key Themes
 

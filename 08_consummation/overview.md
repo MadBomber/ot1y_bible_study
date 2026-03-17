@@ -18,9 +18,9 @@ These eschatological texts look beyond exile, beyond restoration, beyond anythin
 
 | Week | Title | |
 |------|-------|-|
-| 50 | [[week_50/overview\|The Day of the LORD]] | Isaiah 24–27, Joel 3, Malachi 4 |
-| 51 | [[week_51/overview\|The Son of Man's Kingdom]] | Daniel 7–12, Zechariah 14 |
-| 52 | [[week_52/overview\|From Garden to City]] | Isaiah 65–66, Ezekiel 47–48 |
+| 50 | [The Day of the LORD](week_50/overview.md) | Isaiah 24–27, Joel 3, Malachi 4 |
+| 51 | [The Son of Man's Kingdom](week_51/overview.md) | Daniel 7–12, Zechariah 14 |
+| 52 | [From Garden to City](week_52/overview.md) | Isaiah 65–66, Ezekiel 47–48 |
 
 ## The Foundation
 
@@ -102,4 +102,4 @@ The consummation is cosmic — new heavens and new earth — but the deepest pro
 
 ---
 
-**See also:** [[../07_new_covenant/overview|New Covenant]] | [[../README|Overview]]
+**See also:** [New Covenant](../07_new_covenant/overview.md) | [Overview](../readme.md)

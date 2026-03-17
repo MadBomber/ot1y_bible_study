@@ -16,10 +16,10 @@ In four weeks you will watch God do two things simultaneously that the human min
 
 | Week | Title | |
 |------|-------|-|
-| 5 | [[week_05/overview\|Corruption and Grace]] | Genesis 6 |
-| 6 | [[week_06/overview\|The Flood]] | Genesis 7–8 |
-| 7 | [[week_07/overview\|A New Beginning]] | Genesis 9 |
-| 8 | [[week_08/overview\|Nations and Babel]] | Genesis 10–11 |
+| 5 | [Corruption and Grace](week_05/overview.md) | Genesis 6 |
+| 6 | [The Flood](week_06/overview.md) | Genesis 7–8 |
+| 7 | [A New Beginning](week_07/overview.md) | Genesis 9 |
+| 8 | [Nations and Babel](week_08/overview.md) | Genesis 10–11 |
 
 ## The Foundation
 
@@ -72,4 +72,4 @@ In a world where "every intention of the thoughts of his heart was only evil con
 
 ---
 
-**See also:** [[../02_adamic_covenant/overview|Adamic Covenant]] | [[../04_abrahamic_covenant/overview|Abrahamic Covenant]]
+**See also:** [Adamic Covenant](../02_adamic_covenant/overview.md) | [Abrahamic Covenant](../04_abrahamic_covenant/overview.md)

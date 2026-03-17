@@ -18,20 +18,20 @@ Paul will later describe the entire Mosaic system as "a guardian until Christ ca
 
 | Week | Title | |
 |------|-------|-|
-| 17 | [[week_17/overview\|Slavery and Deliverance]] | Exodus 1–4 |
-| 18 | [[week_18/overview\|The Plagues and Passover]] | Exodus 5–12 |
-| 19 | [[week_19/overview\|The Exodus and the Sea]] | Exodus 13–18 |
-| 20 | [[week_20/overview\|The Mountain of God]] | Exodus 19–24 |
-| 21 | [[week_21/overview\|The Tabernacle]] | Exodus 25–31 |
-| 22 | [[week_22/overview\|Golden Calf and Renewal]] | Exodus 32–40 |
-| 23 | [[week_23/overview\|Holiness and Sacrifice]] | Leviticus 1–16 |
-| 24 | [[week_24/overview\|Holy Living]] | Leviticus 17–27 |
-| 25 | [[week_25/overview\|The Wilderness Begins]] | Numbers 1–14 |
-| 26 | [[week_26/overview\|Wandering and Rebellion]] | Numbers 15–36 |
-| 27 | [[week_27/overview\|The Farewell of Moses]] | Deuteronomy |
-| 28 | [[week_28/overview\|Crossing the Jordan]] | Joshua 1–12 |
-| 29 | [[week_29/overview\|Conquest and Settlement]] | Joshua 13–24 |
-| 30 | [[week_30/overview\|Judges and Ruth]] | Judges, Ruth |
+| 17 | [Slavery and Deliverance](week_17/overview.md) | Exodus 1–4 |
+| 18 | [The Plagues and Passover](week_18/overview.md) | Exodus 5–12 |
+| 19 | [The Exodus and the Sea](week_19/overview.md) | Exodus 13–18 |
+| 20 | [The Mountain of God](week_20/overview.md) | Exodus 19–24 |
+| 21 | [The Tabernacle](week_21/overview.md) | Exodus 25–31 |
+| 22 | [Golden Calf and Renewal](week_22/overview.md) | Exodus 32–40 |
+| 23 | [Holiness and Sacrifice](week_23/overview.md) | Leviticus 1–16 |
+| 24 | [Holy Living](week_24/overview.md) | Leviticus 17–27 |
+| 25 | [The Wilderness Begins](week_25/overview.md) | Numbers 1–14 |
+| 26 | [Wandering and Rebellion](week_26/overview.md) | Numbers 15–36 |
+| 27 | [The Farewell of Moses](week_27/overview.md) | Deuteronomy |
+| 28 | [Crossing the Jordan](week_28/overview.md) | Joshua 1–12 |
+| 29 | [Conquest and Settlement](week_29/overview.md) | Joshua 13–24 |
+| 30 | [Judges and Ruth](week_30/overview.md) | Judges, Ruth |
 
 ## The Foundation
 
@@ -98,4 +98,4 @@ The law was given to a nation, but it addresses each person: "You shall have no 
 
 ---
 
-**See also:** [[../04_abrahamic_covenant/overview|Abrahamic Covenant]] | [[../06_davidic_covenant/overview|Davidic Covenant]]
+**See also:** [Abrahamic Covenant](../04_abrahamic_covenant/overview.md) | [Davidic Covenant](../06_davidic_covenant/overview.md)

@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 13: Jacob and Esau
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 13** | Genesis 25–28
 
 ## Overview
@@ -39,11 +39,11 @@ Neither son covers himself in glory. Esau trades the covenant for appetite. Jaco
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 24:28-67]] | Rebekah — the providential bride and Isaac's comfort after Sarah |
-| 2 | [[day_2\|Genesis 25:1-18]] | Abraham's death and Ishmael's line — the patriarch's legacy |
-| 3 | [[day_3\|Genesis 25:19-34]] | The twins — struggle in the womb, the birthright sold for stew |
-| 4 | [[day_4\|Genesis 26:1-35]] | Isaac's chapter — the lie, the wells, and the covenant reaffirmed |
-| 5 | [[day_5\|Genesis 27:1-40]] | The stolen blessing — deception, anguish, and an irrevocable word |
+| 1 | [Genesis 24:28-67](day_1.md) | Rebekah — the providential bride and Isaac's comfort after Sarah |
+| 2 | [Genesis 25:1-18](day_2.md) | Abraham's death and Ishmael's line — the patriarch's legacy |
+| 3 | [Genesis 25:19-34](day_3.md) | The twins — struggle in the womb, the birthright sold for stew |
+| 4 | [Genesis 26:1-35](day_4.md) | Isaac's chapter — the lie, the wells, and the covenant reaffirmed |
+| 5 | [Genesis 27:1-40](day_5.md) | The stolen blessing — deception, anguish, and an irrevocable word |
 
 ## Key Themes
 

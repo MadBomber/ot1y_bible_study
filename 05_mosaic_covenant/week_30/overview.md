@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 30: Judges and Ruth
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 30** | Judges, Ruth
 
 ## Overview
@@ -43,11 +43,11 @@ The *goel* must be a near relative. He must be willing. He must be able to pay t
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Judges 1:1–3:31]] | The pattern begins — incomplete obedience, the first judges |
-| 2 | [[day_2\|Judges 4:1–6:40]] | Deborah and Barak, Gideon's call — strength in weakness |
-| 3 | [[day_3\|Judges 7:1–12:15]] | Gideon's three hundred, Jephthah's vow — victory and tragedy |
-| 4 | [[day_4\|Judges 13:1–21:25]] | Samson, the Levite's concubine, and "everyone did what was right in his own eyes" |
-| 5 | [[day_5\|Ruth 1:1–4:22]] | Ruth and Boaz — loyalty, redemption, and the line of David |
+| 1 | [Judges 1:1–3:31](day_1.md) | The pattern begins — incomplete obedience, the first judges |
+| 2 | [Judges 4:1–6:40](day_2.md) | Deborah and Barak, Gideon's call — strength in weakness |
+| 3 | [Judges 7:1–12:15](day_3.md) | Gideon's three hundred, Jephthah's vow — victory and tragedy |
+| 4 | [Judges 13:1–21:25](day_4.md) | Samson, the Levite's concubine, and "everyone did what was right in his own eyes" |
+| 5 | [Ruth 1:1–4:22](day_5.md) | Ruth and Boaz — loyalty, redemption, and the line of David |
 
 ## Key Themes
 

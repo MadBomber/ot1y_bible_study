@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 39: The Kingdom Divided
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 39** | 1 Kings 12-22
 
 ## Overview
@@ -39,11 +39,11 @@ Then Elijah collapses. Jezebel threatens his life, and the man who called down f
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|1 Kings 12:1-33]] | The kingdom splits — Rehoboam's folly, Jeroboam's calves |
-| 2 | [[day_2\|1 Kings 13:1-14:31]] | Prophets and kings — the man of God from Judah, Jeroboam's judgment |
-| 3 | [[day_3\|1 Kings 15:1-16:34]] | The parade of kings — faithfulness and failure in Judah and Israel |
-| 4 | [[day_4\|1 Kings 17:1-19:21]] | Elijah — drought, the widow's oil, Carmel's fire, and the still small voice |
-| 5 | [[day_5\|1 Kings 20:1-22:53]] | Ahab's wars, Naboth's vineyard, and the death of a wicked king |
+| 1 | [1 Kings 12:1-33](day_1.md) | The kingdom splits — Rehoboam's folly, Jeroboam's calves |
+| 2 | [1 Kings 13:1-14:31](day_2.md) | Prophets and kings — the man of God from Judah, Jeroboam's judgment |
+| 3 | [1 Kings 15:1-16:34](day_3.md) | The parade of kings — faithfulness and failure in Judah and Israel |
+| 4 | [1 Kings 17:1-19:21](day_4.md) | Elijah — drought, the widow's oil, Carmel's fire, and the still small voice |
+| 5 | [1 Kings 20:1-22:53](day_5.md) | Ahab's wars, Naboth's vineyard, and the death of a wicked king |
 
 ## Key Themes
 

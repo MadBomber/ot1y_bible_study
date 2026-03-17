@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 5: Corruption and Grace
 
-**Covenant:** [[overview|Noahic Covenant]]
+**Covenant:** [Noahic Covenant](overview.md)
 **Week 5** | Genesis 6
 
 ## Overview
@@ -39,11 +39,11 @@ The week closes with two readings that open the flood narrative to its wider bib
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 6:1-8]] | The world unravels — the sons of God, total corruption, divine grief, and the word "but" |
-| 2 | [[day_2\|Genesis 6:9-16]] | Noah walks with God — blameless in his generation, the ark's blueprint |
-| 3 | [[day_3\|Genesis 6:17-22]] | The covenant announced — "I will establish my covenant with you" — and Noah obeys |
-| 4 | [[day_4\|2 Peter 2:4-10]] | Peter reads the flood — the ancient pattern of judgment and deliverance |
-| 5 | [[day_5\|Ezekiel 14:12-20]] | Noah, Daniel, and Job — individual righteousness in a world under judgment |
+| 1 | [Genesis 6:1-8](day_1.md) | The world unravels — the sons of God, total corruption, divine grief, and the word "but" |
+| 2 | [Genesis 6:9-16](day_2.md) | Noah walks with God — blameless in his generation, the ark's blueprint |
+| 3 | [Genesis 6:17-22](day_3.md) | The covenant announced — "I will establish my covenant with you" — and Noah obeys |
+| 4 | [2 Peter 2:4-10](day_4.md) | Peter reads the flood — the ancient pattern of judgment and deliverance |
+| 5 | [Ezekiel 14:12-20](day_5.md) | Noah, Daniel, and Job — individual righteousness in a world under judgment |
 
 ## Key Themes
 

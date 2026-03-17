@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 10: Covenant of Promise
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 10** | Genesis 15–17
 
 ## Overview
@@ -37,11 +37,11 @@ Then Genesis 17. God appears to Abram at ninety-nine — twenty-four years after
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 15:1-6]] | "Look toward heaven" — the stars, the belief, the righteousness |
-| 2 | [[day_2\|Genesis 15:7-21]] | The covenant ceremony — God alone passes between the pieces |
-| 3 | [[day_3\|Genesis 16:1-16]] | Hagar and Ishmael — faith falters, consequences multiply |
-| 4 | [[day_4\|Genesis 17:1-14]] | "I am God Almighty" — Abram becomes Abraham, circumcision instituted |
-| 5 | [[day_5\|Genesis 17:15-27]] | Sarah will bear a son — Abraham laughs, and God names the boy "Laughter" |
+| 1 | [Genesis 15:1-6](day_1.md) | "Look toward heaven" — the stars, the belief, the righteousness |
+| 2 | [Genesis 15:7-21](day_2.md) | The covenant ceremony — God alone passes between the pieces |
+| 3 | [Genesis 16:1-16](day_3.md) | Hagar and Ishmael — faith falters, consequences multiply |
+| 4 | [Genesis 17:1-14](day_4.md) | "I am God Almighty" — Abram becomes Abraham, circumcision instituted |
+| 5 | [Genesis 17:15-27](day_5.md) | Sarah will bear a son — Abraham laughs, and God names the boy "Laughter" |
 
 ## Key Themes
 

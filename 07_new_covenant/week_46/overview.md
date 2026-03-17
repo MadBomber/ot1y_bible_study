@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 46: Esther and Providence
 
-**Covenant:** [[overview|New Covenant]]
+**Covenant:** [New Covenant](overview.md)
 **Week 46** | Esther
 
 ## Overview
@@ -37,11 +37,11 @@ The week closes with two psalms that bracket the exile's emotional range. Psalm 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Esther 1:1–2:23]] | Vashti deposed, Esther crowned — positioned for a crisis not yet visible |
-| 2 | [[day_2\|Esther 3:1–4:17]] | Haman's plot and Mordecai's challenge — "for such a time as this" |
-| 3 | [[day_3\|Esther 5:1–7:10]] | Esther's banquets, Haman's gallows — the reversal begins |
-| 4 | [[day_4\|Esther 8:1–10:3]] | The Jews delivered, Purim established — what was meant for death becomes celebration |
-| 5 | [[day_5\|Psalm 137; Psalm 126]] | The grief of exile and the joy of return — "those who sow in tears shall reap with shouts of joy" |
+| 1 | [Esther 1:1–2:23](day_1.md) | Vashti deposed, Esther crowned — positioned for a crisis not yet visible |
+| 2 | [Esther 3:1–4:17](day_2.md) | Haman's plot and Mordecai's challenge — "for such a time as this" |
+| 3 | [Esther 5:1–7:10](day_3.md) | Esther's banquets, Haman's gallows — the reversal begins |
+| 4 | [Esther 8:1–10:3](day_4.md) | The Jews delivered, Purim established — what was meant for death becomes celebration |
+| 5 | [Psalm 137; Psalm 126](day_5.md) | The grief of exile and the joy of return — "those who sow in tears shall reap with shouts of joy" |
 
 ## Key Themes
 

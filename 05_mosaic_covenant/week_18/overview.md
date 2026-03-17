@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 18: The Plagues and Passover
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 18** | Exodus 5–12
 
 ## Overview
@@ -35,11 +35,11 @@ At midnight, the destroyer passes through Egypt. Every firstborn dies — from t
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Exodus 5:1–6:13]] | "Let my people go" — Pharaoh refuses, suffering increases, God reaffirms |
-| 2 | [[day_2\|Exodus 7:1–8:19]] | Blood, frogs, gnats — the plagues begin, Egypt's gods fall silent |
-| 3 | [[day_3\|Exodus 8:20–9:35]] | Flies, livestock, boils, hail — judgment escalates, Pharaoh's heart hardens |
-| 4 | [[day_4\|Exodus 10:1–11:10]] | Locusts, darkness, and the announcement of the final plague |
-| 5 | [[day_5\|Exodus 12:1-42]] | The Passover — the lamb, the blood, the meal, the exodus at midnight |
+| 1 | [Exodus 5:1–6:13](day_1.md) | "Let my people go" — Pharaoh refuses, suffering increases, God reaffirms |
+| 2 | [Exodus 7:1–8:19](day_2.md) | Blood, frogs, gnats — the plagues begin, Egypt's gods fall silent |
+| 3 | [Exodus 8:20–9:35](day_3.md) | Flies, livestock, boils, hail — judgment escalates, Pharaoh's heart hardens |
+| 4 | [Exodus 10:1–11:10](day_4.md) | Locusts, darkness, and the announcement of the final plague |
+| 5 | [Exodus 12:1-42](day_5.md) | The Passover — the lamb, the blood, the meal, the exodus at midnight |
 
 ## Key Themes
 

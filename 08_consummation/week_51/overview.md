@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 51: The Son of Man's Kingdom
 
-**Covenant:** [[overview|Consummation]]
+**Covenant:** [Consummation](overview.md)
 **Week 51** | Daniel 7–12, Zechariah 14
 
 ## Overview
@@ -43,11 +43,11 @@ Isaiah 2 lifts the vision to its broadest horizon: "It shall come to pass in the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Daniel 7:1-28]] | The four beasts and the Son of Man — "to him was given dominion and glory and a kingdom" |
-| 2 | [[day_2\|Daniel 8:1-27]] | The ram and the goat — empires rise and fall, but God's purposes stand |
-| 3 | [[day_3\|Daniel 9:20-27; 12:1-13]] | The seventy weeks, the anointed one cut off, and the resurrection of the dead |
-| 4 | [[day_4\|Zechariah 14:1-21]] | The LORD descends to the Mount of Olives — "the LORD will be king over all the earth" |
-| 5 | [[day_5\|Isaiah 11:1-16; 2:1-5]] | The Branch from Jesse, the peaceable kingdom, and swords into plowshares |
+| 1 | [Daniel 7:1-28](day_1.md) | The four beasts and the Son of Man — "to him was given dominion and glory and a kingdom" |
+| 2 | [Daniel 8:1-27](day_2.md) | The ram and the goat — empires rise and fall, but God's purposes stand |
+| 3 | [Daniel 9:20-27; 12:1-13](day_3.md) | The seventy weeks, the anointed one cut off, and the resurrection of the dead |
+| 4 | [Zechariah 14:1-21](day_4.md) | The LORD descends to the Mount of Olives — "the LORD will be king over all the earth" |
+| 5 | [Isaiah 11:1-16; 2:1-5](day_5.md) | The Branch from Jesse, the peaceable kingdom, and swords into plowshares |
 
 ## Key Themes
 

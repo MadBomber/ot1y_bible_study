@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 41: The Fall of Israel
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 41** | 2 Kings 14-25
 
 ## Overview
@@ -41,11 +41,11 @@ It is not finished. The covenant God swore to David — "Your throne shall be es
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|2 Kings 14:1-15:38]] | The parade of kings — decline in Israel and Judah |
-| 2 | [[day_2\|2 Kings 16:1-17:41]] | The fall of Samaria — Assyria conquers Israel, "they became false" |
-| 3 | [[day_3\|2 Kings 18:1-20:21]] | Hezekiah's faith — Sennacherib's siege, God's deliverance, a king's illness |
-| 4 | [[day_4\|2 Kings 21:1-23:30]] | Manasseh's evil, Josiah's reform — the Book of the Law rediscovered |
-| 5 | [[day_5\|2 Kings 23:31-25:30]] | The fall of Jerusalem — the temple burned, the people exiled, a king at Babylon's table |
+| 1 | [2 Kings 14:1-15:38](day_1.md) | The parade of kings — decline in Israel and Judah |
+| 2 | [2 Kings 16:1-17:41](day_2.md) | The fall of Samaria — Assyria conquers Israel, "they became false" |
+| 3 | [2 Kings 18:1-20:21](day_3.md) | Hezekiah's faith — Sennacherib's siege, God's deliverance, a king's illness |
+| 4 | [2 Kings 21:1-23:30](day_4.md) | Manasseh's evil, Josiah's reform — the Book of the Law rediscovered |
+| 5 | [2 Kings 23:31-25:30](day_5.md) | The fall of Jerusalem — the temple burned, the people exiled, a king at Babylon's table |
 
 ## Key Themes
 

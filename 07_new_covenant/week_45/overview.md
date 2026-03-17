@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 45: Return from Exile
 
-**Covenant:** [[overview|New Covenant]]
+**Covenant:** [New Covenant](overview.md)
 **Week 45** | Ezra, Nehemiah
 
 ## Overview
@@ -37,11 +37,11 @@ But the deeper question haunts every chapter of both books. The temple is rebuil
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Ezra 1:1–3:13]] | Cyrus's decree, the return, the altar rebuilt, the foundation laid — weeping and joy |
-| 2 | [[day_2\|Ezra 4:1–6:22]] | Opposition, delay, and the temple completed — "the hand of their God was upon them" |
-| 3 | [[day_3\|Ezra 7:1–10:44]] | Ezra arrives — the law read, the people confess, covenant renewal |
-| 4 | [[day_4\|Nehemiah 1:1–4:23]] | Nehemiah's prayer, the walls rebuilt, opposition from every side |
-| 5 | [[day_5\|Nehemiah 5:1–13:31]] | Justice for the poor, the law read aloud, the covenant renewed — and the people drift |
+| 1 | [Ezra 1:1–3:13](day_1.md) | Cyrus's decree, the return, the altar rebuilt, the foundation laid — weeping and joy |
+| 2 | [Ezra 4:1–6:22](day_2.md) | Opposition, delay, and the temple completed — "the hand of their God was upon them" |
+| 3 | [Ezra 7:1–10:44](day_3.md) | Ezra arrives — the law read, the people confess, covenant renewal |
+| 4 | [Nehemiah 1:1–4:23](day_4.md) | Nehemiah's prayer, the walls rebuilt, opposition from every side |
+| 5 | [Nehemiah 5:1–13:31](day_5.md) | Justice for the poor, the law read aloud, the covenant renewed — and the people drift |
 
 ## Key Themes
 

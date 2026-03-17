@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 2: The Garden and God's Design
 
-**Covenant:** [[overview|Creation Covenant]]
+**Covenant:** [Creation Covenant](overview.md)
 **Week 2** | Genesis 2
 
 ## Overview
@@ -33,11 +33,11 @@ The week's final two readings expand the creation portrait beyond Genesis. Prove
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 2:1-3]] | The seventh day — God rests and sanctifies; the pattern of Sabbath |
-| 2 | [[day_2\|Genesis 2:4-17]] | Dust, breath, garden, vocation, and the one boundary |
-| 3 | [[day_3\|Genesis 2:18-25]] | "Not good to be alone" — the making of the woman and the first poem |
-| 4 | [[day_4\|Proverbs 8:22-31]] | Wisdom at creation — "rejoicing in his inhabited world" |
-| 5 | [[day_5\|Isaiah 40:21-28]] | The everlasting Creator — stars by name, strength to the weary |
+| 1 | [Genesis 2:1-3](day_1.md) | The seventh day — God rests and sanctifies; the pattern of Sabbath |
+| 2 | [Genesis 2:4-17](day_2.md) | Dust, breath, garden, vocation, and the one boundary |
+| 3 | [Genesis 2:18-25](day_3.md) | "Not good to be alone" — the making of the woman and the first poem |
+| 4 | [Proverbs 8:22-31](day_4.md) | Wisdom at creation — "rejoicing in his inhabited world" |
+| 5 | [Isaiah 40:21-28](day_5.md) | The everlasting Creator — stars by name, strength to the weary |
 
 ## Key Themes
 

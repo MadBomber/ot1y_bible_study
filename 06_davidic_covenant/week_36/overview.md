@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 36: The Davidic Covenant
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 36** | 2 Samuel 7, Psalms 2, 110
 
 ## Overview
@@ -37,11 +37,11 @@ Psalm 45 celebrates the king's beauty, his truth, and his bride — and makes a 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Psalm 2]] | "You are my Son" — the nations rage, God laughs, the King reigns |
-| 2 | [[day_2\|Psalm 110]] | "Sit at my right hand" — priest-king forever, after the order of Melchizedek |
-| 3 | [[day_3\|Psalm 89:1-37]] | The covenant celebrated and lamented — promise and anguish in a single song |
-| 4 | [[day_4\|Psalm 72]] | The just king — dominion from sea to sea, justice for the poor |
-| 5 | [[day_5\|Psalm 45]] | The king's beauty — "Your throne, O God, is forever and ever" |
+| 1 | [Psalm 2](day_1.md) | "You are my Son" — the nations rage, God laughs, the King reigns |
+| 2 | [Psalm 110](day_2.md) | "Sit at my right hand" — priest-king forever, after the order of Melchizedek |
+| 3 | [Psalm 89:1-37](day_3.md) | The covenant celebrated and lamented — promise and anguish in a single song |
+| 4 | [Psalm 72](day_4.md) | The just king — dominion from sea to sea, justice for the poor |
+| 5 | [Psalm 45](day_5.md) | The king's beauty — "Your throne, O God, is forever and ever" |
 
 ## Key Themes
 

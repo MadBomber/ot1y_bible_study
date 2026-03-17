@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 33: David's Anointing and Rise
 
-**Covenant:** [[overview|Davidic Covenant]]
+**Covenant:** [Davidic Covenant](overview.md)
 **Week 33** | 1 Samuel 16-20
 
 ## Overview
@@ -37,11 +37,11 @@ David's rise produces two responses that will define the rest of the narrative: 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|1 Samuel 16:1-23]] | The anointing — "The LORD looks on the heart" — the forgotten son, chosen |
-| 2 | [[day_2\|1 Samuel 17:1-58]] | David and Goliath — five stones, one name, and the giant falls on his face |
-| 3 | [[day_3\|1 Samuel 18:1-30]] | Jonathan's covenant, Saul's jealousy, and David's rising fame |
-| 4 | [[day_4\|1 Samuel 19:1-24]] | Saul hunts David — spears, plots, and the Spirit that will not be stopped |
-| 5 | [[day_5\|1 Samuel 20:1-42]] | Jonathan and David — a friendship that costs a throne |
+| 1 | [1 Samuel 16:1-23](day_1.md) | The anointing — "The LORD looks on the heart" — the forgotten son, chosen |
+| 2 | [1 Samuel 17:1-58](day_2.md) | David and Goliath — five stones, one name, and the giant falls on his face |
+| 3 | [1 Samuel 18:1-30](day_3.md) | Jonathan's covenant, Saul's jealousy, and David's rising fame |
+| 4 | [1 Samuel 19:1-24](day_4.md) | Saul hunts David — spears, plots, and the Spirit that will not be stopped |
+| 5 | [1 Samuel 20:1-42](day_5.md) | Jonathan and David — a friendship that costs a throne |
 
 ## Key Themes
 

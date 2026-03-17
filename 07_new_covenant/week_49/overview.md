@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 49: Between the Testaments
 
-**Covenant:** [[overview|New Covenant]]
+**Covenant:** [New Covenant](overview.md)
 **Week 49** | Daniel 9, Isaiah 42, 49, 55
 
 ## Overview
@@ -37,11 +37,11 @@ The week closes with two psalms that will echo from the lips of the crucified. P
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Daniel 9:1-27]] | The seventy weeks — the anointed one who will be "cut off" |
-| 2 | [[day_2\|Daniel 10:1–12:13]] | Angels, empires, and the resurrection of the dead |
-| 3 | [[day_3\|Isaiah 42:1-9; 49:1-7; 50:4-9]] | The servant songs — called, equipped, rejected, vindicated |
-| 4 | [[day_4\|Isaiah 52:13–53:12]] | The suffering servant — pierced, crushed, silent, and bearing the sin of many |
-| 5 | [[day_5\|Psalm 22; Psalm 16]] | The psalms of the cross and the resurrection — "My God, why?" and "You will not abandon" |
+| 1 | [Daniel 9:1-27](day_1.md) | The seventy weeks — the anointed one who will be "cut off" |
+| 2 | [Daniel 10:1–12:13](day_2.md) | Angels, empires, and the resurrection of the dead |
+| 3 | [Isaiah 42:1-9; 49:1-7; 50:4-9](day_3.md) | The servant songs — called, equipped, rejected, vindicated |
+| 4 | [Isaiah 52:13–53:12](day_4.md) | The suffering servant — pierced, crushed, silent, and bearing the sin of many |
+| 5 | [Psalm 22; Psalm 16](day_5.md) | The psalms of the cross and the resurrection — "My God, why?" and "You will not abandon" |
 
 ## Key Themes
 

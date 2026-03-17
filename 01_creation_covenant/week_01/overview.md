@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 1: In the Beginning
 
-**Covenant:** [[overview|Creation Covenant]]
+**Covenant:** [Creation Covenant](overview.md)
 **Week 1** | Genesis 1
 
 ## Overview
@@ -33,11 +33,11 @@ The week closes with Israel's own worship of the Creator in the Psalms. Psalm 33
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 1:1-13]] | Days 1–3: Light, sky, land, and vegetation — God creates the stages |
-| 2 | [[day_2\|Genesis 1:14-25]] | Days 4–5: Sun, moon, stars, sea creatures, birds — God fills the stages |
-| 3 | [[day_3\|Genesis 1:26-31]] | Day 6: "Let us make man in our image" — the crown of creation |
-| 4 | [[day_4\|Genesis 1 (review)]] | The structure of Genesis 1 — pattern, repetition, and theological purpose |
-| 5 | [[day_5\|Psalm 33:1-9; Psalm 104:1-9]] | Israel worships the Creator — the Psalms reflect on Genesis 1 |
+| 1 | [Genesis 1:1-13](day_1.md) | Days 1–3: Light, sky, land, and vegetation — God creates the stages |
+| 2 | [Genesis 1:14-25](day_2.md) | Days 4–5: Sun, moon, stars, sea creatures, birds — God fills the stages |
+| 3 | [Genesis 1:26-31](day_3.md) | Day 6: "Let us make man in our image" — the crown of creation |
+| 4 | [Genesis 1 (review)](day_4.md) | The structure of Genesis 1 — pattern, repetition, and theological purpose |
+| 5 | [Psalm 33:1-9; Psalm 104:1-9](day_5.md) | Israel worships the Creator — the Psalms reflect on Genesis 1 |
 
 ## Key Themes
 

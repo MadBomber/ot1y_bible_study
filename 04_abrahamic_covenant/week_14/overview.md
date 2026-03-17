@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 14: Jacob Becomes Israel
 
-**Covenant:** [[overview|Abrahamic Covenant]]
+**Covenant:** [Abrahamic Covenant](overview.md)
 **Week 14** | Genesis 29–36
 
 ## Overview
@@ -45,11 +45,11 @@ The reunion with Esau is the narrative's quiet miracle. Jacob approaches terrifi
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 27:41–28:22]] | Flight and Bethel — the ladder, the promise, and "the gate of heaven" |
-| 2 | [[day_2\|Genesis 29:1-30]] | Laban's deception — the deceiver deceived, seven years twice over |
-| 3 | [[day_3\|Genesis 29:31–30:24]] | The sons of Jacob — twelve tribes born through rivalry and heartbreak |
-| 4 | [[day_4\|Genesis 31:1-55]] | Jacob flees Laban — stolen gods, confrontation, and the covenant at Mizpah |
-| 5 | [[day_5\|Genesis 32:1–33:20]] | Peniel — wrestling with God, a new name, and the reunion with Esau |
+| 1 | [Genesis 27:41–28:22](day_1.md) | Flight and Bethel — the ladder, the promise, and "the gate of heaven" |
+| 2 | [Genesis 29:1-30](day_2.md) | Laban's deception — the deceiver deceived, seven years twice over |
+| 3 | [Genesis 29:31–30:24](day_3.md) | The sons of Jacob — twelve tribes born through rivalry and heartbreak |
+| 4 | [Genesis 31:1-55](day_4.md) | Jacob flees Laban — stolen gods, confrontation, and the covenant at Mizpah |
+| 5 | [Genesis 32:1–33:20](day_5.md) | Peniel — wrestling with God, a new name, and the reunion with Esau |
 
 ## Key Themes
 

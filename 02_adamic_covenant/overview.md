@@ -16,8 +16,8 @@ Something breaks in Genesis 3, and nothing in the rest of Scripture will make se
 
 | Week | Title | |
 |------|-------|-|
-| 3 | [[week_03/overview\|The Fall]] | Genesis 3 |
-| 4 | [[week_04/overview\|East of Eden and the Line of Promise]] | Genesis 4–5 |
+| 3 | [The Fall](week_03/overview.md) | Genesis 3 |
+| 4 | [East of Eden and the Line of Promise](week_04/overview.md) | Genesis 4–5 |
 
 ## The Foundation
 
@@ -71,4 +71,4 @@ The fall was not an abstraction — it was two people making a choice, and a God
 
 ---
 
-**See also:** [[../01_creation_covenant/overview|Creation Covenant]] | [[../03_noahic_covenant/overview|Noahic Covenant]]
+**See also:** [Creation Covenant](../01_creation_covenant/overview.md) | [Noahic Covenant](../03_noahic_covenant/overview.md)

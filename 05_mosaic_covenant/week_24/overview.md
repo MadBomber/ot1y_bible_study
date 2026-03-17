@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 24: Holy Living
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 24** | Leviticus 17–27
 
 ## Overview
@@ -37,11 +37,11 @@ The book closes with blessings and curses (Leviticus 26) that make the covenant'
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Leviticus 16:1-34]] | The Day of Atonement — one priest, one sacrifice, two goats, and the mercy seat |
-| 2 | [[day_2\|Leviticus 17:1–18:30]] | The sanctity of blood and the boundaries of sexual holiness |
-| 3 | [[day_3\|Leviticus 19:1–20:27]] | "Be holy, for I am holy" — love your neighbor, do justice, show no partiality |
-| 4 | [[day_4\|Leviticus 21:1–24:23]] | The priests, the feasts, and the bread of the Presence |
-| 5 | [[day_5\|Leviticus 25:1–27:34]] | Sabbath rest, Jubilee, blessings, curses, and the land that belongs to God |
+| 1 | [Leviticus 16:1-34](day_1.md) | The Day of Atonement — one priest, one sacrifice, two goats, and the mercy seat |
+| 2 | [Leviticus 17:1–18:30](day_2.md) | The sanctity of blood and the boundaries of sexual holiness |
+| 3 | [Leviticus 19:1–20:27](day_3.md) | "Be holy, for I am holy" — love your neighbor, do justice, show no partiality |
+| 4 | [Leviticus 21:1–24:23](day_4.md) | The priests, the feasts, and the bread of the Presence |
+| 5 | [Leviticus 25:1–27:34](day_5.md) | Sabbath rest, Jubilee, blessings, curses, and the land that belongs to God |
 
 ## Key Themes
 

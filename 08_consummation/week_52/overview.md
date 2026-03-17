@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 52: From Garden to City
 
-**Covenant:** [[overview|Consummation]]
+**Covenant:** [Consummation](overview.md)
 **Week 52** | Isaiah 65–66, Ezekiel 47–48
 
 ## Overview
@@ -39,11 +39,11 @@ The week — and the study — closes with songs. Psalm 46: "God is our refuge a
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Isaiah 65:17-25]] | "Behold, I create new heavens and a new earth" — the world as God intends it |
-| 2 | [[day_2\|Isaiah 66:1-24]] | All flesh shall worship — the nations gathered, the new creation inaugurated |
-| 3 | [[day_3\|Ezekiel 47:1-12; 48:30-35]] | The river of life — flowing from the temple, healing everything it touches |
-| 4 | [[day_4\|Isaiah 25:6-9; 60:1-22]] | The feast, the light, and "the LORD will be your everlasting light" |
-| 5 | [[day_5\|Psalm 46; Psalm 48; Isaiah 12:1-6]] | Songs of the city of God — refuge, praise, and the wells of salvation |
+| 1 | [Isaiah 65:17-25](day_1.md) | "Behold, I create new heavens and a new earth" — the world as God intends it |
+| 2 | [Isaiah 66:1-24](day_2.md) | All flesh shall worship — the nations gathered, the new creation inaugurated |
+| 3 | [Ezekiel 47:1-12; 48:30-35](day_3.md) | The river of life — flowing from the temple, healing everything it touches |
+| 4 | [Isaiah 25:6-9; 60:1-22](day_4.md) | The feast, the light, and "the LORD will be your everlasting light" |
+| 5 | [Psalm 46; Psalm 48; Isaiah 12:1-6](day_5.md) | Songs of the city of God — refuge, praise, and the wells of salvation |
 
 ## Key Themes
 

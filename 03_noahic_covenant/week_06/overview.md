@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 6: The Flood
 
-**Covenant:** [[overview|Noahic Covenant]]
+**Covenant:** [Noahic Covenant](overview.md)
 **Week 6** | Genesis 7–8
 
 ## Overview
@@ -35,11 +35,11 @@ And Noah's first act on dry ground is worship. Not shelter. Not agriculture. Not
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 7:1-12]] | Enter the ark — "The LORD shut him in" |
-| 2 | [[day_2\|Genesis 7:13-24]] | The waters prevail — de-creation and the end of the old world |
-| 3 | [[day_3\|Genesis 8:1-12]] | "But God remembered Noah" — the waters recede, the dove returns |
-| 4 | [[day_4\|Genesis 8:13-22]] | Dry ground, the first altar, and God's promise to sustain the earth |
-| 5 | [[day_5\|1 Peter 3:18-22]] | Peter reads the flood — baptism, resurrection, and salvation through water |
+| 1 | [Genesis 7:1-12](day_1.md) | Enter the ark — "The LORD shut him in" |
+| 2 | [Genesis 7:13-24](day_2.md) | The waters prevail — de-creation and the end of the old world |
+| 3 | [Genesis 8:1-12](day_3.md) | "But God remembered Noah" — the waters recede, the dove returns |
+| 4 | [Genesis 8:13-22](day_4.md) | Dry ground, the first altar, and God's promise to sustain the earth |
+| 5 | [1 Peter 3:18-22](day_5.md) | Peter reads the flood — baptism, resurrection, and salvation through water |
 
 ## Key Themes
 

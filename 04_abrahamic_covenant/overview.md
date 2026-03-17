@@ -16,14 +16,14 @@ In eight weeks you will journey with one family through whom God intends to bles
 
 | Week | Title | |
 |------|-------|-|
-| 9 | [[week_09/overview\|The Call of Abram]] | Genesis 12–14 |
-| 10 | [[week_10/overview\|Covenant of Promise]] | Genesis 15–17 |
-| 11 | [[week_11/overview\|Testing and Judgment]] | Genesis 18–20 |
-| 12 | [[week_12/overview\|The Son of Promise]] | Genesis 21–24 |
-| 13 | [[week_13/overview\|Jacob and Esau]] | Genesis 25–28 |
-| 14 | [[week_14/overview\|Jacob Becomes Israel]] | Genesis 29–36 |
-| 15 | [[week_15/overview\|Joseph: Sold and Exalted]] | Genesis 37–41 |
-| 16 | [[week_16/overview\|Joseph: Reconciliation and Providence]] | Genesis 42–50 |
+| 9 | [The Call of Abram](week_09/overview.md) | Genesis 12–14 |
+| 10 | [Covenant of Promise](week_10/overview.md) | Genesis 15–17 |
+| 11 | [Testing and Judgment](week_11/overview.md) | Genesis 18–20 |
+| 12 | [The Son of Promise](week_12/overview.md) | Genesis 21–24 |
+| 13 | [Jacob and Esau](week_13/overview.md) | Genesis 25–28 |
+| 14 | [Jacob Becomes Israel](week_14/overview.md) | Genesis 29–36 |
+| 15 | [Joseph: Sold and Exalted](week_15/overview.md) | Genesis 37–41 |
+| 16 | [Joseph: Reconciliation and Providence](week_16/overview.md) | Genesis 42–50 |
 
 ## The Foundation
 
@@ -78,4 +78,4 @@ The covenant that would bless "all the families of the earth" began with one man
 
 ---
 
-**See also:** [[../03_noahic_covenant/overview|Noahic Covenant]] | [[../05_mosaic_covenant/overview|Mosaic Covenant]]
+**See also:** [Noahic Covenant](../03_noahic_covenant/overview.md) | [Mosaic Covenant](../05_mosaic_covenant/overview.md)

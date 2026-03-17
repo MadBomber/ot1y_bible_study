@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 29: Conquest and Settlement
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 29** | Joshua 13–24
 
 ## Overview
@@ -39,11 +39,11 @@ Joshua's farewell in chapters 23-24 echoes Moses' farewell in Deuteronomy — th
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Joshua 13:1–14:15]] | "Much land remains" — the division begins, and Caleb claims his mountain |
-| 2 | [[day_2\|Joshua 15:1–19:51]] | Tribal allotments — the promise made specific, acre by acre |
-| 3 | [[day_3\|Joshua 20:1–21:45]] | Cities of refuge, Levitical cities, and "not one word has failed" |
-| 4 | [[day_4\|Joshua 22:1-34]] | The eastern tribes return — an altar of witness, a near-civil war averted |
-| 5 | [[day_5\|Joshua 23:1–24:33]] | Joshua's farewell — "Choose this day whom you will serve" |
+| 1 | [Joshua 13:1–14:15](day_1.md) | "Much land remains" — the division begins, and Caleb claims his mountain |
+| 2 | [Joshua 15:1–19:51](day_2.md) | Tribal allotments — the promise made specific, acre by acre |
+| 3 | [Joshua 20:1–21:45](day_3.md) | Cities of refuge, Levitical cities, and "not one word has failed" |
+| 4 | [Joshua 22:1-34](day_4.md) | The eastern tribes return — an altar of witness, a near-civil war averted |
+| 5 | [Joshua 23:1–24:33](day_5.md) | Joshua's farewell — "Choose this day whom you will serve" |
 
 ## Key Themes
 

@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 3: The Fall
 
-**Covenant:** [[overview|Adamic Covenant]]
+**Covenant:** [Adamic Covenant](overview.md)
 **Week 3** | Genesis 3
 
 ## Overview
@@ -39,11 +39,11 @@ The week closes with two passages that reach forward from the fall. Isaiah 7:14 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 3:1-7]] | The temptation — distortion, desire, and the silence of the man who was with her |
-| 2 | [[day_2\|Genesis 3:8-15]] | "Where are you?" — God pursues, confronts, and speaks the first gospel |
-| 3 | [[day_3\|Genesis 3:16-24]] | Consequences and covering — pain, thorns, death, animal skins, and the guarded gate |
-| 4 | [[day_4\|Isaiah 7:14; 9:6-7]] | The seed foretold — Immanuel, and the child whose name is Mighty God |
-| 5 | [[day_5\|Psalm 51:1-12]] | The fall relived — David's confession and the cry for a clean heart |
+| 1 | [Genesis 3:1-7](day_1.md) | The temptation — distortion, desire, and the silence of the man who was with her |
+| 2 | [Genesis 3:8-15](day_2.md) | "Where are you?" — God pursues, confronts, and speaks the first gospel |
+| 3 | [Genesis 3:16-24](day_3.md) | Consequences and covering — pain, thorns, death, animal skins, and the guarded gate |
+| 4 | [Isaiah 7:14; 9:6-7](day_4.md) | The seed foretold — Immanuel, and the child whose name is Mighty God |
+| 5 | [Psalm 51:1-12](day_5.md) | The fall relived — David's confession and the cry for a clean heart |
 
 ## Key Themes
 

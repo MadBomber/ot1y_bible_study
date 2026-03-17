@@ -42,4 +42,4 @@ The Christological connection is direct. Jesus, the one in whom the Spirit rests
 
 ---
 
-[[overview|Overview]] | [[day_1|Day 1]] | [[day_2|Day 2]] | [[day_3|Day 3]] | [[day_4|Day 4]] | [[day_5|Day 5]] | [[discussion|Discussion]] | **Memory Verse**
+[Overview](overview.md) | [Day 1](day_1.md) | [Day 2](day_2.md) | [Day 3](day_3.md) | [Day 4](day_4.md) | [Day 5](day_5.md) | [Discussion](discussion.md) | **Memory Verse**

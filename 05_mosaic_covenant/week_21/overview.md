@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 21: The Tabernacle
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 21** | Exodus 25–31
 
 ## Overview
@@ -35,11 +35,11 @@ The priestly garments of Exodus 28 are described as garments of "glory and beaut
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Exodus 25:1-40]] | The ark, the mercy seat, and the table of showbread — God's throne and God's table |
-| 2 | [[day_2\|Exodus 26:1-37]] | The tabernacle structure — curtains, frames, and the veil that separates |
-| 3 | [[day_3\|Exodus 27:1–28:43]] | The bronze altar, the courtyard, and the priestly garments — beauty and blood |
-| 4 | [[day_4\|Exodus 29:1-46]] | The consecration of priests — anointed, washed, and clothed for God's service |
-| 5 | [[day_5\|Exodus 30:1–31:18]] | The altar of incense, the anointing oil, and the Sabbath — finishing with rest |
+| 1 | [Exodus 25:1-40](day_1.md) | The ark, the mercy seat, and the table of showbread — God's throne and God's table |
+| 2 | [Exodus 26:1-37](day_2.md) | The tabernacle structure — curtains, frames, and the veil that separates |
+| 3 | [Exodus 27:1–28:43](day_3.md) | The bronze altar, the courtyard, and the priestly garments — beauty and blood |
+| 4 | [Exodus 29:1-46](day_4.md) | The consecration of priests — anointed, washed, and clothed for God's service |
+| 5 | [Exodus 30:1–31:18](day_5.md) | The altar of incense, the anointing oil, and the Sabbath — finishing with rest |
 
 ## Key Themes
 

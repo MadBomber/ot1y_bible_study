@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 28: Crossing the Jordan
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 28** | Joshua 1–12
 
 ## Overview
@@ -39,11 +39,11 @@ The southern and northern campaigns follow (Joshua 9-12), summarized with sweepi
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Joshua 1:1-18]] | "Be strong and courageous" — Joshua commissioned, the people respond |
-| 2 | [[day_2\|Joshua 2:1–3:17]] | Rahab's faith and the Jordan crossing — dry ground again |
-| 3 | [[day_3\|Joshua 4:1–6:27]] | Twelve stones, circumcision renewed, and Jericho falls by worship |
-| 4 | [[day_4\|Joshua 7:1–8:35]] | Achan's sin and Ai — hidden disobedience, public defeat, and renewal |
-| 5 | [[day_5\|Joshua 9:1–12:24]] | Gibeonite deception, the sun stands still, and the conquest summarized |
+| 1 | [Joshua 1:1-18](day_1.md) | "Be strong and courageous" — Joshua commissioned, the people respond |
+| 2 | [Joshua 2:1–3:17](day_2.md) | Rahab's faith and the Jordan crossing — dry ground again |
+| 3 | [Joshua 4:1–6:27](day_3.md) | Twelve stones, circumcision renewed, and Jericho falls by worship |
+| 4 | [Joshua 7:1–8:35](day_4.md) | Achan's sin and Ai — hidden disobedience, public defeat, and renewal |
+| 5 | [Joshua 9:1–12:24](day_5.md) | Gibeonite deception, the sun stands still, and the conquest summarized |
 
 ## Key Themes
 

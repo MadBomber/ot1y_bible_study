@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 26: Wandering and Rebellion
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 26** | Numbers 15–36
 
 ## Overview
@@ -37,11 +37,11 @@ The Balaam narrative (Numbers 22-24) is one of the strangest and most beautiful 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Numbers 15:1–16:50]] | Korah's rebellion — the earth opens, authority confirmed |
-| 2 | [[day_2\|Numbers 17:1–19:22]] | Aaron's rod buds, the red heifer, and the ashes of purification |
-| 3 | [[day_3\|Numbers 20:1–21:35]] | Meribah — Moses strikes the rock, and the consequence is final |
-| 4 | [[day_4\|Numbers 22:1–24:25]] | Balaam — the prophet who cannot curse what God has blessed |
-| 5 | [[day_5\|Numbers 25:1–36:13]] | Baal Peor, the second census, and preparations for the land |
+| 1 | [Numbers 15:1–16:50](day_1.md) | Korah's rebellion — the earth opens, authority confirmed |
+| 2 | [Numbers 17:1–19:22](day_2.md) | Aaron's rod buds, the red heifer, and the ashes of purification |
+| 3 | [Numbers 20:1–21:35](day_3.md) | Meribah — Moses strikes the rock, and the consequence is final |
+| 4 | [Numbers 22:1–24:25](day_4.md) | Balaam — the prophet who cannot curse what God has blessed |
+| 5 | [Numbers 25:1–36:13](day_5.md) | Baal Peor, the second census, and preparations for the land |
 
 ## Key Themes
 

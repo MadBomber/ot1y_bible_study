@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 4: East of Eden and the Line of Promise
 
-**Covenant:** [[overview|Adamic Covenant]]
+**Covenant:** [Adamic Covenant](overview.md)
 **Week 4** | Genesis 4–5
 
 ## Overview
@@ -45,11 +45,11 @@ And Noah — the tenth name, the end of the line — is born with a prophecy: "O
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Genesis 4:1-16]] | Cain and Abel — two offerings, a predator at the door, and the blood that cries out |
-| 2 | [[day_2\|Genesis 4:17-26]] | Two lines diverge — Cain's city, Lamech's war song, and Seth's worship |
-| 3 | [[day_3\|Genesis 5:1-20]] | The genealogy begins — "and he died" tolls like a bell across ten lifetimes |
-| 4 | [[day_4\|Genesis 5:21-32]] | Enoch walks with God and is not; Noah is born with a prophecy of rest |
-| 5 | [[day_5\|Jude 14-15; Hebrews 11:4-6]] | The NT opens Genesis 4–5 — Abel's faith, Enoch's translation, the judgment to come |
+| 1 | [Genesis 4:1-16](day_1.md) | Cain and Abel — two offerings, a predator at the door, and the blood that cries out |
+| 2 | [Genesis 4:17-26](day_2.md) | Two lines diverge — Cain's city, Lamech's war song, and Seth's worship |
+| 3 | [Genesis 5:1-20](day_3.md) | The genealogy begins — "and he died" tolls like a bell across ten lifetimes |
+| 4 | [Genesis 5:21-32](day_4.md) | Enoch walks with God and is not; Noah is born with a prophecy of rest |
+| 5 | [Jude 14-15; Hebrews 11:4-6](day_5.md) | The NT opens Genesis 4–5 — Abel's faith, Enoch's translation, the judgment to come |
 
 ## Key Themes
 

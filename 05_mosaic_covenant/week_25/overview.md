@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 25: The Wilderness Begins
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 25** | Numbers 1–14
 
 ## Overview
@@ -41,11 +41,11 @@ God's response is judgment tempered by mercy. The generation that refused to ent
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Numbers 1:1–2:34]] | The census and the camp — Israel organized around God's presence |
-| 2 | [[day_2\|Numbers 3:1–4:49]] | The Levites — guardians of the holy, carriers of the tabernacle |
-| 3 | [[day_3\|Numbers 5:1–6:27]] | Purity, the Nazirite vow, and the Aaronic blessing |
-| 4 | [[day_4\|Numbers 9:1–10:36]] | The second Passover, the cloud lifts, and Israel marches |
-| 5 | [[day_5\|Numbers 11:1–14:45]] | Complaint, quail, the spies, and the verdict — forty years |
+| 1 | [Numbers 1:1–2:34](day_1.md) | The census and the camp — Israel organized around God's presence |
+| 2 | [Numbers 3:1–4:49](day_2.md) | The Levites — guardians of the holy, carriers of the tabernacle |
+| 3 | [Numbers 5:1–6:27](day_3.md) | Purity, the Nazirite vow, and the Aaronic blessing |
+| 4 | [Numbers 9:1–10:36](day_4.md) | The second Passover, the cloud lifts, and Israel marches |
+| 5 | [Numbers 11:1–14:45](day_5.md) | Complaint, quail, the spies, and the verdict — forty years |
 
 ## Key Themes
 

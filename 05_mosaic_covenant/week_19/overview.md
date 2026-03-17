@@ -16,7 +16,7 @@ layout: page
 ---
 # Week 19: The Exodus and the Sea
 
-**Covenant:** [[overview|Mosaic Covenant]]
+**Covenant:** [Mosaic Covenant](overview.md)
 **Week 19** | Exodus 13–18
 
 ## Overview
@@ -35,11 +35,11 @@ But redemption from Egypt is immediately followed by testing in the wilderness. 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [[day_1\|Exodus 12:43–13:22]] | The departure — unleavened bread, consecration of the firstborn, and the pillar of cloud and fire |
-| 2 | [[day_2\|Exodus 14:1-31]] | The Red Sea — Pharaoh's pursuit, Moses' faith, the waters divided |
-| 3 | [[day_3\|Exodus 15:1-27]] | The Song of the Sea — "The LORD is my strength and my song" |
-| 4 | [[day_4\|Exodus 16:1-36]] | Manna from heaven — daily bread and the test of trust |
-| 5 | [[day_5\|Exodus 17:1–18:27]] | Water from the rock, battle with Amalek, and Jethro's counsel |
+| 1 | [Exodus 12:43–13:22](day_1.md) | The departure — unleavened bread, consecration of the firstborn, and the pillar of cloud and fire |
+| 2 | [Exodus 14:1-31](day_2.md) | The Red Sea — Pharaoh's pursuit, Moses' faith, the waters divided |
+| 3 | [Exodus 15:1-27](day_3.md) | The Song of the Sea — "The LORD is my strength and my song" |
+| 4 | [Exodus 16:1-36](day_4.md) | Manna from heaven — daily bread and the test of trust |
+| 5 | [Exodus 17:1–18:27](day_5.md) | Water from the rock, battle with Amalek, and Jethro's counsel |
 
 ## Key Themes
 
