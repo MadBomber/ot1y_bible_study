@@ -14,14 +14,14 @@ Fifty-two weeks. Five days per week. 260 individual studies. From "In the beginn
 
 | # | Covenant | Weeks | Focus | Link |
 |---|----------|-------|-------|------|
-| 1 | **Creation** | 1--2 | Christ as the Word and Creator | [01_creation_covenant](01_creation_covenant/) |
-| 2 | **Adam** | 3--4 | The Promised Seed | [02_adamic_covenant](02_adamic_covenant/) |
-| 3 | **Noah** | 5--8 | Judgment and Salvation | [03_noahic_covenant](03_noahic_covenant/) |
-| 4 | **Abraham** | 9--16 | Blessing to All Nations | [04_abrahamic_covenant](04_abrahamic_covenant/) |
-| 5 | **Moses** | 17--30 | Law, Lamb, and Tabernacle | [05_mosaic_covenant](05_mosaic_covenant/) |
-| 6 | **David** | 31--44 | The Eternal King | [06_davidic_covenant](06_davidic_covenant/) |
-| 7 | **New Covenant** | 45--49 | The Better Mediator | [07_new_covenant](07_new_covenant/) |
-| 8 | **Consummation** | 50--52 | The Returning King and the World Made Whole | [08_consummation](08_consummation/) |
+| 1 | **Creation** | 1--2 | Christ as the Word and Creator | [01_creation_covenant](01_creation_covenant/overview.md) |
+| 2 | **Adam** | 3--4 | The Promised Seed | [02_adamic_covenant](02_adamic_covenant/overview.md) |
+| 3 | **Noah** | 5--8 | Judgment and Salvation | [03_noahic_covenant](03_noahic_covenant/overview.md) |
+| 4 | **Abraham** | 9--16 | Blessing to All Nations | [04_abrahamic_covenant](04_abrahamic_covenant/overview.md) |
+| 5 | **Moses** | 17--30 | Law, Lamb, and Tabernacle | [05_mosaic_covenant](05_mosaic_covenant/overview.md) |
+| 6 | **David** | 31--44 | The Eternal King | [06_davidic_covenant](06_davidic_covenant/overview.md) |
+| 7 | **New Covenant** | 45--49 | The Better Mediator | [07_new_covenant](07_new_covenant/overview.md) |
+| 8 | **Consummation** | 50--52 | The Returning King and the World Made Whole | [08_consummation](08_consummation/overview.md) |
 
 ---
 
